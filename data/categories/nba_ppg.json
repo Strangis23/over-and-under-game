@@ -11,11 +11,29 @@
   "theme_color": "#FF8C00",
   "items": [
     {
+      "name": "Rick Barry",
+      "subtext": "Forward \u2022 Draft Class 1965",
+      "value": 30.46,
+      "display_value": "30.46 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1965,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/p_600013.webp"
+    },
+    {
       "name": "Michael Jordan",
       "subtext": "Guard \u2022 Bulls",
       "value": 30.12,
       "display_value": "30.12 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/893.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -37,7 +55,6 @@
       "subtext": "Center \u2022 Warriors",
       "value": 30.07,
       "display_value": "30.07 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76375.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -53,15 +70,13 @@
       "image": "res://assets/images/nba/wilt_chamberlain.webp"
     },
     {
-      "name": "Luka Doncic",
+      "name": "Luka Don\u010di\u0107",
       "subtext": "Guard \u2022 Mavericks",
-      "value": 28.71,
-      "display_value": "28.71 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+      "value": 29.22,
+      "display_value": "29.22 PPG",
       "position": "Guard",
       "positions": [
-        "Guard",
-        "Forward"
+        "Guard"
       ],
       "team": "Mavericks",
       "team_full": "Dallas Mavericks",
@@ -71,15 +86,72 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023,
-      "image": "res://assets/images/nba/luka_doncic.webp"
+      "to_year": 2026,
+      "image": "res://assets/images/nba/luka_don\u010di\u0107.webp"
+    },
+    {
+      "name": "Julius Erving",
+      "subtext": "Forward \u2022 Bucks",
+      "value": 28.65,
+      "display_value": "28.65 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1972,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/player_76681.webp"
+    },
+    {
+      "name": "Joel Embiid",
+      "subtext": "Forward \u2022 76ers",
+      "value": 27.64,
+      "display_value": "27.64 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2014,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/joel_embiid.webp"
+    },
+    {
+      "name": "Elgin Baylor",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 27.36,
+      "display_value": "27.36 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1958,
+      "to_year": 1971,
+      "image": "res://assets/images/nba/p_76127.webp"
     },
     {
       "name": "Kevin Durant",
       "subtext": "Forward \u2022 Suns",
-      "value": 27.27,
-      "display_value": "27.27 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
+      "value": 27.14,
+      "display_value": "27.14 PPG",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -97,31 +169,10 @@
       "image": "res://assets/images/nba/kevin_durant.webp"
     },
     {
-      "name": "Elgin Baylor",
-      "subtext": "Forward \u2022 Lakers",
-      "value": 27.36,
-      "display_value": "27.36 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76127.png",
-      "position": "Forward",
-      "positions": [
-        "Forward"
-      ],
-      "team": "Lakers",
-      "team_full": "Los Angeles Lakers",
-      "decades": [
-        "1980s & Prior"
-      ],
-      "status": "Retired",
-      "from_year": 1958,
-      "to_year": 1971,
-      "image": "res://assets/images/nba/p_76127.webp"
-    },
-    {
       "name": "Jerry West",
       "subtext": "Guard \u2022 Lakers",
       "value": 27.03,
       "display_value": "27.03 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78497.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -137,11 +188,52 @@
       "image": "res://assets/images/nba/p_78497.webp"
     },
     {
+      "name": "LeBron James",
+      "subtext": "Forward \u2022 Cavaliers",
+      "value": 26.78,
+      "display_value": "26.78 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/lebron_james.webp"
+    },
+    {
+      "name": "Allen Iverson",
+      "subtext": "Guard \u2022 76ers",
+      "value": 26.66,
+      "display_value": "26.66 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1996,
+      "to_year": 2010,
+      "image": "res://assets/images/nba/allen_iverson.webp"
+    },
+    {
       "name": "Bob Pettit",
       "subtext": "Forward \u2022 Hawks",
       "value": 26.36,
       "display_value": "26.36 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77847.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -157,11 +249,49 @@
       "image": "res://assets/images/nba/p_77847.webp"
     },
     {
+      "name": "George Gervin",
+      "subtext": "Guard \u2022 Spurs",
+      "value": 26.18,
+      "display_value": "26.18 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1986,
+      "image": "res://assets/images/nba/george_gervin.webp"
+    },
+    {
+      "name": "John Brisker",
+      "subtext": "Forward \u2022 1972\u20131974",
+      "value": 26.09,
+      "display_value": "26.09 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "SuperSonics",
+      "team_full": "SuperSonics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1972,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_76256.webp"
+    },
+    {
       "name": "Oscar Robertson",
       "subtext": "Guard \u2022 Royals",
       "value": 25.68,
       "display_value": "25.68 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600015.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -177,32 +307,67 @@
       "image": "res://assets/images/nba/p_600015.webp"
     },
     {
-      "name": "Trae Young",
-      "subtext": "Guard \u2022 Hawks",
-      "value": 25.5,
-      "display_value": "25.5 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
+      "name": "Dan Issel",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 25.65,
+      "display_value": "25.65 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1980,
+      "image": "res://assets/images/nba/player_77097.webp"
+    },
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "subtext": "Guard \u2022 Combine 2018",
+      "value": 25.3,
+      "display_value": "25.30 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
       ],
-      "team": "Hawks",
-      "team_full": "Atlanta Hawks",
+      "team": "NBA",
+      "team_full": "NBA League",
       "decades": [
-        "2010s",
-        "2020s"
+        "2010s"
       ],
-      "status": "Active",
+      "status": "Retired",
       "from_year": 2018,
-      "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629027.webp"
+      "to_year": 2018,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "George McGinnis",
+      "subtext": "Forward \u2022 76ers",
+      "value": 25.22,
+      "display_value": "25.22 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1973,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/player_77532.webp"
     },
     {
       "name": "Damian Lillard",
       "subtext": "Guard \u2022 Trail Blazers",
-      "value": 25.13,
-      "display_value": "25.13 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
+      "value": 25.11,
+      "display_value": "25.11 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -219,11 +384,50 @@
       "image": "res://assets/images/nba/damian_lillard.webp"
     },
     {
+      "name": "Trae Young",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 25.08,
+      "display_value": "25.08 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629027.webp"
+    },
+    {
+      "name": "Donovan Mitchell",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 25.08,
+      "display_value": "25.08 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628378.webp"
+    },
+    {
       "name": "Karl Malone",
       "subtext": "Forward \u2022 Jazz",
       "value": 25.02,
       "display_value": "25.02 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/252.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -245,7 +449,6 @@
       "subtext": "Guard \u2022 Lakers",
       "value": 24.99,
       "display_value": "24.99 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/977.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -264,31 +467,30 @@
       "image": "res://assets/images/nba/kobe_bryant.webp"
     },
     {
-      "name": "Rick Barry",
-      "subtext": "Forward \u2022 Warriors",
-      "value": 24.78,
-      "display_value": "24.78 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600013.png",
+      "name": "Dominique Wilkins",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 24.83,
+      "display_value": "24.83 PPG",
       "position": "Forward",
       "positions": [
         "Forward"
       ],
-      "team": "Warriors",
-      "team_full": "Golden State Warriors",
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
       "decades": [
-        "1980s & Prior"
+        "1980s & Prior",
+        "1990s"
       ],
       "status": "Retired",
-      "from_year": 1965,
-      "to_year": 1979,
-      "image": "res://assets/images/nba/p_600013.webp"
+      "from_year": 1982,
+      "to_year": 1998,
+      "image": "res://assets/images/nba/p_1122.webp"
     },
     {
       "name": "Stephen Curry",
       "subtext": "Guard \u2022 Warriors",
-      "value": 24.75,
-      "display_value": "24.75 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+      "value": 24.82,
+      "display_value": "24.82 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -306,74 +508,10 @@
       "image": "res://assets/images/nba/stephen_curry.webp"
     },
     {
-      "name": "Dominique Wilkins",
-      "subtext": "Forward \u2022 Hawks",
-      "value": 24.83,
-      "display_value": "24.83 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.png",
-      "position": "Forward",
-      "positions": [
-        "Forward"
-      ],
-      "team": "Hawks",
-      "team_full": "Atlanta Hawks",
-      "decades": [
-        "1980s & Prior",
-        "1990s"
-      ],
-      "status": "Retired",
-      "from_year": 1982,
-      "to_year": 1998,
-      "image": "res://assets/images/nba/p_1122.webp"
-    },
-    {
-      "name": "Donovan Mitchell",
-      "subtext": "Guard \u2022 Cavaliers",
-      "value": 24.8,
-      "display_value": "24.8 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
-      "position": "Guard",
-      "positions": [
-        "Guard"
-      ],
-      "team": "Cavaliers",
-      "team_full": "Cleveland Cavaliers",
-      "decades": [
-        "2010s",
-        "2020s"
-      ],
-      "status": "Active",
-      "from_year": 2017,
-      "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628378.webp"
-    },
-    {
-      "name": "Zion Williamson",
-      "subtext": "Forward \u2022 Pelicans",
-      "value": 24.7,
-      "display_value": "24.7 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
-      "position": "Forward",
-      "positions": [
-        "Forward"
-      ],
-      "team": "Pelicans",
-      "team_full": "New Orleans Pelicans",
-      "decades": [
-        "2010s",
-        "2020s"
-      ],
-      "status": "Active",
-      "from_year": 2019,
-      "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629627.webp"
-    },
-    {
       "name": "Kareem Abdul-Jabbar",
       "subtext": "Center \u2022 Lakers",
       "value": 24.61,
       "display_value": "24.61 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76003.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -389,11 +527,68 @@
       "image": "res://assets/images/nba/kareem_abdul_jabbar.webp"
     },
     {
+      "name": "Devin Booker",
+      "subtext": "Guard \u2022 Combine 2015",
+      "value": 24.59,
+      "display_value": "24.59 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2015,
+      "to_year": 2015,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Anthony Edwards",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 24.56,
+      "display_value": "24.56 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630162.webp"
+    },
+    {
+      "name": "Larry Bird",
+      "subtext": "Forward \u2022 Celtics",
+      "value": 24.29,
+      "display_value": "24.29 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1979,
+      "to_year": 1992,
+      "image": "res://assets/images/nba/larry_bird.webp"
+    },
+    {
       "name": "Adrian Dantley",
       "subtext": "Forward \u2022 Jazz",
       "value": 24.27,
       "display_value": "24.27 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76504.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -411,10 +606,9 @@
     },
     {
       "name": "Pete Maravich",
-      "subtext": "Guard \u2022 Jazz",
+      "subtext": "Guard \u2022 Draft Class 1970",
       "value": 24.24,
       "display_value": "24.24 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77459.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -430,14 +624,33 @@
       "image": "res://assets/images/nba/p_77459.webp"
     },
     {
-      "name": "James Harden",
-      "subtext": "Guard \u2022 76ers",
-      "value": 24.12,
-      "display_value": "24.12 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
-      "position": "Guard",
+      "name": "Giannis Antetokounmpo",
+      "subtext": "Forward \u2022 Bucks",
+      "value": 24.06,
+      "display_value": "24.06 PPG",
+      "position": "Forward",
       "positions": [
-        "Guard"
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2013,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/giannis_antetokounmpo.webp"
+    },
+    {
+      "name": "James Harden",
+      "subtext": "Forward \u2022 76ers",
+      "value": 24.03,
+      "display_value": "24.03 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
       ],
       "team": "76ers",
       "team_full": "Philadelphia 76ers",
@@ -453,10 +666,9 @@
     },
     {
       "name": "Anthony Davis",
-      "subtext": "Forward \u2022 Lakers",
-      "value": 24.1,
-      "display_value": "24.1 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
+      "subtext": "Forward \u2022 Draft Class 2012",
+      "value": 24.02,
+      "display_value": "24.02 PPG",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -478,7 +690,6 @@
       "subtext": "Center \u2022 Lakers",
       "value": 23.69,
       "display_value": "23.69 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/406.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -497,10 +708,9 @@
     },
     {
       "name": "Kyrie Irving",
-      "subtext": "Guard \u2022 Mavericks",
-      "value": 23.6,
-      "display_value": "23.6 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png",
+      "subtext": "Guard \u2022 Draft Class 2011",
+      "value": 23.66,
+      "display_value": "23.66 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -517,32 +727,10 @@
       "image": "res://assets/images/nba/p_202681.webp"
     },
     {
-      "name": "Giannis Antetokounmpo",
-      "subtext": "Forward \u2022 Bucks",
-      "value": 23.4,
-      "display_value": "23.4 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
-      "position": "Forward",
-      "positions": [
-        "Forward"
-      ],
-      "team": "Bucks",
-      "team_full": "Milwaukee Bucks",
-      "decades": [
-        "2010s",
-        "2020s"
-      ],
-      "status": "Active",
-      "from_year": 2013,
-      "to_year": 2023,
-      "image": "res://assets/images/nba/giannis_antetokounmpo.webp"
-    },
-    {
       "name": "Jayson Tatum",
-      "subtext": "Guard \u2022 Celtics",
-      "value": 23.1,
-      "display_value": "23.1 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 23.51,
+      "display_value": "23.51 PPG",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -560,31 +748,167 @@
       "image": "res://assets/images/nba/p_1628369.webp"
     },
     {
-      "name": "Anthony Edwards",
-      "subtext": "Guard \u2022 Timberwolves",
-      "value": 22.9,
-      "display_value": "22.9 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png",
-      "position": "Guard",
+      "name": "George Mikan",
+      "subtext": "Center \u2022 1948\u20131955",
+      "value": 23.13,
+      "display_value": "23.13 PPG",
+      "position": "Center",
       "positions": [
-        "Guard"
+        "Center"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1948,
+      "to_year": 1955,
+      "image": "res://assets/images/nba/p_600012.webp"
+    },
+    {
+      "name": "Paul Arizin",
+      "subtext": "Forward \u2022 1950\u20131961",
+      "value": 22.81,
+      "display_value": "22.81 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1950,
+      "to_year": 1961,
+      "image": "res://assets/images/nba/p_76056.webp"
+    },
+    {
+      "name": "Karl-Anthony Towns",
+      "subtext": "Forward \u2022 Timberwolves",
+      "value": 22.76,
+      "display_value": "22.76 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
       ],
       "team": "Timberwolves",
       "team_full": "Minnesota Timberwolves",
       "decades": [
+        "2010s",
         "2020s"
       ],
       "status": "Active",
-      "from_year": 2020,
-      "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630162.webp"
+      "from_year": 2015,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/player_1626157.webp"
+    },
+    {
+      "name": "David Thompson",
+      "subtext": "Guard \u2022 Draft Class 1975",
+      "value": 22.67,
+      "display_value": "22.67 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/p_78326.webp"
+    },
+    {
+      "name": "Bernard King",
+      "subtext": "Forward \u2022 Draft Class 1977",
+      "value": 22.49,
+      "display_value": "22.49 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1977,
+      "to_year": 1992,
+      "image": "res://assets/images/nba/p_77264.webp"
+    },
+    {
+      "name": "Carmelo Anthony",
+      "subtext": "Forward \u2022 Nuggets",
+      "value": 22.45,
+      "display_value": "22.45 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2022,
+      "image": "res://assets/images/nba/carmelo_anthony.webp"
+    },
+    {
+      "name": "Artis Gilmore",
+      "subtext": "Center \u2022 1976\u20131987",
+      "value": 22.29,
+      "display_value": "22.29 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1987,
+      "image": "res://assets/images/nba/artis_gilmore.webp"
+    },
+    {
+      "name": "Nikola Joki\u0107",
+      "subtext": "Center \u2022 Nuggets",
+      "value": 22.23,
+      "display_value": "22.23 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2015,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/nikola_joki\u0107.webp"
     },
     {
       "name": "Charles Barkley",
       "subtext": "Forward \u2022 76ers",
       "value": 22.14,
       "display_value": "22.14 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/787.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -601,11 +925,29 @@
       "image": "res://assets/images/nba/p_787.webp"
     },
     {
+      "name": "Bob McAdoo",
+      "subtext": "Center \u2022 Draft Class 1972",
+      "value": 22.05,
+      "display_value": "22.05 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Braves",
+      "team_full": "Braves",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1972,
+      "to_year": 1985,
+      "image": "res://assets/images/nba/p_77498.webp"
+    },
+    {
       "name": "Dwyane Wade",
       "subtext": "Guard \u2022 Heat",
-      "value": 22.0,
-      "display_value": "22.0 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2548.png",
+      "value": 21.98,
+      "display_value": "21.98 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -622,11 +964,70 @@
       "image": "res://assets/images/nba/p_2548.webp"
     },
     {
+      "name": "Geoff Petrie",
+      "subtext": "Guard \u2022 Draft Class 1970",
+      "value": 21.82,
+      "display_value": "21.82 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/p_77844.webp"
+    },
+    {
+      "name": "Hakeem Olajuwon",
+      "subtext": "Center \u2022 Rockets",
+      "value": 21.77,
+      "display_value": "21.77 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1984,
+      "to_year": 2002,
+      "image": "res://assets/images/nba/hakeem_olajuwon.webp"
+    },
+    {
+      "name": "Alex English",
+      "subtext": "Forward \u2022 Nuggets",
+      "value": 21.47,
+      "display_value": "21.47 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1990,
+      "image": "res://assets/images/nba/p_76673.webp"
+    },
+    {
       "name": "Bradley Beal",
-      "subtext": "Guard \u2022 Suns",
-      "value": 21.9,
-      "display_value": "21.9 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png",
+      "subtext": "Guard \u2022 Draft Class 2012",
+      "value": 21.44,
+      "display_value": "21.44 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -643,33 +1044,109 @@
       "image": "res://assets/images/nba/p_203078.webp"
     },
     {
-      "name": "Russell Westbrook",
-      "subtext": "Guard \u2022 Clippers",
-      "value": 21.7,
-      "display_value": "21.7 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png",
+      "name": "Bob Verga",
+      "subtext": "Guard \u2022 Draft Class 1967",
+      "value": 21.23,
+      "display_value": "21.23 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
       ],
-      "team": "Clippers",
-      "team_full": "Los Angeles Clippers",
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1973,
+      "to_year": 1973,
+      "image": "res://assets/images/nba/p_78413.webp"
+    },
+    {
+      "name": "Billy Cunningham",
+      "subtext": "Forward \u2022 76ers",
+      "value": 21.18,
+      "display_value": "21.18 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1965,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/player_76487.webp"
+    },
+    {
+      "name": "Larry Jones",
+      "subtext": "Guard \u2022 Draft Class 1964",
+      "value": 21.16,
+      "display_value": "21.16 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1973,
+      "image": "res://assets/images/nba/p_77200.webp"
+    },
+    {
+      "name": "DeMar DeRozan",
+      "subtext": "Guard \u2022 Raptors",
+      "value": 21.13,
+      "display_value": "21.13 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
       "decades": [
         "2000s",
         "2010s",
         "2020s"
       ],
+      "status": "Retired",
+      "from_year": 2009,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/demar_derozan.webp"
+    },
+    {
+      "name": "De'Aaron Fox",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 21.12,
+      "display_value": "21.12 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
       "status": "Active",
-      "from_year": 2008,
+      "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201566.webp"
+      "image": "res://assets/images/nba/p_1628368.webp"
     },
     {
       "name": "David Robinson",
       "subtext": "Center \u2022 Spurs",
-      "value": 21.05,
-      "display_value": "21.05 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/764.png",
+      "value": 21.06,
+      "display_value": "21.06 PPG",
       "position": "Center",
       "positions": [
         "Center"
@@ -687,32 +1164,31 @@
       "image": "res://assets/images/nba/p_764.webp"
     },
     {
-      "name": "Nikola Jokic",
-      "subtext": "Center \u2022 Nuggets",
-      "value": 20.9,
-      "display_value": "20.9 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
-      "position": "Center",
+      "name": "Mitch Richmond",
+      "subtext": "Guard \u2022 Kings",
+      "value": 21.0,
+      "display_value": "21.00 PPG",
+      "position": "Guard",
       "positions": [
-        "Center"
+        "Guard"
       ],
-      "team": "Nuggets",
-      "team_full": "Denver Nuggets",
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
       "decades": [
-        "2010s",
-        "2020s"
+        "1980s & Prior",
+        "1990s",
+        "2000s"
       ],
-      "status": "Active",
-      "from_year": 2015,
-      "to_year": 2023,
-      "image": "res://assets/images/nba/p_203999.webp"
+      "status": "Retired",
+      "from_year": 1988,
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_782.webp"
     },
     {
       "name": "Patrick Ewing",
       "subtext": "Center \u2022 Knicks",
       "value": 20.98,
       "display_value": "20.98 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/121.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -730,32 +1206,69 @@
       "image": "res://assets/images/nba/p_121.webp"
     },
     {
-      "name": "Paul George",
-      "subtext": "Forward \u2022 Clippers",
-      "value": 20.8,
-      "display_value": "20.8 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
+      "name": "Elvin Hayes",
+      "subtext": "Forward \u2022 Bullets",
+      "value": 20.96,
+      "display_value": "20.96 PPG",
       "position": "Forward",
       "positions": [
         "Forward"
       ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/p_76979.webp"
+    },
+    {
+      "name": "Russell Westbrook",
+      "subtext": "Guard \u2022 Clippers",
+      "value": 20.89,
+      "display_value": "20.89 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
       "team": "Clippers",
       "team_full": "Los Angeles Clippers",
       "decades": [
+        "2000s",
         "2010s",
         "2020s"
       ],
       "status": "Active",
-      "from_year": 2010,
+      "from_year": 2008,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_202331.webp"
+      "image": "res://assets/images/nba/p_201566.webp"
+    },
+    {
+      "name": "John Havlicek",
+      "subtext": "Forward \u2022 Celtics",
+      "value": 20.78,
+      "display_value": "20.78 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1962,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/p_76970.webp"
     },
     {
       "name": "Dirk Nowitzki",
       "subtext": "Forward \u2022 Mavericks",
-      "value": 20.68,
-      "display_value": "20.68 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1717.png",
+      "value": 20.74,
+      "display_value": "20.74 PPG",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -773,11 +1286,147 @@
       "image": "res://assets/images/nba/p_1717.webp"
     },
     {
+      "name": "Kawhi Leonard",
+      "subtext": "Forward \u2022 Combine 2011",
+      "value": 20.73,
+      "display_value": "20.73 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2011,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Charlie Scott",
+      "subtext": "Guard \u2022 1971\u20131979",
+      "value": 20.69,
+      "display_value": "20.69 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1971,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/p_78097.webp"
+    },
+    {
+      "name": "John Drew",
+      "subtext": "Forward \u2022 Draft Class 1974",
+      "value": 20.69,
+      "display_value": "20.69 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1974,
+      "to_year": 1984,
+      "image": "res://assets/images/nba/p_76598.webp"
+    },
+    {
+      "name": "Zach LaVine",
+      "subtext": "Guard \u2022 Combine 2014",
+      "value": 20.69,
+      "display_value": "20.69 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2014,
+      "to_year": 2014,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Glenn Robinson",
+      "subtext": "Forward \u2022 Draft Class 1994",
+      "value": 20.69,
+      "display_value": "20.69 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1994,
+      "to_year": 2004,
+      "image": "res://assets/images/nba/p_299.webp"
+    },
+    {
+      "name": "Chris Webber",
+      "subtext": "Forward \u2022 Draft Class 1993",
+      "value": 20.68,
+      "display_value": "20.68 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1993,
+      "to_year": 2007,
+      "image": "res://assets/images/nba/p_185.webp"
+    },
+    {
+      "name": "Gilbert Arenas",
+      "subtext": "Guard \u2022 Draft Class 2001",
+      "value": 20.66,
+      "display_value": "20.66 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Wizards",
+      "team_full": "Washington Wizards",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2011,
+      "image": "res://assets/images/nba/p_2240.webp"
+    },
+    {
       "name": "Moses Malone",
       "subtext": "Center \u2022 Rockets",
-      "value": 20.59,
-      "display_value": "20.59 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77449.png",
+      "value": 20.62,
+      "display_value": "20.62 PPG",
       "position": "Center",
       "positions": [
         "Center"
@@ -794,11 +1443,377 @@
       "image": "res://assets/images/nba/p_77449.webp"
     },
     {
+      "name": "Paul George",
+      "subtext": "Forward \u2022 Draft Class 2010",
+      "value": 20.46,
+      "display_value": "20.46 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2010,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_202331.webp"
+    },
+    {
+      "name": "Clyde Drexler",
+      "subtext": "Guard \u2022 Blazers",
+      "value": 20.44,
+      "display_value": "20.44 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1983,
+      "to_year": 1998,
+      "image": "res://assets/images/nba/clyde_drexler.webp"
+    },
+    {
+      "name": "Ralph Simpson",
+      "subtext": "Guard \u2022 Draft Class 1972",
+      "value": 20.44,
+      "display_value": "20.44 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/p_78157.webp"
+    },
+    {
+      "name": "Dave Bing",
+      "subtext": "Guard \u2022 Draft Class 1966",
+      "value": 20.34,
+      "display_value": "20.34 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/p_76166.webp"
+    },
+    {
+      "name": "Spencer Haywood",
+      "subtext": "Forward \u2022 Draft Class 1971",
+      "value": 20.27,
+      "display_value": "20.27 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "SuperSonics",
+      "team_full": "SuperSonics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/p_76981.webp"
+    },
+    {
+      "name": "World B. Free",
+      "subtext": "Guard \u2022 76ers",
+      "value": 20.27,
+      "display_value": "20.27 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1975,
+      "to_year": 1988,
+      "image": "res://assets/images/nba/world_b_free.webp"
+    },
+    {
+      "name": "Lou Hudson",
+      "subtext": "Forward \u2022 Draft Class 1966",
+      "value": 20.16,
+      "display_value": "20.16 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/p_77074.webp"
+    },
+    {
+      "name": "George Thompson",
+      "subtext": "Guard \u2022 1974\u20131974",
+      "value": 20.15,
+      "display_value": "20.15 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1974,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_78327.webp"
+    },
+    {
+      "name": "Marques Johnson",
+      "subtext": "Forward \u2022 Bucks",
+      "value": 20.1,
+      "display_value": "20.10 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1977,
+      "to_year": 1987,
+      "image": "res://assets/images/nba/player_77160.webp"
+    },
+    {
+      "name": "Walt Bellamy",
+      "subtext": "Center \u2022 Hawks",
+      "value": 20.08,
+      "display_value": "20.08 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1961,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_76144.webp"
+    },
+    {
+      "name": "Bob Lanier",
+      "subtext": "Center \u2022 Draft Class 1970",
+      "value": 20.07,
+      "display_value": "20.07 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/p_600005.webp"
+    },
+    {
+      "name": "Darel Carrier",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 20.03,
+      "display_value": "20.03 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/player_80449.webp"
+    },
+    {
+      "name": "Mark Aguirre",
+      "subtext": "Forward \u2022 Draft Class 1981",
+      "value": 20.0,
+      "display_value": "20.00 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1993,
+      "image": "res://assets/images/nba/p_76016.webp"
+    },
+    {
+      "name": "Jaylen Brown",
+      "subtext": "Guard \u2022 Combine 2016",
+      "value": 19.99,
+      "display_value": "19.99 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2016,
+      "to_year": 2016,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Mack Calvin",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 19.92,
+      "display_value": "19.92 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1969,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/player_76336.webp"
+    },
+    {
+      "name": "Mike Mitchell",
+      "subtext": "Forward \u2022 Draft Class 1978",
+      "value": 19.78,
+      "display_value": "19.78 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1978,
+      "to_year": 1987,
+      "image": "res://assets/images/nba/p_77615.webp"
+    },
+    {
+      "name": "Brandon Ingram",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 19.77,
+      "display_value": "19.77 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2016,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/player_1627742.webp"
+    },
+    {
+      "name": "Donnie Freeman",
+      "subtext": "Guard \u2022 Draft Class 1966",
+      "value": 19.77,
+      "display_value": "19.77 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1975,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/p_76754.webp"
+    },
+    {
+      "name": "Kiki Vandeweghe",
+      "subtext": "Forward \u2022 Draft Class 1980",
+      "value": 19.73,
+      "display_value": "19.73 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1980,
+      "to_year": 1992,
+      "image": "res://assets/images/nba/p_78404.webp"
+    },
+    {
       "name": "Paul Pierce",
       "subtext": "Forward \u2022 Celtics",
-      "value": 19.69,
-      "display_value": "19.69 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1718.png",
+      "value": 19.66,
+      "display_value": "19.66 PPG",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -816,32 +1831,443 @@
       "image": "res://assets/images/nba/p_1718.webp"
     },
     {
-      "name": "Klay Thompson",
-      "subtext": "Guard \u2022 Warriors",
+      "name": "Tracy McGrady",
+      "subtext": "Forward \u2022 Raptors",
       "value": 19.6,
-      "display_value": "19.6 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202691.png",
+      "display_value": "19.60 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1997,
+      "to_year": 2007,
+      "image": "res://assets/images/nba/player_1503.webp"
+    },
+    {
+      "name": "DeMarcus Cousins",
+      "subtext": "Center \u2022 Combine 2010",
+      "value": 19.57,
+      "display_value": "19.57 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2010,
+      "to_year": 2010,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Magic Johnson",
+      "subtext": "Guard \u2022 Lakers",
+      "value": 19.54,
+      "display_value": "19.54 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
       ],
-      "team": "Warriors",
-      "team_full": "Golden State Warriors",
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1979,
+      "to_year": 1996,
+      "image": "res://assets/images/nba/magic_johnson.webp"
+    },
+    {
+      "name": "CJ McCollum",
+      "subtext": "Guard \u2022 Combine 2013",
+      "value": 19.51,
+      "display_value": "19.51 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2013,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Kristaps Porzi\u0146\u0123is",
+      "subtext": "Forward \u2022 NBA",
+      "value": 19.46,
+      "display_value": "19.46 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/kristaps_porzi\u0146\u0123is.webp"
+    },
+    {
+      "name": "Neil Johnston",
+      "subtext": "Forward \u2022 NBA",
+      "value": 19.42,
+      "display_value": "19.42 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/player_77169.webp"
+    },
+    {
+      "name": "Levern Tart",
+      "subtext": "Forward \u2022 Celtics",
+      "value": 19.4,
+      "display_value": "19.40 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/player_80403.webp"
+    },
+    {
+      "name": "Kemba Walker",
+      "subtext": "Guard \u2022 Draft Class 2011",
+      "value": 19.31,
+      "display_value": "19.31 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_202689.webp"
+    },
+    {
+      "name": "Stephon Marbury",
+      "subtext": "Guard \u2022 Draft Class 1996",
+      "value": 19.26,
+      "display_value": "19.26 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1996,
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_950.webp"
+    },
+    {
+      "name": "Chris Bosh",
+      "subtext": "Forward \u2022 Draft Class 2003",
+      "value": 19.25,
+      "display_value": "19.25 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Heat",
+      "team_full": "Miami Heat",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_2547.webp"
+    },
+    {
+      "name": "Jack Twyman",
+      "subtext": "Forward \u2022 Draft Class 1955",
+      "value": 19.25,
+      "display_value": "19.25 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Royals",
+      "team_full": "Royals",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1955,
+      "to_year": 1965,
+      "image": "res://assets/images/nba/p_78388.webp"
+    },
+    {
+      "name": "Julius Randle",
+      "subtext": "Forward \u2022 Draft Class 2014",
+      "value": 19.24,
+      "display_value": "19.24 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
       "decades": [
         "2010s",
         "2020s"
       ],
       "status": "Active",
-      "from_year": 2011,
+      "from_year": 2014,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_202691.webp"
+      "image": "res://assets/images/nba/p_203944.webp"
+    },
+    {
+      "name": "Hal Greer",
+      "subtext": "Guard \u2022 76ers",
+      "value": 19.24,
+      "display_value": "19.24 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1958,
+      "to_year": 1972,
+      "image": "res://assets/images/nba/p_76882.webp"
+    },
+    {
+      "name": "Isiah Thomas",
+      "subtext": "Guard \u2022 Draft Class 1981",
+      "value": 19.23,
+      "display_value": "19.23 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1993,
+      "image": "res://assets/images/nba/p_78318.webp"
+    },
+    {
+      "name": "George Yardley",
+      "subtext": "Forward \u2022 Draft Class 1950",
+      "value": 19.2,
+      "display_value": "19.20 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1953,
+      "to_year": 1959,
+      "image": "res://assets/images/nba/p_78628.webp"
+    },
+    {
+      "name": "Willie Wise",
+      "subtext": "Forward \u2022 1976\u20131977",
+      "value": 19.18,
+      "display_value": "19.18 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/p_78602.webp"
+    },
+    {
+      "name": "Jimmy Jones",
+      "subtext": "Guard \u2022 Draft Class 1967",
+      "value": 19.17,
+      "display_value": "19.17 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1974,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/p_77186.webp"
+    },
+    {
+      "name": "Jalen Brunson",
+      "subtext": "Guard \u2022 Combine 2018",
+      "value": 19.16,
+      "display_value": "19.16 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2018,
+      "to_year": 2018,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Zelmo Beaty",
+      "subtext": "Center \u2022 Draft Class 1962",
+      "value": 19.12,
+      "display_value": "19.12 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1962,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_76133.webp"
+    },
+    {
+      "name": "LaMarcus Aldridge",
+      "subtext": "Forward \u2022 Nets",
+      "value": 19.11,
+      "display_value": "19.11 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_200746.webp"
+    },
+    {
+      "name": "Jamal Mashburn",
+      "subtext": "Forward \u2022 Draft Class 1993",
+      "value": 19.06,
+      "display_value": "19.06 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1993,
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_469.webp"
+    },
+    {
+      "name": "Jeff Malone",
+      "subtext": "Guard \u2022 Draft Class 1983",
+      "value": 19.04,
+      "display_value": "19.04 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1983,
+      "to_year": 1995,
+      "image": "res://assets/images/nba/p_117.webp"
     },
     {
       "name": "Tim Duncan",
       "subtext": "Forward \u2022 Spurs",
       "value": 19.03,
       "display_value": "19.03 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1495.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -860,11 +2286,586 @@
       "image": "res://assets/images/nba/p_1495.webp"
     },
     {
+      "name": "Michael Redd",
+      "subtext": "Guard \u2022 Draft Class 2000",
+      "value": 19.03,
+      "display_value": "19.03 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2000,
+      "to_year": 2011,
+      "image": "res://assets/images/nba/p_2072.webp"
+    },
+    {
+      "name": "Yao Ming",
+      "subtext": "Center \u2022 Draft Class 2002",
+      "value": 19.03,
+      "display_value": "19.03 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2002,
+      "to_year": 2010,
+      "image": "res://assets/images/nba/p_2397.webp"
+    },
+    {
+      "name": "Blake Griffin",
+      "subtext": "Forward \u2022 Combine 2009",
+      "value": 18.97,
+      "display_value": "18.97 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2009,
+      "to_year": 2009,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Brad Daugherty",
+      "subtext": "Center \u2022 Draft Class 1986",
+      "value": 18.96,
+      "display_value": "18.96 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1986,
+      "to_year": 1993,
+      "image": "res://assets/images/nba/p_921.webp"
+    },
+    {
+      "name": "Lauri Markkanen",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 18.95,
+      "display_value": "18.95 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628374.webp"
+    },
+    {
+      "name": "Amar'e Stoudemire",
+      "subtext": "Forward \u2022 Draft Class 2002",
+      "value": 18.91,
+      "display_value": "18.91 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2002,
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_2405.webp"
+    },
+    {
+      "name": "RJ Barrett",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 18.9,
+      "display_value": "18.90 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629628.webp"
+    },
+    {
+      "name": "Walter Davis",
+      "subtext": "Guard \u2022 Draft Class 1977",
+      "value": 18.9,
+      "display_value": "18.90 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1977,
+      "to_year": 1991,
+      "image": "res://assets/images/nba/p_1453.webp"
+    },
+    {
+      "name": "Walt Frazier",
+      "subtext": "Guard \u2022 Draft Class 1967",
+      "value": 18.89,
+      "display_value": "18.89 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/p_76750.webp"
+    },
+    {
+      "name": "Jamal Murray",
+      "subtext": "Forward \u2022 Nuggets",
+      "value": 18.87,
+      "display_value": "18.87 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2016,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/player_1627750.webp"
+    },
+    {
+      "name": "Darius Garland",
+      "subtext": "Forward \u2022 Cavaliers",
+      "value": 18.85,
+      "display_value": "18.85 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/player_1629636.webp"
+    },
+    {
+      "name": "Ray Allen",
+      "subtext": "Guard \u2022 Bucks",
+      "value": 18.85,
+      "display_value": "18.85 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1996,
+      "to_year": 2014,
+      "image": "res://assets/images/nba/ray_allen.webp"
+    },
+    {
+      "name": "Earl Monroe",
+      "subtext": "Guard \u2022 Draft Class 1967",
+      "value": 18.85,
+      "display_value": "18.85 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/p_600006.webp"
+    },
+    {
+      "name": "Louie Dampier",
+      "subtext": "Forward \u2022 NBA",
+      "value": 18.85,
+      "display_value": "18.85 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/louie_dampier.webp"
+    },
+    {
+      "name": "Tiny Archibald",
+      "subtext": "Forward \u2022 NBA",
+      "value": 18.81,
+      "display_value": "18.81 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/tiny_archibald.webp"
+    },
+    {
+      "name": "Willis Reed",
+      "subtext": "Forward \u2022 Knicks",
+      "value": 18.74,
+      "display_value": "18.74 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/player_77929.webp"
+    },
+    {
+      "name": "Connie Hawkins",
+      "subtext": "Forward \u2022 NBA",
+      "value": 18.71,
+      "display_value": "18.71 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/player_76972.webp"
+    },
+    {
+      "name": "Bailey Howell",
+      "subtext": "Forward \u2022 Draft Class 1959",
+      "value": 18.71,
+      "display_value": "18.71 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1959,
+      "to_year": 1970,
+      "image": "res://assets/images/nba/p_77070.webp"
+    },
+    {
+      "name": "Mel Daniels",
+      "subtext": "Center \u2022 Draft Class 1967",
+      "value": 18.69,
+      "display_value": "18.69 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/p_76502.webp"
+    },
+    {
+      "name": "John Wall",
+      "subtext": "Guard \u2022 Draft Class 2010",
+      "value": 18.68,
+      "display_value": "18.68 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2010,
+      "to_year": 2022,
+      "image": "res://assets/images/nba/john_wall.webp"
+    },
+    {
+      "name": "Tom Heinsohn",
+      "subtext": "Forward \u2022 Celtics",
+      "value": 18.65,
+      "display_value": "18.65 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1956,
+      "to_year": 1966,
+      "image": "res://assets/images/nba/player_76988.webp"
+    },
+    {
+      "name": "Gail Goodrich",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 18.6,
+      "display_value": "18.60 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1965,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/player_76832.webp"
+    },
+    {
+      "name": "Klay Thompson",
+      "subtext": "Guard \u2022 Draft Class 2011",
+      "value": 18.57,
+      "display_value": "18.57 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2011,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_202691.webp"
+    },
+    {
+      "name": "Jaren Jackson Jr.",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 18.57,
+      "display_value": "18.57 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628991.webp"
+    },
+    {
+      "name": "Pascal Siakam",
+      "subtext": "Forward \u2022 Draft Class 2016",
+      "value": 18.54,
+      "display_value": "18.54 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2016,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1627783.webp"
+    },
+    {
+      "name": "Reggie Theus",
+      "subtext": "Guard \u2022 Draft Class 1978",
+      "value": 18.53,
+      "display_value": "18.53 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1978,
+      "to_year": 1990,
+      "image": "res://assets/images/nba/p_78310.webp"
+    },
+    {
+      "name": "Dolph Schayes",
+      "subtext": "Forward \u2022 Draft Class 1948",
+      "value": 18.51,
+      "display_value": "18.51 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1949,
+      "to_year": 1963,
+      "image": "res://assets/images/nba/p_78076.webp"
+    },
+    {
+      "name": "Bob Dandridge",
+      "subtext": "Forward \u2022 Draft Class 1969",
+      "value": 18.51,
+      "display_value": "18.51 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1969,
+      "to_year": 1981,
+      "image": "res://assets/images/nba/p_76500.webp"
+    },
+    {
+      "name": "Antawn Jamison",
+      "subtext": "Forward \u2022 Draft Class 1998",
+      "value": 18.51,
+      "display_value": "18.51 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1998,
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_1712.webp"
+    },
+    {
       "name": "Jimmy Butler",
-      "subtext": "Forward \u2022 Heat",
-      "value": 18.3,
-      "display_value": "18.3 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png",
+      "subtext": "Forward \u2022 Draft Class 2011",
+      "value": 18.37,
+      "display_value": "18.37 PPG",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -881,11 +2882,168 @@
       "image": "res://assets/images/nba/p_202710.webp"
     },
     {
+      "name": "Ron Boone",
+      "subtext": "Guard \u2022 1976\u20131980",
+      "value": 18.36,
+      "display_value": "18.36 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1980,
+      "image": "res://assets/images/nba/p_76204.webp"
+    },
+    {
+      "name": "Bob Cousy",
+      "subtext": "Guard \u2022 Celtics",
+      "value": 18.35,
+      "display_value": "18.35 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1950,
+      "to_year": 1970,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Glen Rice",
+      "subtext": "Guard \u2022 Draft Class 1989",
+      "value": 18.34,
+      "display_value": "18.34 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1989,
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_779.webp"
+    },
+    {
+      "name": "Collin Sexton",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 18.33,
+      "display_value": "18.33 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629012.webp"
+    },
+    {
+      "name": "Latrell Sprewell",
+      "subtext": "Guard \u2022 Draft Class 1992",
+      "value": 18.3,
+      "display_value": "18.30 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1992,
+      "to_year": 2004,
+      "image": "res://assets/images/nba/p_84.webp"
+    },
+    {
+      "name": "Chet Walker",
+      "subtext": "Forward \u2022 Draft Class 1962",
+      "value": 18.25,
+      "display_value": "18.25 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1962,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_78435.webp"
+    },
+    {
+      "name": "Andrew Wiggins",
+      "subtext": "Forward \u2022 Draft Class 2014",
+      "value": 18.24,
+      "display_value": "18.24 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2014,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_203952.webp"
+    },
+    {
+      "name": "James Silas",
+      "subtext": "Guard \u2022 1976\u20131981",
+      "value": 18.23,
+      "display_value": "18.23 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1981,
+      "image": "res://assets/images/nba/p_78150.webp"
+    },
+    {
       "name": "Reggie Miller",
       "subtext": "Guard \u2022 Pacers",
-      "value": 18.17,
-      "display_value": "18.17 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/397.png",
+      "value": 18.2,
+      "display_value": "18.20 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -903,11 +3061,267 @@
       "image": "res://assets/images/nba/p_397.webp"
     },
     {
+      "name": "Chris Mullin",
+      "subtext": "Forward \u2022 Draft Class 1985",
+      "value": 18.17,
+      "display_value": "18.17 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1985,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/p_904.webp"
+    },
+    {
+      "name": "George Carter",
+      "subtext": "Forward \u2022 1967\u20131967",
+      "value": 18.16,
+      "display_value": "18.16 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1967,
+      "image": "res://assets/images/nba/p_76357.webp"
+    },
+    {
+      "name": "Steve Francis",
+      "subtext": "Guard \u2022 Draft Class 1999",
+      "value": 18.14,
+      "display_value": "18.14 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1999,
+      "to_year": 2007,
+      "image": "res://assets/images/nba/p_1883.webp"
+    },
+    {
+      "name": "Tom Chambers",
+      "subtext": "Forward \u2022 Draft Class 1981",
+      "value": 18.11,
+      "display_value": "18.11 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1997,
+      "image": "res://assets/images/nba/p_1472.webp"
+    },
+    {
+      "name": "Shareef Abdur-Rahim",
+      "subtext": "Forward \u2022 Draft Class 1996",
+      "value": 18.11,
+      "display_value": "18.11 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1996,
+      "to_year": 2007,
+      "image": "res://assets/images/nba/p_949.webp"
+    },
+    {
+      "name": "Cliff Hagan",
+      "subtext": "Forward \u2022 Celtics",
+      "value": 18.05,
+      "display_value": "18.05 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1953,
+      "to_year": 1963,
+      "image": "res://assets/images/nba/player_76912.webp"
+    },
+    {
+      "name": "Otis Birdsong",
+      "subtext": "Guard \u2022 Draft Class 1977",
+      "value": 18.02,
+      "display_value": "18.02 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1977,
+      "to_year": 1988,
+      "image": "res://assets/images/nba/p_76170.webp"
+    },
+    {
+      "name": "Rolando Blackman",
+      "subtext": "Guard \u2022 Draft Class 1981",
+      "value": 17.98,
+      "display_value": "17.98 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1993,
+      "image": "res://assets/images/nba/p_76176.webp"
+    },
+    {
+      "name": "Calvin Murphy",
+      "subtext": "Guard \u2022 Draft Class 1970",
+      "value": 17.91,
+      "display_value": "17.91 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/p_77669.webp"
+    },
+    {
+      "name": "Doug Collins",
+      "subtext": "Forward \u2022 76ers",
+      "value": 17.9,
+      "display_value": "17.90 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1973,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/player_76421.webp"
+    },
+    {
+      "name": "Kevin Johnson",
+      "subtext": "Guard \u2022 Suns",
+      "value": 17.86,
+      "display_value": "17.86 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1987,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/kevin_johnson.webp"
+    },
+    {
+      "name": "Kevin McHale",
+      "subtext": "Forward \u2022 Draft Class 1980",
+      "value": 17.85,
+      "display_value": "17.85 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1980,
+      "to_year": 1992,
+      "image": "res://assets/images/nba/p_1450.webp"
+    },
+    {
+      "name": "Monta Ellis",
+      "subtext": "Guard \u2022 Draft Class 2005",
+      "value": 17.84,
+      "display_value": "17.84 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_101145.webp"
+    },
+    {
       "name": "Kevin Garnett",
       "subtext": "Forward \u2022 Timberwolves",
-      "value": 17.79,
-      "display_value": "17.79 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/708.png",
+      "value": 17.83,
+      "display_value": "17.83 PPG",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -925,11 +3339,909 @@
       "image": "res://assets/images/nba/p_708.webp"
     },
     {
+      "name": "Bill Sharman",
+      "subtext": "Guard \u2022 1950\u20131960",
+      "value": 17.81,
+      "display_value": "17.81 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1950,
+      "to_year": 1960,
+      "image": "res://assets/images/nba/p_78126.webp"
+    },
+    {
+      "name": "Tim Hardaway",
+      "subtext": "Guard \u2022 Draft Class 1989",
+      "value": 17.73,
+      "display_value": "17.73 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1989,
+      "to_year": 2002,
+      "image": "res://assets/images/nba/p_896.webp"
+    },
+    {
+      "name": "Sam Jones",
+      "subtext": "Guard \u2022 Draft Class 1957",
+      "value": 17.69,
+      "display_value": "17.69 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1957,
+      "to_year": 1968,
+      "image": "res://assets/images/nba/p_77196.webp"
+    },
+    {
+      "name": "Jamaal Wilkes",
+      "subtext": "Forward \u2022 Draft Class 1974",
+      "value": 17.69,
+      "display_value": "17.69 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1974,
+      "to_year": 1985,
+      "image": "res://assets/images/nba/p_78532.webp"
+    },
+    {
+      "name": "Joe Barry Carroll",
+      "subtext": "Center \u2022 Draft Class 1980",
+      "value": 17.67,
+      "display_value": "17.67 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1980,
+      "to_year": 1990,
+      "image": "res://assets/images/nba/p_76353.webp"
+    },
+    {
+      "name": "Dave Cowens",
+      "subtext": "Center \u2022 Draft Class 1970",
+      "value": 17.64,
+      "display_value": "17.64 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/p_76462.webp"
+    },
+    {
+      "name": "James Worthy",
+      "subtext": "Forward \u2022 Draft Class 1982",
+      "value": 17.62,
+      "display_value": "17.62 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1982,
+      "to_year": 1993,
+      "image": "res://assets/images/nba/p_1460.webp"
+    },
+    {
+      "name": "Bob Love",
+      "subtext": "Forward \u2022 Draft Class 1965",
+      "value": 17.61,
+      "display_value": "17.61 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/p_77412.webp"
+    },
+    {
+      "name": "Reggie Lewis",
+      "subtext": "Guard \u2022 Draft Class 1987",
+      "value": 17.56,
+      "display_value": "17.56 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1987,
+      "to_year": 1992,
+      "image": "res://assets/images/nba/p_77384.webp"
+    },
+    {
+      "name": "Ed Macauley",
+      "subtext": "Center \u2022 1949\u20131958",
+      "value": 17.53,
+      "display_value": "17.53 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1949,
+      "to_year": 1958,
+      "image": "res://assets/images/nba/p_77429.webp"
+    },
+    {
+      "name": "Antoine Walker",
+      "subtext": "Forward \u2022 Draft Class 1996",
+      "value": 17.52,
+      "display_value": "17.52 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1996,
+      "to_year": 2007,
+      "image": "res://assets/images/nba/p_952.webp"
+    },
+    {
+      "name": "Isaiah Thomas",
+      "subtext": "Guard \u2022 Draft Class 2011",
+      "value": 17.49,
+      "display_value": "17.49 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_202738.webp"
+    },
+    {
+      "name": "Joe Caldwell",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 17.49,
+      "display_value": "17.49 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/player_76329.webp"
+    },
+    {
+      "name": "John Williamson",
+      "subtext": "Guard \u2022 1976\u20131980",
+      "value": 17.47,
+      "display_value": "17.47 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1980,
+      "image": "res://assets/images/nba/p_78575.webp"
+    },
+    {
+      "name": "Rudy Tomjanovich",
+      "subtext": "Forward \u2022 Draft Class 1970",
+      "value": 17.43,
+      "display_value": "17.43 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1980,
+      "image": "res://assets/images/nba/p_78350.webp"
+    },
+    {
+      "name": "Derrick Rose",
+      "subtext": "Guard \u2022 Combine 2008",
+      "value": 17.39,
+      "display_value": "17.39 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2008,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Bob Rule",
+      "subtext": "Center \u2022 Draft Class 1967",
+      "value": 17.39,
+      "display_value": "17.39 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "SuperSonics",
+      "team_full": "SuperSonics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_78042.webp"
+    },
+    {
+      "name": "Kevin Martin",
+      "subtext": "Guard \u2022 Draft Class 2004",
+      "value": 17.36,
+      "display_value": "17.36 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2004,
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_2755.webp"
+    },
+    {
+      "name": "Roger Brown",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 17.35,
+      "display_value": "17.35 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1971,
+      "to_year": 1981,
+      "image": "res://assets/images/nba/player_76286.webp"
+    },
+    {
+      "name": "Purvis Short",
+      "subtext": "Forward \u2022 Draft Class 1978",
+      "value": 17.35,
+      "display_value": "17.35 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1978,
+      "to_year": 1989,
+      "image": "res://assets/images/nba/p_78139.webp"
+    },
+    {
+      "name": "Allan Houston",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 17.34,
+      "display_value": "17.34 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1993,
+      "to_year": 2003,
+      "image": "res://assets/images/nba/player_275.webp"
+    },
+    {
+      "name": "Richie Guerin",
+      "subtext": "Forward \u2022 Knicks",
+      "value": 17.31,
+      "display_value": "17.31 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1954,
+      "to_year": 1964,
+      "image": "res://assets/images/nba/player_76902.webp"
+    },
+    {
+      "name": "Larry Kenon",
+      "subtext": "Forward \u2022 Draft Class 1973",
+      "value": 17.23,
+      "display_value": "17.23 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/p_77246.webp"
+    },
+    {
+      "name": "Cliff Robinson",
+      "subtext": "Forward \u2022 NBA",
+      "value": 17.21,
+      "display_value": "17.21 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/nba_league.webp"
+    },
+    {
+      "name": "Jo Jo White",
+      "subtext": "Forward \u2022 NBA",
+      "value": 17.2,
+      "display_value": "17.20 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/jo_jo_white.webp"
+    },
+    {
+      "name": "Phil Chenier",
+      "subtext": "Guard \u2022 1971\u20131980",
+      "value": 17.18,
+      "display_value": "17.18 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1971,
+      "to_year": 1980,
+      "image": "res://assets/images/nba/p_76386.webp"
+    },
+    {
+      "name": "Calvin Natt",
+      "subtext": "Forward \u2022 Nets",
+      "value": 17.18,
+      "display_value": "17.18 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1979,
+      "to_year": 1989,
+      "image": "res://assets/images/nba/player_77691.webp"
+    },
+    {
+      "name": "Kelly Tripucka",
+      "subtext": "Forward \u2022 Draft Class 1981",
+      "value": 17.17,
+      "display_value": "17.17 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1990,
+      "image": "res://assets/images/nba/p_78369.webp"
+    },
+    {
+      "name": "Warren Jabali",
+      "subtext": "Forward \u2022 Knicks",
+      "value": 17.15,
+      "display_value": "17.15 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80768.webp"
+    },
+    {
+      "name": "Gus Johnson",
+      "subtext": "Forward \u2022 Draft Class 1963",
+      "value": 17.12,
+      "display_value": "17.12 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1963,
+      "to_year": 1972,
+      "image": "res://assets/images/nba/p_77150.webp"
+    },
+    {
+      "name": "Jason Richardson",
+      "subtext": "Guard \u2022 Draft Class 2001",
+      "value": 17.09,
+      "display_value": "17.09 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_2202.webp"
+    },
+    {
+      "name": "Gus Williams",
+      "subtext": "Guard \u2022 Draft Class 1975",
+      "value": 17.08,
+      "display_value": "17.08 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "SuperSonics",
+      "team_full": "SuperSonics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1975,
+      "to_year": 1986,
+      "image": "res://assets/images/nba/p_78549.webp"
+    },
+    {
+      "name": "Alonzo Mourning",
+      "subtext": "Center \u2022 Draft Class 1992",
+      "value": 17.08,
+      "display_value": "17.08 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Heat",
+      "team_full": "Miami Heat",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1992,
+      "to_year": 2007,
+      "image": "res://assets/images/nba/p_297.webp"
+    },
+    {
+      "name": "Nikola Vu\u010devi\u0107",
+      "subtext": "Center \u2022 Magic",
+      "value": 17.07,
+      "display_value": "17.07 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/nikola_vu\u010devi\u0107.webp"
+    },
+    {
+      "name": "Richard Hamilton",
+      "subtext": "Guard \u2022 Draft Class 1999",
+      "value": 17.06,
+      "display_value": "17.06 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1999,
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_1888.webp"
+    },
+    {
+      "name": "Larry Nance",
+      "subtext": "Forward \u2022 Draft Class 1981",
+      "value": 17.05,
+      "display_value": "17.05 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1993,
+      "image": "res://assets/images/nba/larry_nance.webp"
+    },
+    {
+      "name": "Pau Gasol",
+      "subtext": "Forward \u2022 Grizzlies",
+      "value": 17.04,
+      "display_value": "17.04 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2019,
+      "image": "res://assets/images/nba/team_1610612763.webp"
+    },
+    {
+      "name": "D'Angelo Russell",
+      "subtext": "Guard \u2022 Lakers",
+      "value": 17.0,
+      "display_value": "17.00 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2015,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/dangelo_russell.webp"
+    },
+    {
+      "name": "Freddie Lewis",
+      "subtext": "Guard \u2022 1966\u20131976",
+      "value": 17.0,
+      "display_value": "17.00 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/p_77380.webp"
+    },
+    {
+      "name": "Peja Stojakovi\u0107",
+      "subtext": "Forward \u2022 Kings",
+      "value": 16.97,
+      "display_value": "16.97 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1998,
+      "to_year": 2011,
+      "image": "res://assets/images/nba/team_1610612758.webp"
+    },
+    {
+      "name": "Clyde Lovellette",
+      "subtext": "Center \u2022 Draft Class 1952",
+      "value": 16.97,
+      "display_value": "16.97 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1953,
+      "to_year": 1963,
+      "image": "res://assets/images/nba/p_77414.webp"
+    },
+    {
+      "name": "Jerry Lucas",
+      "subtext": "Forward \u2022 1963\u20131973",
+      "value": 16.95,
+      "display_value": "16.95 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Royals",
+      "team_full": "Royals",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1963,
+      "to_year": 1973,
+      "image": "res://assets/images/nba/p_77418.webp"
+    },
+    {
+      "name": "Billy Knight",
+      "subtext": "Forward \u2022 Draft Class 1974",
+      "value": 16.93,
+      "display_value": "16.93 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1984,
+      "image": "res://assets/images/nba/p_77290.webp"
+    },
+    {
+      "name": "Jerry Stackhouse",
+      "subtext": "Forward \u2022 Draft Class 1995",
+      "value": 16.92,
+      "display_value": "16.92 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1995,
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_711.webp"
+    },
+    {
+      "name": "Victor Oladipo",
+      "subtext": "Guard \u2022 Combine 2013",
+      "value": 16.87,
+      "display_value": "16.87 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2013,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Sidney Wicks",
+      "subtext": "Forward \u2022 Draft Class 1971",
+      "value": 16.85,
+      "display_value": "16.85 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1971,
+      "to_year": 1980,
+      "image": "res://assets/images/nba/p_78520.webp"
+    },
+    {
       "name": "Chris Paul",
       "subtext": "Guard \u2022 Wizards",
-      "value": 17.5,
-      "display_value": "17.5 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png",
+      "value": 16.83,
+      "display_value": "16.83 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -947,11 +4259,91 @@
       "image": "res://assets/images/nba/p_101108.webp"
     },
     {
+      "name": "Danny Granger",
+      "subtext": "Guard \u2022 Draft Class 2005",
+      "value": 16.82,
+      "display_value": "16.82 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_101122.webp"
+    },
+    {
+      "name": "Isaiah Rider",
+      "subtext": "Guard \u2022 Draft Class 1993",
+      "value": 16.71,
+      "display_value": "16.71 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1993,
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_375.webp"
+    },
+    {
+      "name": "Grant Hill",
+      "subtext": "Forward \u2022 Draft Class 1994",
+      "value": 16.7,
+      "display_value": "16.70 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1994,
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_255.webp"
+    },
+    {
+      "name": "Jimmy Walker",
+      "subtext": "Guard \u2022 Draft Class 1967",
+      "value": 16.7,
+      "display_value": "16.70 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/p_78439.webp"
+    },
+    {
       "name": "Vince Carter",
       "subtext": "Guard \u2022 Raptors",
-      "value": 16.69,
-      "display_value": "16.69 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1713.png",
+      "value": 16.7,
+      "display_value": "16.70 PPG",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -970,11 +4362,167 @@
       "image": "res://assets/images/nba/p_1713.webp"
     },
     {
-      "name": "Steve Nash",
-      "subtext": "Guard \u2022 Suns",
-      "value": 14.29,
-      "display_value": "14.29 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/959.png",
+      "name": "Randy Smith",
+      "subtext": "Guard \u2022 1971\u20131982",
+      "value": 16.66,
+      "display_value": "16.66 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1971,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/p_78200.webp"
+    },
+    {
+      "name": "Zach Randolph",
+      "subtext": "Forward \u2022 Draft Class 2001",
+      "value": 16.65,
+      "display_value": "16.65 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_2216.webp"
+    },
+    {
+      "name": "Kyle Kuzma",
+      "subtext": "Guard \u2022 Combine 2017",
+      "value": 16.57,
+      "display_value": "16.57 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2017,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Jordan Poole",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 16.55,
+      "display_value": "16.55 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629673.webp"
+    },
+    {
+      "name": "Lenny Wilkens",
+      "subtext": "Guard \u2022 Draft Class 1960",
+      "value": 16.5,
+      "display_value": "16.50 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1960,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_78530.webp"
+    },
+    {
+      "name": "Derrick Coleman",
+      "subtext": "Forward \u2022 Draft Class 1990",
+      "value": 16.5,
+      "display_value": "16.50 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2004,
+      "image": "res://assets/images/nba/p_934.webp"
+    },
+    {
+      "name": "Glen Combs",
+      "subtext": "Forward \u2022 Rockets",
+      "value": 16.49,
+      "display_value": "16.49 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80865.webp"
+    },
+    {
+      "name": "Terry Cummings",
+      "subtext": "Forward \u2022 Clippers",
+      "value": 16.45,
+      "display_value": "16.45 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1982,
+      "to_year": 1992,
+      "image": "res://assets/images/nba/player_187.webp"
+    },
+    {
+      "name": "Dick Van Arsdale",
+      "subtext": "Guard \u2022 Draft Class 1965",
+      "value": 16.37,
+      "display_value": "16.37 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -982,21 +4530,213 @@
       "team": "Suns",
       "team_full": "Phoenix Suns",
       "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1965,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/p_78398.webp"
+    },
+    {
+      "name": "Joe Fulks",
+      "subtext": "Forward \u2022 1946\u20131953",
+      "value": 16.37,
+      "display_value": "16.37 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1946,
+      "to_year": 1953,
+      "image": "res://assets/images/nba/p_76764.webp"
+    },
+    {
+      "name": "Gary Payton",
+      "subtext": "Guard \u2022 SuperSonics",
+      "value": 16.34,
+      "display_value": "16.34 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "SuperSonics",
+      "team_full": "SuperSonics",
+      "decades": [
         "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2006,
+      "image": "res://assets/images/nba/p_56.webp"
+    },
+    {
+      "name": "Deron Williams",
+      "subtext": "Guard \u2022 Draft Class 2005",
+      "value": 16.34,
+      "display_value": "16.34 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
         "2000s",
         "2010s"
       ],
       "status": "Retired",
-      "from_year": 1996,
-      "to_year": 2013,
-      "image": "res://assets/images/nba/p_959.webp"
+      "from_year": 2005,
+      "to_year": 2016,
+      "image": "res://assets/images/nba/deron_williams.webp"
     },
     {
-      "name": "John Stockton",
-      "subtext": "Guard \u2022 Jazz",
-      "value": 13.06,
-      "display_value": "13.06 PPG",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/304.png",
+      "name": "Archie Clark",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 16.3,
+      "display_value": "16.30 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/player_76397.webp"
+    },
+    {
+      "name": "Doug Moe",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 16.3,
+      "display_value": "16.30 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1960,
+      "to_year": 1970,
+      "image": "res://assets/images/nba/player_80154.webp"
+    },
+    {
+      "name": "Stew Johnson",
+      "subtext": "Forward \u2022 Knicks",
+      "value": 16.29,
+      "display_value": "16.29 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/player_80561.webp"
+    },
+    {
+      "name": "Cincy Powell",
+      "subtext": "Forward \u2022 NBA",
+      "value": 16.27,
+      "display_value": "16.27 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/cincy_powell.webp"
+    },
+    {
+      "name": "Bam Adebayo",
+      "subtext": "Forward \u2022 Heat",
+      "value": 16.24,
+      "display_value": "16.24 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Heat",
+      "team_full": "Miami Heat",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/player_1628389.webp"
+    },
+    {
+      "name": "Carlos Boozer",
+      "subtext": "Forward \u2022 Draft Class 2002",
+      "value": 16.23,
+      "display_value": "16.23 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2002,
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_2430.webp"
+    },
+    {
+      "name": "Brian Winters",
+      "subtext": "Guard \u2022 Draft Class 1974",
+      "value": 16.21,
+      "display_value": "16.21 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1974,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/p_78600.webp"
+    },
+    {
+      "name": "Darrell Griffith",
+      "subtext": "Guard \u2022 Draft Class 1980",
+      "value": 16.2,
+      "display_value": "16.20 PPG",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1005,13 +4745,1308 @@
       "team_full": "Utah Jazz",
       "decades": [
         "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1980,
+      "to_year": 1990,
+      "image": "res://assets/images/nba/p_76890.webp"
+    },
+    {
+      "name": "Larry Johnson",
+      "subtext": "Forward \u2022 Draft Class 1991",
+      "value": 16.2,
+      "display_value": "16.20 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
         "1990s",
         "2000s"
       ],
       "status": "Retired",
-      "from_year": 1984,
-      "to_year": 2002,
-      "image": "res://assets/images/nba/p_304.webp"
+      "from_year": 1991,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/p_913.webp"
+    },
+    {
+      "name": "Jeff Mullins",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 16.19,
+      "display_value": "16.19 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/player_77662.webp"
+    },
+    {
+      "name": "Charlie Williams",
+      "subtext": "Forward \u2022 NBA",
+      "value": 16.18,
+      "display_value": "16.18 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/nba_league.webp"
+    },
+    {
+      "name": "Khris Middleton",
+      "subtext": "Forward \u2022 Draft Class 2012",
+      "value": 16.14,
+      "display_value": "16.14 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2012,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_203114.webp"
+    },
+    {
+      "name": "Joe Dumars",
+      "subtext": "Guard \u2022 Draft Class 1985",
+      "value": 16.11,
+      "display_value": "16.11 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1985,
+      "to_year": 1998,
+      "image": "res://assets/images/nba/p_247.webp"
+    },
+    {
+      "name": "Baron Davis",
+      "subtext": "Guard \u2022 Hornets",
+      "value": 16.1,
+      "display_value": "16.10 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1999,
+      "to_year": 2012,
+      "image": "res://assets/images/nba/baron_davis.webp"
+    },
+    {
+      "name": "Domantas Sabonis",
+      "subtext": "Forward \u2022 Draft Class 2016",
+      "value": 16.09,
+      "display_value": "16.09 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2016,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1627734.webp"
+    },
+    {
+      "name": "Scottie Pippen",
+      "subtext": "Guard \u2022 Draft Class 1987",
+      "value": 16.08,
+      "display_value": "16.08 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1987,
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_937.webp"
+    },
+    {
+      "name": "Dave DeBusschere",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 16.06,
+      "display_value": "16.06 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1962,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/dave_debusschere.webp"
+    },
+    {
+      "name": "Steve Jones",
+      "subtext": "Guard \u2022 1975\u20131975",
+      "value": 16.03,
+      "display_value": "16.03 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1975,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/p_77197.webp"
+    },
+    {
+      "name": "Cuttino Mobley",
+      "subtext": "Guard \u2022 Draft Class 1998",
+      "value": 16.02,
+      "display_value": "16.02 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1998,
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_1749.webp"
+    },
+    {
+      "name": "Eddie Johnson",
+      "subtext": "Forward \u2022 Draft Class 1981",
+      "value": 16.02,
+      "display_value": "16.02 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1998,
+      "image": "res://assets/images/nba/p_698.webp"
+    },
+    {
+      "name": "Keith Van Horn",
+      "subtext": "Forward \u2022 Draft Class 1997",
+      "value": 16.01,
+      "display_value": "16.01 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1997,
+      "to_year": 2005,
+      "image": "res://assets/images/nba/p_1496.webp"
+    },
+    {
+      "name": "Orlando Woolridge",
+      "subtext": "Forward \u2022 Bulls",
+      "value": 16.01,
+      "display_value": "16.01 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1991,
+      "image": "res://assets/images/nba/player_78615.webp"
+    },
+    {
+      "name": "Joe Johnson",
+      "subtext": "Guard \u2022 NBA",
+      "value": 15.98,
+      "display_value": "15.98 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_2207.webp"
+    },
+    {
+      "name": "Bob Netolicky",
+      "subtext": "Forward \u2022 Rockets",
+      "value": 15.98,
+      "display_value": "15.98 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/player_80735.webp"
+    },
+    {
+      "name": "Corey Maggette",
+      "subtext": "Forward \u2022 Draft Class 1999",
+      "value": 15.96,
+      "display_value": "15.96 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1999,
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_1894.webp"
+    },
+    {
+      "name": "Rich Jones",
+      "subtext": "Forward \u2022 Draft Class 1969",
+      "value": 15.95,
+      "display_value": "15.95 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/p_77192.webp"
+    },
+    {
+      "name": "Andrew Toney",
+      "subtext": "Forward \u2022 76ers",
+      "value": 15.94,
+      "display_value": "15.94 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1980,
+      "to_year": 1990,
+      "image": "res://assets/images/nba/player_78351.webp"
+    },
+    {
+      "name": "Tobias Harris",
+      "subtext": "Forward \u2022 Combine 2011",
+      "value": 15.91,
+      "display_value": "15.91 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2011,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Elton Brand",
+      "subtext": "Forward \u2022 Draft Class 1999",
+      "value": 15.9,
+      "display_value": "15.90 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1999,
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_1882.webp"
+    },
+    {
+      "name": "Don Ohl",
+      "subtext": "Guard \u2022 Draft Class 1958",
+      "value": 15.89,
+      "display_value": "15.89 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1960,
+      "to_year": 1969,
+      "image": "res://assets/images/nba/p_77751.webp"
+    },
+    {
+      "name": "Miles Bridges",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 15.88,
+      "display_value": "15.88 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628970.webp"
+    },
+    {
+      "name": "Jrue Holiday",
+      "subtext": "Guard \u2022 Combine 2009",
+      "value": 15.86,
+      "display_value": "15.86 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2009,
+      "to_year": 2009,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Kevin Love",
+      "subtext": "Forward \u2022 Combine 2008",
+      "value": 15.84,
+      "display_value": "15.84 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2008,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Deandre Ayton",
+      "subtext": "Center \u2022 Draft Class 2018",
+      "value": 15.83,
+      "display_value": "15.83 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629028.webp"
+    },
+    {
+      "name": "Campy Russell",
+      "subtext": "Forward \u2022 Draft Class 1974",
+      "value": 15.82,
+      "display_value": "15.82 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1974,
+      "to_year": 1984,
+      "image": "res://assets/images/nba/p_78047.webp"
+    },
+    {
+      "name": "Dick Barnett",
+      "subtext": "Guard \u2022 Draft Class 1959",
+      "value": 15.82,
+      "display_value": "15.82 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1959,
+      "to_year": 1973,
+      "image": "res://assets/images/nba/p_76107.webp"
+    },
+    {
+      "name": "Willie Naulls",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 15.79,
+      "display_value": "15.79 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1956,
+      "to_year": 1966,
+      "image": "res://assets/images/nba/player_77693.webp"
+    },
+    {
+      "name": "Rudy Gay",
+      "subtext": "Guard \u2022 Draft Class 2006",
+      "value": 15.75,
+      "display_value": "15.75 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2006,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_200752.webp"
+    },
+    {
+      "name": "Sam Cassell",
+      "subtext": "Guard \u2022 Bucks",
+      "value": 15.75,
+      "display_value": "15.75 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1993,
+      "to_year": 2009,
+      "image": "res://assets/images/nba/sam_cassell.webp"
+    },
+    {
+      "name": "Tyreke Evans",
+      "subtext": "Guard \u2022 Combine 2009",
+      "value": 15.74,
+      "display_value": "15.74 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2009,
+      "to_year": 2009,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Billy Paultz",
+      "subtext": "Center \u2022 1976\u20131984",
+      "value": 15.74,
+      "display_value": "15.74 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1984,
+      "image": "res://assets/images/nba/p_77817.webp"
+    },
+    {
+      "name": "Dale Ellis",
+      "subtext": "Guard \u2022 Draft Class 1983",
+      "value": 15.72,
+      "display_value": "15.72 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1983,
+      "to_year": 1999,
+      "image": "res://assets/images/nba/p_107.webp"
+    },
+    {
+      "name": "Norm Nixon",
+      "subtext": "Guard \u2022 Draft Class 1977",
+      "value": 15.71,
+      "display_value": "15.71 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1977,
+      "to_year": 1988,
+      "image": "res://assets/images/nba/norm_nixon.webp"
+    },
+    {
+      "name": "Michael Finley",
+      "subtext": "Guard \u2022 Draft Class 1995",
+      "value": 15.69,
+      "display_value": "15.69 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1995,
+      "to_year": 2009,
+      "image": "res://assets/images/nba/p_714.webp"
+    },
+    {
+      "name": "John Collins",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 15.69,
+      "display_value": "15.69 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628381.webp"
+    },
+    {
+      "name": "Dwight Howard",
+      "subtext": "Forward \u2022 Draft Class 2004",
+      "value": 15.69,
+      "display_value": "15.69 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2004,
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_2730.webp"
+    },
+    {
+      "name": "Al Jefferson",
+      "subtext": "Forward \u2022 Combine 2004",
+      "value": 15.68,
+      "display_value": "15.68 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2004,
+      "to_year": 2004,
+      "image": "res://assets/images/nba/team_1610612738.webp"
+    },
+    {
+      "name": "Xavier McDaniel",
+      "subtext": "Forward \u2022 Draft Class 1985",
+      "value": 15.64,
+      "display_value": "15.64 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA League",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1985,
+      "to_year": 1997,
+      "image": "res://assets/images/nba/p_1365.webp"
+    },
+    {
+      "name": "Johnny Neumann",
+      "subtext": "Guard \u2022 1976\u20131977",
+      "value": 14.94,
+      "display_value": "14.94 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/p_77705.webp"
+    },
+    {
+      "name": "Dave Robisch",
+      "subtext": "Forward \u2022 Celtics",
+      "value": 14.59,
+      "display_value": "14.59 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1971,
+      "to_year": 1981,
+      "image": "res://assets/images/nba/player_77998.webp"
+    },
+    {
+      "name": "John Beasley",
+      "subtext": "Forward \u2022 Bullets",
+      "value": 13.65,
+      "display_value": "13.65 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/player_80604.webp"
+    },
+    {
+      "name": "Larry Miller",
+      "subtext": "Forward \u2022 76ers",
+      "value": 13.57,
+      "display_value": "13.57 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80814.webp"
+    },
+    {
+      "name": "Red Robbins",
+      "subtext": "Forward \u2022 76ers",
+      "value": 13.15,
+      "display_value": "13.15 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/player_80590.webp"
+    },
+    {
+      "name": "Les Hunter",
+      "subtext": "Forward \u2022 Draft Class 1964",
+      "value": 12.82,
+      "display_value": "12.82 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1964,
+      "image": "res://assets/images/nba/p_77084.webp"
+    },
+    {
+      "name": "Goose Ligon",
+      "subtext": "Forward \u2022 NBA",
+      "value": 12.81,
+      "display_value": "12.81 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/nba_league.webp"
+    },
+    {
+      "name": "Art Becker",
+      "subtext": "Forward \u2022 NBA",
+      "value": 12.46,
+      "display_value": "12.46 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/art_becker.webp"
+    },
+    {
+      "name": "Bill Melchionni",
+      "subtext": "Guard \u2022 Draft Class 1966",
+      "value": 12.41,
+      "display_value": "12.41 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1966,
+      "to_year": 1967,
+      "image": "res://assets/images/nba/p_77576.webp"
+    },
+    {
+      "name": "Chuck Williams",
+      "subtext": "Guard \u2022 1976\u20131977",
+      "value": 12.28,
+      "display_value": "12.28 PPG",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Braves",
+      "team_full": "Braves",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/p_78547.webp"
+    },
+    {
+      "name": "Wil Jones",
+      "subtext": "Forward \u2022 1976\u20131977",
+      "value": 12.2,
+      "display_value": "12.20 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/p_77201.webp"
+    },
+    {
+      "name": "Warren Davis",
+      "subtext": "Forward \u2022 Knicks",
+      "value": 12.19,
+      "display_value": "12.19 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1965,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/player_80475.webp"
+    },
+    {
+      "name": "Byron Beck",
+      "subtext": "Forward \u2022 Bulls",
+      "value": 12.04,
+      "display_value": "12.04 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/player_76134.webp"
+    },
+    {
+      "name": "Gene Moore",
+      "subtext": "Forward \u2022 Bucks",
+      "value": 12.03,
+      "display_value": "12.03 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80893.webp"
+    },
+    {
+      "name": "Walt Simon",
+      "subtext": "Forward \u2022 SuperSonics",
+      "value": 11.86,
+      "display_value": "11.86 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "SuperSonics",
+      "team_full": "SuperSonics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80884.webp"
+    },
+    {
+      "name": "Bill Keller",
+      "subtext": "Forward \u2022 Bucks",
+      "value": 11.85,
+      "display_value": "11.85 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1969,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/player_81043.webp"
+    },
+    {
+      "name": "Ron Franz",
+      "subtext": "Forward \u2022 NBA",
+      "value": 11.74,
+      "display_value": "11.74 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/nba_league.webp"
+    },
+    {
+      "name": "Jim Eakins",
+      "subtext": "Center \u2022 Draft Class 1968",
+      "value": 11.7,
+      "display_value": "11.70 PPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/p_76628.webp"
+    },
+    {
+      "name": "Trooper Washington",
+      "subtext": "Forward \u2022 Royals",
+      "value": 10.56,
+      "display_value": "10.56 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Royals",
+      "team_full": "Royals",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1967,
+      "to_year": 1977,
+      "image": "res://assets/images/nba/player_80678.webp"
+    },
+    {
+      "name": "Ira Harge",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 10.3,
+      "display_value": "10.30 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1963,
+      "to_year": 1973,
+      "image": "res://assets/images/nba/player_80361.webp"
+    },
+    {
+      "name": "Gene Littles",
+      "subtext": "Forward \u2022 Knicks",
+      "value": 9.04,
+      "display_value": "9.04 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1969,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/player_80915.webp"
+    },
+    {
+      "name": "Bob Warren",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 8.94,
+      "display_value": "8.94 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80829.webp"
+    },
+    {
+      "name": "Fatty Taylor",
+      "subtext": "Forward \u2022 NBA",
+      "value": 8.55,
+      "display_value": "8.55 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1990,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/fatty_taylor.webp"
+    },
+    {
+      "name": "Lee Davis",
+      "subtext": "Forward \u2022 Suns",
+      "value": 7.75,
+      "display_value": "7.75 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80898.webp"
+    },
+    {
+      "name": "Gerald Govan",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 7.71,
+      "display_value": "7.71 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/player_80451.webp"
+    },
+    {
+      "name": "Julius Keye",
+      "subtext": "Forward \u2022 Celtics",
+      "value": 7.56,
+      "display_value": "7.56 PPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1978,
+      "image": "res://assets/images/nba/player_80753.webp"
     }
   ]
 }
