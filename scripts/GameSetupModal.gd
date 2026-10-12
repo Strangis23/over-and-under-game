@@ -165,6 +165,14 @@ func _update_ui() -> void:
 	if selected_filters.get("conference", "All") != "All":
 		active_parts.append(selected_filters["conference"])
 
+	if current_category.get("id") == "random":
+		filter_summary_label.text = "🎲 Questions pulled from across all 29 NBA categories"
+		btn_reset_filter.visible = false
+		pool_status_label.text = "🎲 Random Mode • 29 categories & 1,000+ contenders active!"
+		pool_status_label.add_theme_color_override("font_color", Color(0.3, 0.95, 0.5, 1))
+		start_btn.disabled = false
+		return
+
 	if active_parts.is_empty():
 		filter_summary_label.text = "🎯 All Contenders (no filters applied)"
 		filter_summary_label.add_theme_color_override("font_color", Color(0.65, 0.72, 0.85, 1))

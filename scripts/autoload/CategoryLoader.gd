@@ -1,5 +1,21 @@
 extends Node
 
+const RANDOM_CATEGORY: Dictionary = {
+	"id": "random",
+	"title": "Random Shuffle Mode",
+	"group": "all",
+	"group_label": "🎲 Shuffle",
+	"prompt": "Random questions from across all NBA categories!",
+	"unit": "mix",
+	"value_format": "{value}",
+	"theme_color": "#FF5500",
+	"icon": "res://assets/icons/flame.png",
+	"items": [
+		{"name": "Contender A", "value": 1},
+		{"name": "Contender B", "value": 2}
+	]
+}
+
 var categories: Dictionary = {}
 var category_order: Array = []
 
@@ -21,6 +37,7 @@ func load_all_categories() -> void:
 
 	# Sort in curated order
 	const PREFERRED_ORDER = [
+		"random",
 		"nba_total_points",
 		"nba_ppg",
 		"nba_total_3pm",
@@ -51,6 +68,10 @@ func load_all_categories() -> void:
 		"nba_arena_capacity",
 		"nba_franchise_founded"
 	]
+	categories["random"] = RANDOM_CATEGORY
+	if not category_order.has("random"):
+		category_order.append("random")
+
 	category_order.sort_custom(func(a, b):
 		var idx_a = PREFERRED_ORDER.find(a)
 		var idx_b = PREFERRED_ORDER.find(b)
@@ -113,6 +134,8 @@ func get_all_categories() -> Array:
 	return list
 
 func get_category(id: String) -> Dictionary:
+	if id == "random":
+		return RANDOM_CATEGORY
 	return categories.get(id, {})
 
 func save_custom_category(cat_dict: Dictionary) -> bool:

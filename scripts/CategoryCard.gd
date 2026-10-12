@@ -41,14 +41,20 @@ func setup(data: Dictionary) -> void:
 	title_label.text = data.get("title", "Category")
 	prompt_label.text = data.get("prompt", "Who has more?")
 	var items = data.get("items", [])
-	count_label.text = "%d Contenders" % items.size()
 
-	var grp = data.get("group_label", "")
-	if grp.is_empty():
-		group_badge.visible = false
-	else:
+	if category_id == "random":
+		title_label.text = "🎲 RANDOM SHUFFLE"
+		count_label.text = "All 29 Categories"
 		group_badge.visible = true
-		group_badge.text = " %s " % grp.to_upper()
+		group_badge.text = " 🎲 SHUFFLE "
+	else:
+		count_label.text = "%d Contenders" % items.size()
+		var grp = data.get("group_label", "")
+		if grp.is_empty():
+			group_badge.visible = false
+		else:
+			group_badge.visible = true
+			group_badge.text = " %s " % grp.to_upper()
 
 	var best = GameManager.get_best_streak(category_id)
 	best_label.text = "🏆 %d" % best

@@ -60,6 +60,7 @@ var upcoming_duels: Array = []
 var current_left_item: Dictionary = {}
 var current_right_item: Dictionary = {}
 var recent_names: Array = []
+var is_random_mode: bool = false
 
 func _ready() -> void:
 	back_btn.pressed.connect(_on_back_pressed)
@@ -77,9 +78,15 @@ func _ready() -> void:
 	active_filters_bar.visible = false
 
 func start_game(category_id: String) -> void:
+	is_random_mode = (category_id == "random")
 	current_category = CategoryLoader.get_category(category_id)
-	category_title_lbl.text = "🏀 " + current_category.get("title", "Over / Under").to_upper()
-	prompt_lbl.text = current_category.get("prompt", "Which is MORE?").to_upper()
+
+	if is_random_mode:
+		category_title_lbl.text = "🎲 RANDOM SHUFFLE MODE"
+		prompt_lbl.text = "PICK WHO DOMINATES THE STAT SHEET!"
+	else:
+		category_title_lbl.text = "🏀 " + current_category.get("title", "Over / Under").to_upper()
+		prompt_lbl.text = current_category.get("prompt", "Which is MORE?").to_upper()
 
 	raw_category_items = current_category.get("items", []).duplicate()
 
@@ -90,26 +97,30 @@ func start_game(category_id: String) -> void:
 	_apply_filters_and_rebuild_game()
 
 func _apply_filters_and_rebuild_game() -> void:
-	# 1. Apply pre-game filters
-	var filtered = _filter_items(raw_category_items, GameManager.current_filters)
-	if filtered.size() < 2:
-		filtered = raw_category_items.duplicate()
+	if not is_random_mode:
+		# 1. Apply pre-game filters
+		var filtered = _filter_items(raw_category_items, GameManager.current_filters)
+		if filtered.size() < 2:
+			filtered = raw_category_items.duplicate()
 
-	# 2. Apply difficulty percentage (Easy = top 30%, Medium = top 60%, Hard = 100%)
-	var diff = GameManager.current_difficulty.to_lower()
-	if diff == "easy":
-		var take_count = maxi(2, int(ceil(filtered.size() * 0.3)))
-		items_pool = filtered.slice(0, take_count)
-	elif diff == "medium":
-		var take_count = maxi(2, int(ceil(filtered.size() * 0.6)))
-		items_pool = filtered.slice(0, take_count)
+		# 2. Apply difficulty percentage (Easy = top 30%, Medium = top 60%, Hard = 100%)
+		var diff = GameManager.current_difficulty.to_lower()
+		if diff == "easy":
+			var take_count = maxi(2, int(ceil(filtered.size() * 0.3)))
+			items_pool = filtered.slice(0, take_count)
+		elif diff == "medium":
+			var take_count = maxi(2, int(ceil(filtered.size() * 0.6)))
+			items_pool = filtered.slice(0, take_count)
+		else:
+			items_pool = filtered.duplicate()
+
+		if items_pool.size() < 2:
+			items_pool = raw_category_items.duplicate()
+
+		items_pool.shuffle()
 	else:
-		items_pool = filtered.duplicate()
+		items_pool.clear()
 
-	if items_pool.size() < 2:
-		items_pool = raw_category_items.duplicate()
-
-	items_pool.shuffle()
 	recent_names.clear()
 	upcoming_duels.clear()
 
@@ -129,6 +140,11 @@ func _apply_filters_and_rebuild_game() -> void:
 	# Present duel
 	current_left_item = first_duel.left
 	current_right_item = first_duel.right
+	if is_random_mode and first_duel.has("category"):
+		current_category = first_duel["category"]
+		category_title_lbl.text = "🎲 " + current_category.get("title", "").to_upper()
+		prompt_lbl.text = current_category.get("prompt", "").to_upper()
+
 	var fmt = current_category.get("value_format", "{value}")
 	var lower_better = current_category.get("lower_is_better", false)
 	duel_card.setup_duel(current_left_item, current_right_item, fmt, lower_better)
@@ -261,6 +277,11 @@ func _deal_new_duel() -> void:
 	current_left_item = next_duel.left
 	current_right_item = next_duel.right
 
+	if is_random_mode and next_duel.has("category"):
+		current_category = next_duel["category"]
+		category_title_lbl.text = "🎲 " + current_category.get("title", "").to_upper()
+		prompt_lbl.text = current_category.get("prompt", "").to_upper()
+
 	var fmt = current_category.get("value_format", "{value}")
 	var lower_better = current_category.get("lower_is_better", false)
 	duel_card.setup_duel(current_left_item, current_right_item, fmt, lower_better)
@@ -268,21 +289,95 @@ func _deal_new_duel() -> void:
 	_maintain_duel_queue()
 
 func _create_next_duel_set() -> Dictionary:
+	if is_random_mode:
+		return _create_random_mode_duel()
+	else:
+		return _create_single_category_duel()
+
+func _create_single_category_duel() -> Dictionary:
 	if items_pool.size() < 2:
 		_apply_filters_and_rebuild_game()
 
 	var left: Dictionary = _pick_item(recent_names)
-	var right: Dictionary = _pick_item(recent_names + [left.get("name", "")])
+	var left_val = float(left.get("value", 0))
 
-	if abs(float(left.get("value", 0)) - float(right.get("value", 0))) < 0.00001 and items_pool.size() > 2:
-		right = _pick_item(recent_names + [left.get("name", "")])
+	# Find a right item with a DIFFERENT value (skip if two values are the same)
+	var candidates: Array = []
+	for it in items_pool:
+		if it.get("name", "") != left.get("name", "") and not recent_names.has(it.get("name", "")):
+			if abs(float(it.get("value", 0)) - left_val) > 0.00001:
+				candidates.append(it)
+
+	# If all non-recent items have same value, broaden search to all items in pool with different value
+	if candidates.is_empty():
+		for it in items_pool:
+			if it.get("name", "") != left.get("name", ""):
+				if abs(float(it.get("value", 0)) - left_val) > 0.00001:
+					candidates.append(it)
+
+	var right: Dictionary = {}
+	if not candidates.is_empty():
+		candidates.shuffle()
+		right = candidates[0]
+	else:
+		# Fallback if entire pool somehow has identical values
+		right = _pick_item([left.get("name", "")])
 
 	recent_names.append(left.get("name", ""))
 	recent_names.append(right.get("name", ""))
 	while recent_names.size() > 10:
 		recent_names.pop_front()
 
-	return {"left": left, "right": right}
+	return {"left": left, "right": right, "category": current_category}
+
+func _create_random_mode_duel() -> Dictionary:
+	var all_cats: Array = CategoryLoader.get_all_categories()
+	var valid_cats: Array = []
+	for c in all_cats:
+		if c.get("id", "") != "random" and c.get("items", []).size() >= 2:
+			valid_cats.append(c)
+
+	if valid_cats.is_empty():
+		return {"left": {}, "right": {}, "category": current_category}
+
+	valid_cats.shuffle()
+
+	for chosen_cat in valid_cats:
+		var cat_items = chosen_cat.get("items", [])
+		var filtered = _filter_items(cat_items, GameManager.current_filters)
+		if filtered.size() < 2:
+			filtered = cat_items.duplicate()
+
+		var diff = GameManager.current_difficulty.to_lower()
+		var pool: Array = []
+		if diff == "easy":
+			var take = maxi(2, int(ceil(filtered.size() * 0.3)))
+			pool = filtered.slice(0, take)
+		elif diff == "medium":
+			var take = maxi(2, int(ceil(filtered.size() * 0.6)))
+			pool = filtered.slice(0, take)
+		else:
+			pool = filtered.duplicate()
+
+		if pool.size() < 2:
+			continue
+
+		pool.shuffle()
+		var left_item = pool[0]
+		var left_val = float(left_item.get("value", 0))
+
+		var diff_val_candidates: Array = []
+		for it in pool:
+			if it.get("name", "") != left_item.get("name", ""):
+				if abs(float(it.get("value", 0)) - left_val) > 0.00001:
+					diff_val_candidates.append(it)
+
+		if not diff_val_candidates.is_empty():
+			diff_val_candidates.shuffle()
+			var right_item = diff_val_candidates[0]
+			return {"left": left_item, "right": right_item, "category": chosen_cat}
+
+	return _create_single_category_duel()
 
 func _pick_item(exclude_names: Array) -> Dictionary:
 	var candidates: Array = []
