@@ -4,9 +4,9 @@
   "group": "physical",
   "group_label": "Physical Attributes",
   "filter_type": "player",
-  "prompt": "Who has the LONGER Wingspan (Inches)?",
-  "unit": "in",
-  "value_format": "{value}\" Wingspan",
+  "prompt": "Who has the LONGER Wingspan (Feet & Inches)?",
+  "unit": "ft/in",
+  "value_format": "{feet} ft {inches} in",
   "icon": "res://assets/icons/trophy.webp",
   "theme_color": "#9370DB",
   "items": [
@@ -14,7 +14,7 @@
       "name": "Tacko Fall",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 98.2,
-      "display_value": "98.2\" Wingspan",
+      "display_value": "8 ft 2.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629605.png",
       "position": "Forward",
       "positions": [
@@ -34,7 +34,7 @@
       "name": "Zach Edey",
       "subtext": "Forward \u2022 Draft Combine 2023",
       "value": 94.5,
-      "display_value": "94.5\" Wingspan",
+      "display_value": "7 ft 10.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641744.png",
       "position": "Forward",
       "positions": [
@@ -54,7 +54,7 @@
       "name": "Mohamed Bamba",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 94.0,
-      "display_value": "94.0\" Wingspan",
+      "display_value": "7 ft 10 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628964.png",
       "position": "Forward",
       "positions": [
@@ -74,7 +74,7 @@
       "name": "John Riek",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 92.8,
-      "display_value": "92.8\" Wingspan",
+      "display_value": "7 ft 8.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12259.png",
       "position": "Forward",
       "positions": [
@@ -94,7 +94,7 @@
       "name": "Mouhamed Sene",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 92.5,
-      "display_value": "92.5\" Wingspan",
+      "display_value": "7 ft 8.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200754.png",
       "position": "Forward",
       "positions": [
@@ -114,7 +114,7 @@
       "name": "Rudy Gobert",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 92.5,
-      "display_value": "92.5\" Wingspan",
+      "display_value": "7 ft 8.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png",
       "position": "Forward",
       "positions": [
@@ -135,7 +135,7 @@
       "name": "Chris Marcus",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 92.0,
-      "display_value": "92.0\" Wingspan",
+      "display_value": "7 ft 8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2658.png",
       "position": "Forward",
       "positions": [
@@ -155,7 +155,7 @@
       "name": "Zhou Qi",
       "subtext": "Forward \u2022 Draft Combine 2016",
       "value": 91.8,
-      "display_value": "91.8\" Wingspan",
+      "display_value": "7 ft 7.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627753.png",
       "position": "Forward",
       "positions": [
@@ -175,7 +175,7 @@
       "name": "Doug Wrenn",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 91.5,
-      "display_value": "91.5\" Wingspan",
+      "display_value": "7 ft 7.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12103.png",
       "position": "Forward",
       "positions": [
@@ -195,7 +195,7 @@
       "name": "Udoka Azubuike",
       "subtext": "Forward \u2022 Draft Combine 2020",
       "value": 91.2,
-      "display_value": "91.2\" Wingspan",
+      "display_value": "7 ft 7.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.png",
       "position": "Forward",
       "positions": [
@@ -215,7 +215,7 @@
       "name": "Jason Jennings",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 91.0,
-      "display_value": "91.0\" Wingspan",
+      "display_value": "7 ft 7 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12049.png",
       "position": "Forward",
       "positions": [
@@ -235,7 +235,7 @@
       "name": "Hassan Whiteside",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 91.0,
-      "display_value": "91.0\" Wingspan",
+      "display_value": "7 ft 7 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202355.png",
       "position": "Forward",
       "positions": [
@@ -256,7 +256,7 @@
       "name": "Bol Bol",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 91.0,
-      "display_value": "91.0\" Wingspan",
+      "display_value": "7 ft 7 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png",
       "position": "Forward",
       "positions": [
@@ -277,7 +277,7 @@
       "name": "Eddy Fobbs",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 90.8,
-      "display_value": "90.8\" Wingspan",
+      "display_value": "7 ft 6.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12110.png",
       "position": "Forward",
       "positions": [
@@ -297,7 +297,7 @@
       "name": "Eddy Curry",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 90.5,
-      "display_value": "90.5\" Wingspan",
+      "display_value": "7 ft 6.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2201.png",
       "position": "Forward",
       "positions": [
@@ -317,7 +317,7 @@
       "name": "DeSagana Diop",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 90.5,
-      "display_value": "90.5\" Wingspan",
+      "display_value": "7 ft 6.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2205.png",
       "position": "Forward",
       "positions": [
@@ -338,7 +338,7 @@
       "name": "Brendan Haywood",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 90.5,
-      "display_value": "90.5\" Wingspan",
+      "display_value": "7 ft 6.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2217.png",
       "position": "Forward",
       "positions": [
@@ -358,7 +358,7 @@
       "name": "Mark Williams",
       "subtext": "Forward \u2022 Draft Combine 2022",
       "value": 90.5,
-      "display_value": "90.5\" Wingspan",
+      "display_value": "7 ft 6.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png",
       "position": "Forward",
       "positions": [
@@ -378,7 +378,7 @@
       "name": "James Lang",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 90.2,
-      "display_value": "90.2\" Wingspan",
+      "display_value": "7 ft 6.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2591.png",
       "position": "Forward",
       "positions": [
@@ -398,7 +398,7 @@
       "name": "Hasheem Thabeet",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 90.2,
-      "display_value": "90.2\" Wingspan",
+      "display_value": "7 ft 6.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201934.png",
       "position": "Forward",
       "positions": [
@@ -419,7 +419,7 @@
       "name": "Andre Drummond",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 90.2,
-      "display_value": "90.2\" Wingspan",
+      "display_value": "7 ft 6.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203083.png",
       "position": "Forward",
       "positions": [
@@ -440,7 +440,7 @@
       "name": "Ike Anigbogu",
       "subtext": "Forward \u2022 Draft Combine 2017",
       "value": 90.2,
-      "display_value": "90.2\" Wingspan",
+      "display_value": "7 ft 6.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628387.png",
       "position": "Forward",
       "positions": [
@@ -460,7 +460,7 @@
       "name": "Jameel Watkins",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12030.png",
       "position": "Forward",
       "positions": [
@@ -480,7 +480,7 @@
       "name": "Benjamin Eze",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12150.png",
       "position": "Forward",
       "positions": [
@@ -500,7 +500,7 @@
       "name": "Marcus Campbell",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12106.png",
       "position": "Forward",
       "positions": [
@@ -520,7 +520,7 @@
       "name": "D'Or Fischer",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12109.png",
       "position": "Forward",
       "positions": [
@@ -540,7 +540,7 @@
       "name": "Ekene Ibekwe",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12218.png",
       "position": "Forward",
       "positions": [
@@ -560,7 +560,7 @@
       "name": "DeAndre Jordan",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201599.png",
       "position": "Forward",
       "positions": [
@@ -580,7 +580,7 @@
       "name": "JaVale McGee",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.png",
       "position": "Forward",
       "positions": [
@@ -602,7 +602,7 @@
       "name": "Dexter Pittman",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202354.png",
       "position": "Forward",
       "positions": [
@@ -622,7 +622,7 @@
       "name": "Thomas Bryant",
       "subtext": "Forward \u2022 Draft Combine 2017",
       "value": 90.0,
-      "display_value": "90.0\" Wingspan",
+      "display_value": "7 ft 6 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png",
       "position": "Forward",
       "positions": [
@@ -643,7 +643,7 @@
       "name": "Lee Scruggs",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 89.8,
-      "display_value": "89.8\" Wingspan",
+      "display_value": "7 ft 5.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12168.png",
       "position": "Forward",
       "positions": [
@@ -663,7 +663,7 @@
       "name": "Pavel Podkolzin",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 89.8,
-      "display_value": "89.8\" Wingspan",
+      "display_value": "7 ft 5.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2750.png",
       "position": "Forward",
       "positions": [
@@ -683,7 +683,7 @@
       "name": "Patrick O'Bryant",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 89.8,
-      "display_value": "89.8\" Wingspan",
+      "display_value": "7 ft 5.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200753.png",
       "position": "Forward",
       "positions": [
@@ -703,7 +703,7 @@
       "name": "DeMarcus Cousins",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 89.8,
-      "display_value": "89.8\" Wingspan",
+      "display_value": "7 ft 5.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202326.png",
       "position": "Forward",
       "positions": [
@@ -723,7 +723,7 @@
       "name": "Larry Sanders",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 89.8,
-      "display_value": "89.8\" Wingspan",
+      "display_value": "7 ft 5.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202336.png",
       "position": "Forward",
       "positions": [
@@ -743,7 +743,7 @@
       "name": "Festus Ezeli",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 89.8,
-      "display_value": "89.8\" Wingspan",
+      "display_value": "7 ft 5.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203105.png",
       "position": "Forward",
       "positions": [
@@ -763,7 +763,7 @@
       "name": "Loren Woods",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 89.5,
-      "display_value": "89.5\" Wingspan",
+      "display_value": "7 ft 5.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2254.png",
       "position": "Forward",
       "positions": [
@@ -783,7 +783,7 @@
       "name": "Uche Okafor",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 89.5,
-      "display_value": "89.5\" Wingspan",
+      "display_value": "7 ft 5.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12059.png",
       "position": "Forward",
       "positions": [
@@ -803,7 +803,7 @@
       "name": "Peter Ramos",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 89.5,
-      "display_value": "89.5\" Wingspan",
+      "display_value": "7 ft 5.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2762.png",
       "position": "Forward",
       "positions": [
@@ -823,7 +823,7 @@
       "name": "Brook Lopez",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 89.5,
-      "display_value": "89.5\" Wingspan",
+      "display_value": "7 ft 5.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png",
       "position": "Forward",
       "positions": [
@@ -845,7 +845,7 @@
       "name": "Anthony Davis",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 89.5,
-      "display_value": "89.5\" Wingspan",
+      "display_value": "7 ft 5.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
       "position": "Forward",
       "positions": [
@@ -866,7 +866,7 @@
       "name": "Robert Upshaw",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 89.5,
-      "display_value": "89.5\" Wingspan",
+      "display_value": "7 ft 5.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626193.png",
       "position": "Forward",
       "positions": [
@@ -886,7 +886,7 @@
       "name": "Jerome Jordan",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 89.2,
-      "display_value": "89.2\" Wingspan",
+      "display_value": "7 ft 5.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12329.png",
       "position": "Forward",
       "positions": [
@@ -906,7 +906,7 @@
       "name": "Rakeem Christmas",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 89.2,
-      "display_value": "89.2\" Wingspan",
+      "display_value": "7 ft 5.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626176.png",
       "position": "Forward",
       "positions": [
@@ -926,7 +926,7 @@
       "name": "Jarrett Allen",
       "subtext": "Forward \u2022 Draft Combine 2017",
       "value": 89.2,
-      "display_value": "89.2\" Wingspan",
+      "display_value": "7 ft 5.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png",
       "position": "Forward",
       "positions": [
@@ -947,7 +947,7 @@
       "name": "Jaren Jackson",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 89.2,
-      "display_value": "89.2\" Wingspan",
+      "display_value": "7 ft 5.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png",
       "position": "Forward",
       "positions": [
@@ -968,7 +968,7 @@
       "name": "Christian Koloko",
       "subtext": "Forward \u2022 Draft Combine 2022",
       "value": 89.2,
-      "display_value": "89.2\" Wingspan",
+      "display_value": "7 ft 5.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631132.png",
       "position": "Forward",
       "positions": [
@@ -988,7 +988,7 @@
       "name": "Darrell Johns",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12157.png",
       "position": "Forward",
       "positions": [
@@ -1008,7 +1008,7 @@
       "name": "Souleymane Wane",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12172.png",
       "position": "Forward",
       "positions": [
@@ -1028,7 +1028,7 @@
       "name": "Darko Milicic",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2545.png",
       "position": "Forward",
       "positions": [
@@ -1048,7 +1048,7 @@
       "name": "Martin Iti",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12180.png",
       "position": "Forward",
       "positions": [
@@ -1068,7 +1068,7 @@
       "name": "Luke Schenscher",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101195.png",
       "position": "Forward",
       "positions": [
@@ -1088,7 +1088,7 @@
       "name": "Shawn James",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12256.png",
       "position": "Forward",
       "positions": [
@@ -1108,7 +1108,7 @@
       "name": "Solomon Alabi",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202374.png",
       "position": "Forward",
       "positions": [
@@ -1128,7 +1128,7 @@
       "name": "Jeremy Tyler",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202719.png",
       "position": "Forward",
       "positions": [
@@ -1148,7 +1148,7 @@
       "name": "John Henson",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203089.png",
       "position": "Forward",
       "positions": [
@@ -1168,7 +1168,7 @@
       "name": "Tony Bradley",
       "subtext": "Forward \u2022 Draft Combine 2017",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628396.png",
       "position": "Forward",
       "positions": [
@@ -1188,7 +1188,7 @@
       "name": "Isaac Haas",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629036.png",
       "position": "Forward",
       "positions": [
@@ -1208,7 +1208,7 @@
       "name": "Austin Wiley",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629024.png",
       "position": "Forward",
       "positions": [
@@ -1228,7 +1228,7 @@
       "name": "Ryan Kalkbrenner",
       "subtext": "Forward \u2022 Draft Combine 2023",
       "value": 89.0,
-      "display_value": "89.0\" Wingspan",
+      "display_value": "7 ft 5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641750.png",
       "position": "Forward",
       "positions": [
@@ -1248,7 +1248,7 @@
       "name": "LaMarcus Aldridge",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200746.png",
       "position": "Forward",
       "positions": [
@@ -1270,7 +1270,7 @@
       "name": "Solomon Jones",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200780.png",
       "position": "Forward",
       "positions": [
@@ -1291,7 +1291,7 @@
       "name": "Kevin Durant",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
       "position": "Forward",
       "positions": [
@@ -1313,7 +1313,7 @@
       "name": "Cole Aldrich",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202332.png",
       "position": "Forward",
       "positions": [
@@ -1333,7 +1333,7 @@
       "name": "Kyle O'Quinn",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203124.png",
       "position": "Forward",
       "positions": [
@@ -1353,7 +1353,7 @@
       "name": "Ray Spalding",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629034.png",
       "position": "Forward",
       "positions": [
@@ -1374,7 +1374,7 @@
       "name": "Moses Brown",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629650.png",
       "position": "Forward",
       "positions": [
@@ -1394,7 +1394,7 @@
       "name": "Isaiah Stewart",
       "subtext": "Forward \u2022 Draft Combine 2020",
       "value": 88.8,
-      "display_value": "88.8\" Wingspan",
+      "display_value": "7 ft 4.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png",
       "position": "Forward",
       "positions": [
@@ -1414,7 +1414,7 @@
       "name": "Jason Collins",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2215.png",
       "position": "Forward",
       "positions": [
@@ -1435,7 +1435,7 @@
       "name": "Nene ",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2403.png",
       "position": "Forward",
       "positions": [
@@ -1455,7 +1455,7 @@
       "name": "Sylvere Bryan",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12289.png",
       "position": "Forward",
       "positions": [
@@ -1475,7 +1475,7 @@
       "name": "John Edwards",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2823.png",
       "position": "Forward",
       "positions": [
@@ -1495,7 +1495,7 @@
       "name": "Dwight Howard",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2730.png",
       "position": "Forward",
       "positions": [
@@ -1517,7 +1517,7 @@
       "name": "Deng Gai",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101184.png",
       "position": "Forward",
       "positions": [
@@ -1537,7 +1537,7 @@
       "name": "Chris Richard",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201181.png",
       "position": "Forward",
       "positions": [
@@ -1557,7 +1557,7 @@
       "name": "Keith Gallon",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12316.png",
       "position": "Forward",
       "positions": [
@@ -1577,7 +1577,7 @@
       "name": "Ekpe Udoh",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202327.png",
       "position": "Forward",
       "positions": [
@@ -1597,7 +1597,7 @@
       "name": "Nikola Vucevic",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png",
       "position": "Forward",
       "positions": [
@@ -1618,7 +1618,7 @@
       "name": "Steven Adams",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png",
       "position": "Forward",
       "positions": [
@@ -1639,7 +1639,7 @@
       "name": "Cheick Diallo",
       "subtext": "Forward \u2022 Draft Combine 2016",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627767.png",
       "position": "Forward",
       "positions": [
@@ -1659,7 +1659,7 @@
       "name": "Wendell Carter",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 88.5,
-      "display_value": "88.5\" Wingspan",
+      "display_value": "7 ft 4.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png",
       "position": "Forward",
       "positions": [
@@ -1680,7 +1680,7 @@
       "name": "David West",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2561.png",
       "position": "Forward",
       "positions": [
@@ -1701,7 +1701,7 @@
       "name": "Yemi Nicholson",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12195.png",
       "position": "Forward",
       "positions": [
@@ -1721,7 +1721,7 @@
       "name": "Cedric Simmons",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200759.png",
       "position": "Forward",
       "positions": [
@@ -1741,7 +1741,7 @@
       "name": "Michael Southhall",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/23033.png",
       "position": "Forward",
       "positions": [
@@ -1761,7 +1761,7 @@
       "name": "Shelden Williams",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200749.png",
       "position": "Forward",
       "positions": [
@@ -1782,7 +1782,7 @@
       "name": "Eric Williams",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12203.png",
       "position": "Forward",
       "positions": [
@@ -1802,7 +1802,7 @@
       "name": "Greg Oden",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201141.png",
       "position": "Forward",
       "positions": [
@@ -1823,7 +1823,7 @@
       "name": "Daniel Orton",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202350.png",
       "position": "Forward",
       "positions": [
@@ -1843,7 +1843,7 @@
       "name": "Noah Vonleh",
       "subtext": "Forward \u2022 Draft Combine 2014",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203943.png",
       "position": "Forward",
       "positions": [
@@ -1864,7 +1864,7 @@
       "name": "Montrezl Harrell",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626149.png",
       "position": "Forward",
       "positions": [
@@ -1884,7 +1884,7 @@
       "name": "Bruno Fernando",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628981.png",
       "position": "Forward",
       "positions": [
@@ -1905,7 +1905,7 @@
       "name": "Neemias Queta",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png",
       "position": "Forward",
       "positions": [
@@ -1925,7 +1925,7 @@
       "name": "Kofi Cockburn",
       "subtext": "Forward \u2022 Draft Combine 2022",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630594.png",
       "position": "Forward",
       "positions": [
@@ -1945,7 +1945,7 @@
       "name": "Walker Kessler",
       "subtext": "Forward \u2022 Draft Combine 2022",
       "value": 88.2,
-      "display_value": "88.2\" Wingspan",
+      "display_value": "7 ft 4.2 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png",
       "position": "Forward",
       "positions": [
@@ -1965,7 +1965,7 @@
       "name": "Ruben Boumtje-Boumtje",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2257.png",
       "position": "Forward",
       "positions": [
@@ -1985,7 +1985,7 @@
       "name": "Eric Chenowith",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2251.png",
       "position": "Forward",
       "positions": [
@@ -2005,7 +2005,7 @@
       "name": "Steven Hunter",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2212.png",
       "position": "Forward",
       "positions": [
@@ -2025,7 +2025,7 @@
       "name": "Ken Johnson",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2256.png",
       "position": "Forward",
       "positions": [
@@ -2045,7 +2045,7 @@
       "name": "Melvin Ely",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2408.png",
       "position": "Forward",
       "positions": [
@@ -2066,7 +2066,7 @@
       "name": "Marquis Estill",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12078.png",
       "position": "Forward",
       "positions": [
@@ -2086,7 +2086,7 @@
       "name": "Marcus Douthit",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12177.png",
       "position": "Forward",
       "positions": [
@@ -2106,7 +2106,7 @@
       "name": "Emeka Okafor",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2731.png",
       "position": "Forward",
       "positions": [
@@ -2126,7 +2126,7 @@
       "name": "Hilton Armstrong",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200756.png",
       "position": "Forward",
       "positions": [
@@ -2147,7 +2147,7 @@
       "name": "Jermareo Davidson",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201176.png",
       "position": "Forward",
       "positions": [
@@ -2167,7 +2167,7 @@
       "name": "Ali Traore",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12233.png",
       "position": "Forward",
       "positions": [
@@ -2187,7 +2187,7 @@
       "name": "Major Wingate",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12235.png",
       "position": "Forward",
       "positions": [
@@ -2207,7 +2207,7 @@
       "name": "James Gist",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12251.png",
       "position": "Forward",
       "positions": [
@@ -2227,7 +2227,7 @@
       "name": "Sasha Kaun",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12253.png",
       "position": "Forward",
       "positions": [
@@ -2247,7 +2247,7 @@
       "name": "Taj Gibson",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201959.png",
       "position": "Forward",
       "positions": [
@@ -2269,7 +2269,7 @@
       "name": "Derrick Favors",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202324.png",
       "position": "Forward",
       "positions": [
@@ -2290,7 +2290,7 @@
       "name": "Andrew Nicholson",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203094.png",
       "position": "Forward",
       "positions": [
@@ -2310,7 +2310,7 @@
       "name": "Henry Sims",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203156.png",
       "position": "Forward",
       "positions": [
@@ -2330,7 +2330,7 @@
       "name": "Dewayne Dedmon",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203473.png",
       "position": "Forward",
       "positions": [
@@ -2350,7 +2350,7 @@
       "name": "Trevor Mbakwe",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203522.png",
       "position": "Forward",
       "positions": [
@@ -2370,7 +2370,7 @@
       "name": "Jordan Bachynski",
       "subtext": "Forward \u2022 Draft Combine 2014",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203947.png",
       "position": "Forward",
       "positions": [
@@ -2390,7 +2390,7 @@
       "name": "Adreian Payne",
       "subtext": "Forward \u2022 Draft Combine 2014",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203940.png",
       "position": "Forward",
       "positions": [
@@ -2410,7 +2410,7 @@
       "name": "Myles Turner",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626167.png",
       "position": "Forward",
       "positions": [
@@ -2431,7 +2431,7 @@
       "name": "Chris Boucher",
       "subtext": "Forward \u2022 Draft Combine 2017",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628449.png",
       "position": "Forward",
       "positions": [
@@ -2451,7 +2451,7 @@
       "name": "Johnathan Motley",
       "subtext": "Forward \u2022 Draft Combine 2017",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628405.png",
       "position": "Forward",
       "positions": [
@@ -2471,7 +2471,7 @@
       "name": "Orlando Robinson",
       "subtext": "Forward \u2022 Draft Combine 2022",
       "value": 88.0,
-      "display_value": "88.0\" Wingspan",
+      "display_value": "7 ft 4 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631115.png",
       "position": "Forward",
       "positions": [
@@ -2491,7 +2491,7 @@
       "name": "Uche Nsonwu-Amadi",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12093.png",
       "position": "Forward",
       "positions": [
@@ -2511,7 +2511,7 @@
       "name": "Brandan Wright",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201148.png",
       "position": "Forward",
       "positions": [
@@ -2531,7 +2531,7 @@
       "name": "Keith Benson",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202728.png",
       "position": "Forward",
       "positions": [
@@ -2551,7 +2551,7 @@
       "name": "Nerlens Noel",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203457.png",
       "position": "Forward",
       "positions": [
@@ -2572,7 +2572,7 @@
       "name": "Brandon Ashley",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626165.png",
       "position": "Forward",
       "positions": [
@@ -2592,7 +2592,7 @@
       "name": "Damian Jones",
       "subtext": "Forward \u2022 Draft Combine 2016",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627745.png",
       "position": "Forward",
       "positions": [
@@ -2613,7 +2613,7 @@
       "name": "Eric Paschall",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629672.png",
       "position": "Forward",
       "positions": [
@@ -2634,7 +2634,7 @@
       "name": "Mamadi Diakite",
       "subtext": "Forward \u2022 Draft Combine 2020",
       "value": 87.8,
-      "display_value": "87.8\" Wingspan",
+      "display_value": "7 ft 3.8 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629603.png",
       "position": "Forward",
       "positions": [
@@ -2654,7 +2654,7 @@
       "name": "Lamont Barnes",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12020.png",
       "position": "Forward",
       "positions": [
@@ -2674,7 +2674,7 @@
       "name": "Ndongo N'diaye",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12146.png",
       "position": "Forward",
       "positions": [
@@ -2694,7 +2694,7 @@
       "name": "Chris Christoffersen",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12042.png",
       "position": "Forward",
       "positions": [
@@ -2714,7 +2714,7 @@
       "name": "Chris Bosh",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2547.png",
       "position": "Forward",
       "positions": [
@@ -2735,7 +2735,7 @@
       "name": "Will McDonald",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12091.png",
       "position": "Forward",
       "positions": [
@@ -2755,7 +2755,7 @@
       "name": "Marvin Stone",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12099.png",
       "position": "Forward",
       "positions": [
@@ -2775,7 +2775,7 @@
       "name": "Ike Diogu",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101113.png",
       "position": "Forward",
       "positions": [
@@ -2796,7 +2796,7 @@
       "name": "Marcin Gortat",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101162.png",
       "position": "Forward",
       "positions": [
@@ -2816,7 +2816,7 @@
       "name": "David Simon",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12121.png",
       "position": "Forward",
       "positions": [
@@ -2836,7 +2836,7 @@
       "name": "Marvin Williams",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101107.png",
       "position": "Forward",
       "positions": [
@@ -2856,7 +2856,7 @@
       "name": "Jarvis Varnado",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12346.png",
       "position": "Forward",
       "positions": [
@@ -2876,7 +2876,7 @@
       "name": "Gorgui Dieng",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203476.png",
       "position": "Forward",
       "positions": [
@@ -2897,7 +2897,7 @@
       "name": "Alex Len",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203458.png",
       "position": "Forward",
       "positions": [
@@ -2918,7 +2918,7 @@
       "name": "Alex Kirk",
       "subtext": "Forward \u2022 Draft Combine 2014",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203945.png",
       "position": "Forward",
       "positions": [
@@ -2938,7 +2938,7 @@
       "name": "Cliff Alexander",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626146.png",
       "position": "Forward",
       "positions": [
@@ -2958,7 +2958,7 @@
       "name": "Kevon Looney",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626172.png",
       "position": "Forward",
       "positions": [
@@ -2978,7 +2978,7 @@
       "name": "Caleb Swanigan",
       "subtext": "Forward \u2022 Draft Combine 2016",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628403.png",
       "position": "Forward",
       "positions": [
@@ -2998,7 +2998,7 @@
       "name": "Kevin Hervey",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628987.png",
       "position": "Forward",
       "positions": [
@@ -3018,7 +3018,7 @@
       "name": "Charles Bassey",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png",
       "position": "Forward",
       "positions": [
@@ -3038,7 +3038,7 @@
       "name": "Jaxson Hayes",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 87.5,
-      "display_value": "87.5\" Wingspan",
+      "display_value": "7 ft 3.5 in",
       "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629637.png",
       "position": "Forward",
       "positions": [

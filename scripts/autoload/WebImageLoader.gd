@@ -120,12 +120,13 @@ const TEAM_LOGO_MAP: Dictionary = {
 var team_placeholder_cache: Dictionary = {}
 
 func get_team_placeholder_for_item(item: Dictionary) -> Texture2D:
+	var item_name: String = item.get("name", "").to_lower().strip_edges()
 	var team_name: String = item.get("team", "").to_lower().strip_edges()
 	var team_full: String = item.get("team_full", "").to_lower().strip_edges()
 	var subtext: String = item.get("subtext", "").to_lower().strip_edges()
 
 	var matched_res: String = ""
-	for cand in [team_name, team_full]:
+	for cand in [item_name, team_name, team_full]:
 		if not cand.is_empty() and TEAM_LOGO_MAP.has(cand):
 			matched_res = TEAM_LOGO_MAP[cand]
 			break

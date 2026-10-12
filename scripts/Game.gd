@@ -130,7 +130,8 @@ func _apply_filters_and_rebuild_game() -> void:
 	current_left_item = first_duel.left
 	current_right_item = first_duel.right
 	var fmt = current_category.get("value_format", "{value}")
-	duel_card.setup_duel(current_left_item, current_right_item, fmt)
+	var lower_better = current_category.get("lower_is_better", false)
+	duel_card.setup_duel(current_left_item, current_right_item, fmt, lower_better)
 
 	_update_active_filter_banner()
 
@@ -261,7 +262,8 @@ func _deal_new_duel() -> void:
 	current_right_item = next_duel.right
 
 	var fmt = current_category.get("value_format", "{value}")
-	duel_card.setup_duel(current_left_item, current_right_item, fmt)
+	var lower_better = current_category.get("lower_is_better", false)
+	duel_card.setup_duel(current_left_item, current_right_item, fmt, lower_better)
 
 	_maintain_duel_queue()
 
@@ -316,8 +318,14 @@ func _on_choice_made(side: String) -> void:
 	var left_val = float(current_left_item.get("value", 0))
 	var right_val = float(current_right_item.get("value", 0))
 
-	var is_left_higher = left_val >= right_val
-	var correct = (side == "left" and is_left_higher) or (side == "right" and not is_left_higher)
+	var lower_is_better = current_category.get("lower_is_better", false)
+	var is_left_winner: bool
+	if lower_is_better:
+		is_left_winner = left_val <= right_val
+	else:
+		is_left_winner = left_val >= right_val
+
+	var correct = (side == "left" and is_left_winner) or (side == "right" and not is_left_winner)
 
 	if correct:
 		var new_streak = GameManager.record_correct()

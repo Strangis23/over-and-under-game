@@ -46,10 +46,13 @@ func _ready() -> void:
 	left_highlight.visible = false
 	right_highlight.visible = false
 
-func setup_duel(left: Dictionary, right: Dictionary, format_str: String = "{value}") -> void:
+var is_lower_better: bool = false
+
+func setup_duel(left: Dictionary, right: Dictionary, format_str: String = "{value}", lower_is_better: bool = false) -> void:
 	item_left = left
 	item_right = right
 	value_format = format_str
+	is_lower_better = lower_is_better
 	is_locked = false
 	is_dragging = false
 	current_offset = Vector2.ZERO
@@ -205,7 +208,11 @@ func _reveal_results(chosen_side: String) -> void:
 	right_value_badge.scale = Vector2(0.5, 0.5)
 
 	# Determine winner
-	var is_left_winner = val_left >= val_right
+	var is_left_winner: bool
+	if is_lower_better:
+		is_left_winner = val_left <= val_right
+	else:
+		is_left_winner = val_left >= val_right
 	var user_correct = (chosen_side == "left" and is_left_winner) or (chosen_side == "right" and not is_left_winner)
 
 	# Pop badges
@@ -232,10 +239,15 @@ func _reveal_results(chosen_side: String) -> void:
 
 func _format_value(val: float) -> String:
 	if value_format.contains("{feet}") and value_format.contains("{inches}"):
-		var total_inches: int = int(round(val))
-		var feet: int = total_inches / 12
-		var inches: int = total_inches % 12
-		return value_format.replace("{feet}", str(feet)).replace("{inches}", str(inches))
+		var total_inches: float = val
+		var feet: int = int(total_inches / 12)
+		var inches: float = total_inches - (feet * 12)
+		var inch_str: String
+		if inches == floor(inches) or abs(inches - round(inches)) < 0.05:
+			inch_str = str(int(round(inches)))
+		else:
+			inch_str = "%.1f" % inches
+		return value_format.replace("{feet}", str(feet)).replace("{inches}", inch_str)
 
 	var s: String
 	if val == floor(val):
