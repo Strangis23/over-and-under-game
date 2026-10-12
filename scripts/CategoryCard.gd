@@ -14,9 +14,15 @@ var category_data: Dictionary = {}
 
 # Touch / Drag gesture detection to allow smooth scrolling without accidental card launches
 var touch_down: bool = false
-var touch_start_pos: Vector2 = Vector2.ZERO
-var is_drag_scrolling: bool = false
-const DRAG_THRESHOLD: float = 14.0
+var touch_start_global: Vector2 = Vector2.ZERO
+var touch_start_time: int = 0
+var touch_start_scroll_v: float = 0.0
+var has_dragged: bool = false
+
+# Generous thresholds for high-DPI mobile touchscreens
+const DRAG_CANCEL_DISTANCE: float = 32.0   # Pixels moved before considering it a drag
+const SCROLL_CANCEL_DISTANCE: float = 12.0 # ScrollContainer movement before canceling tap
+const MAX_TAP_DURATION_MS: int = 750      # Max ms for a tap
 
 # Dynamic styling
 var card_style: StyleBoxFlat
@@ -73,56 +79,76 @@ func _apply_category_theme(group: String, hex_color: String) -> void:
 	card_style.shadow_size = 6
 	add_theme_stylebox_override("panel", card_style)
 
+func _get_parent_scroll() -> ScrollContainer:
+	var p = get_parent()
+	while p:
+		if p is ScrollContainer:
+			return p
+		p = p.get_parent()
+	return null
+
 func _gui_input(event: InputEvent) -> void:
+	var is_down: bool = false
+	var is_up: bool = false
+	var is_motion: bool = false
+	var curr_pos: Vector2 = Vector2.ZERO
+
 	if event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT:
-		if event.pressed:
-			touch_down = true
-			touch_start_pos = event.global_position
-			is_drag_scrolling = false
-			_set_pressed_visuals(true)
-		else:
-			if touch_down:
-				touch_down = false
-				_set_pressed_visuals(false)
-				if not is_drag_scrolling:
-					_trigger_card_selection()
-			is_drag_scrolling = false
-
-	elif event is InputEventMouseMotion:
-		if touch_down:
-			var dist = event.global_position.distance_to(touch_start_pos)
-			if dist > DRAG_THRESHOLD:
-				is_drag_scrolling = true
-				_set_pressed_visuals(false)
-
+		is_down = event.pressed
+		is_up = not event.pressed
+		curr_pos = global_position + event.position
 	elif event is InputEventScreenTouch:
-		if event.pressed:
-			touch_down = true
-			touch_start_pos = event.position
-			is_drag_scrolling = false
-			_set_pressed_visuals(true)
-		else:
-			if touch_down:
-				touch_down = false
-				_set_pressed_visuals(false)
-				if not is_drag_scrolling:
-					_trigger_card_selection()
-			is_drag_scrolling = false
-
+		is_down = event.pressed
+		is_up = not event.pressed
+		curr_pos = global_position + event.position
+	elif event is InputEventMouseMotion:
+		is_motion = true
+		curr_pos = global_position + event.position
 	elif event is InputEventScreenDrag:
-		if touch_down:
-			var dist = event.position.distance_to(touch_start_pos)
-			if dist > DRAG_THRESHOLD:
-				is_drag_scrolling = true
-				_set_pressed_visuals(false)
+		is_motion = true
+		curr_pos = global_position + event.position
 
-func _set_pressed_visuals(is_pressed: bool) -> void:
+	var scroll = _get_parent_scroll()
+
+	if is_down:
+		touch_down = true
+		touch_start_global = curr_pos
+		touch_start_time = Time.get_ticks_msec()
+		has_dragged = false
+		if scroll:
+			touch_start_scroll_v = scroll.scroll_vertical
+		_set_pressed_visuals(true)
+
+	elif is_motion and touch_down:
+		var dist = curr_pos.distance_to(touch_start_global)
+		var scroll_diff = 0.0
+		if scroll:
+			scroll_diff = abs(scroll.scroll_vertical - touch_start_scroll_v)
+		if dist > DRAG_CANCEL_DISTANCE or scroll_diff > SCROLL_CANCEL_DISTANCE:
+			has_dragged = true
+			_set_pressed_visuals(false)
+
+	elif is_up and touch_down:
+		touch_down = false
+		_set_pressed_visuals(false)
+
+		var elapsed = Time.get_ticks_msec() - touch_start_time
+		var dist = curr_pos.distance_to(touch_start_global)
+		var scroll_diff = 0.0
+		if scroll:
+			scroll_diff = abs(scroll.scroll_vertical - touch_start_scroll_v)
+
+		# Tap is confirmed if finger didn't drag far, scroll didn't move far, and within tap time
+		if not has_dragged and dist <= DRAG_CANCEL_DISTANCE and scroll_diff <= SCROLL_CANCEL_DISTANCE and elapsed <= MAX_TAP_DURATION_MS:
+			_trigger_card_selection()
+
+func _set_pressed_visuals(is_pressed_state: bool) -> void:
 	if card_style:
-		card_style.border_color = active_border_color if is_pressed else normal_border_color
-		card_style.bg_color = Color(0.12, 0.16, 0.25, 0.98) if is_pressed else Color(0.09, 0.12, 0.18, 0.95)
+		card_style.border_color = active_border_color if is_pressed_state else normal_border_color
+		card_style.bg_color = Color(0.12, 0.16, 0.25, 0.98) if is_pressed_state else Color(0.09, 0.12, 0.18, 0.95)
 	
 	var tween = create_tween().set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT)
-	var target_scale = Vector2(0.97, 0.97) if is_pressed else Vector2.ONE
+	var target_scale = Vector2(0.97, 0.97) if is_pressed_state else Vector2.ONE
 	tween.tween_property(self, "scale", target_scale, 0.08)
 
 func _trigger_card_selection() -> void:
@@ -131,3 +157,4 @@ func _trigger_card_selection() -> void:
 	tween.tween_property(self, "scale", Vector2(1.03, 1.03), 0.1)
 	tween.tween_property(self, "scale", Vector2.ONE, 0.1)
 	selected.emit(category_id)
+

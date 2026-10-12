@@ -89,42 +89,44 @@ func setup_duel(left: Dictionary, right: Dictionary, format_str: String = "{valu
 func _load_image(target_rect: TextureRect, item: Dictionary) -> void:
 	WebImageLoader.load_image_for_item(item, target_rect)
 
+var last_touch_local: Vector2 = Vector2.ZERO
+
 func _gui_input(event: InputEvent) -> void:
 	if is_locked:
 		return
 
-	if event is InputEventMouseButton:
-		if event.button_index == MOUSE_BUTTON_LEFT:
-			if event.pressed:
-				is_dragging = true
-				drag_start_pos = event.global_position
-			else:
-				if is_dragging:
-					is_dragging = false
-					_handle_drag_release()
+	var is_down = false
+	var is_up = false
+	var is_motion = false
+	var curr_global = global_position + event.position
 
-	elif event is InputEventMouseMotion:
-		if is_dragging:
-			var delta_x = event.global_position.x - drag_start_pos.x
-			var delta_y = (event.global_position.y - drag_start_pos.y) * 0.25
-			current_offset = Vector2(delta_x, delta_y)
-			_update_card_drag_visuals()
-
+	if event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT:
+		is_down = event.pressed
+		is_up = not event.pressed
+		last_touch_local = event.position
 	elif event is InputEventScreenTouch:
-		if event.pressed:
-			is_dragging = true
-			drag_start_pos = event.position
-		else:
-			if is_dragging:
-				is_dragging = false
-				_handle_drag_release()
-
+		is_down = event.pressed
+		is_up = not event.pressed
+		last_touch_local = event.position
+	elif event is InputEventMouseMotion:
+		is_motion = true
+		last_touch_local = event.position
 	elif event is InputEventScreenDrag:
-		if is_dragging:
-			var delta_x = event.position.x - drag_start_pos.x
-			var delta_y = (event.position.y - drag_start_pos.y) * 0.25
-			current_offset = Vector2(delta_x, delta_y)
-			_update_card_drag_visuals()
+		is_motion = true
+		last_touch_local = event.position
+
+	if is_down:
+		is_dragging = true
+		drag_start_pos = curr_global
+		current_offset = Vector2.ZERO
+	elif is_motion and is_dragging:
+		var delta_x = curr_global.x - drag_start_pos.x
+		var delta_y = (curr_global.y - drag_start_pos.y) * 0.25
+		current_offset = Vector2(delta_x, delta_y)
+		_update_card_drag_visuals()
+	elif is_up and is_dragging:
+		is_dragging = false
+		_handle_drag_release()
 
 func _update_card_drag_visuals() -> void:
 	card_panel.position = initial_position + current_offset
@@ -149,6 +151,12 @@ func _handle_drag_release() -> void:
 		trigger_choice("left")
 	elif current_offset.x >= swipe_threshold:
 		trigger_choice("right")
+	elif current_offset.length() < 35.0:
+		# Direct tap on one of the contenders
+		if last_touch_local.x < (size.x * 0.5):
+			trigger_choice("left")
+		else:
+			trigger_choice("right")
 	else:
 		# Snap back
 		var tween = create_tween().set_parallel(true).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
