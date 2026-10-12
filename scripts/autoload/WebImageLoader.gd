@@ -43,6 +43,113 @@ func prefetch_item(item: Dictionary) -> void:
 	prefetch_queue.append(item)
 	_pump_queue()
 
+const TEAM_LOGO_MAP: Dictionary = {
+	"76ers": "res://assets/images/nba/team_1610612755.webp",
+	"sixers": "res://assets/images/nba/team_1610612755.webp",
+	"philadelphia 76ers": "res://assets/images/nba/team_1610612755.webp",
+	"bucks": "res://assets/images/nba/team_1610612749.webp",
+	"milwaukee bucks": "res://assets/images/nba/team_1610612749.webp",
+	"bulls": "res://assets/images/nba/team_1610612741.webp",
+	"chicago bulls": "res://assets/images/nba/team_1610612741.webp",
+	"cavaliers": "res://assets/images/nba/team_1610612739.webp",
+	"cavs": "res://assets/images/nba/team_1610612739.webp",
+	"cleveland cavaliers": "res://assets/images/nba/team_1610612739.webp",
+	"celtics": "res://assets/images/nba/team_1610612738.webp",
+	"boston celtics": "res://assets/images/nba/team_1610612738.webp",
+	"clippers": "res://assets/images/nba/team_1610612746.webp",
+	"los angeles clippers": "res://assets/images/nba/team_1610612746.webp",
+	"braves": "res://assets/images/nba/team_1610612746.webp",
+	"grizzlies": "res://assets/images/nba/team_1610612763.webp",
+	"memphis grizzlies": "res://assets/images/nba/team_1610612763.webp",
+	"hawks": "res://assets/images/nba/team_1610612737.webp",
+	"atlanta hawks": "res://assets/images/nba/team_1610612737.webp",
+	"heat": "res://assets/images/nba/team_1610612748.webp",
+	"miami heat": "res://assets/images/nba/team_1610612748.webp",
+	"hornets": "res://assets/images/nba/team_1610612766.webp",
+	"charlotte hornets": "res://assets/images/nba/team_1610612766.webp",
+	"bobcats": "res://assets/images/nba/team_1610612766.webp",
+	"jazz": "res://assets/images/nba/team_1610612762.webp",
+	"utah jazz": "res://assets/images/nba/team_1610612762.webp",
+	"kings": "res://assets/images/nba/team_1610612758.webp",
+	"sacramento kings": "res://assets/images/nba/team_1610612758.webp",
+	"royals": "res://assets/images/nba/team_1610612758.webp",
+	"knicks": "res://assets/images/nba/team_1610612752.webp",
+	"new york knicks": "res://assets/images/nba/team_1610612752.webp",
+	"lakers": "res://assets/images/nba/team_1610612747.webp",
+	"los angeles lakers": "res://assets/images/nba/team_1610612747.webp",
+	"magic": "res://assets/images/nba/team_1610612753.webp",
+	"orlando magic": "res://assets/images/nba/team_1610612753.webp",
+	"mavericks": "res://assets/images/nba/team_1610612742.webp",
+	"mavs": "res://assets/images/nba/team_1610612742.webp",
+	"dallas mavericks": "res://assets/images/nba/team_1610612742.webp",
+	"nets": "res://assets/images/nba/team_1610612751.webp",
+	"brooklyn nets": "res://assets/images/nba/team_1610612751.webp",
+	"nuggets": "res://assets/images/nba/team_1610612743.webp",
+	"denver nuggets": "res://assets/images/nba/team_1610612743.webp",
+	"pacers": "res://assets/images/nba/team_1610612754.webp",
+	"indiana pacers": "res://assets/images/nba/team_1610612754.webp",
+	"pelicans": "res://assets/images/nba/team_1610612740.webp",
+	"new orleans pelicans": "res://assets/images/nba/team_1610612740.webp",
+	"pistons": "res://assets/images/nba/team_1610612765.webp",
+	"detroit pistons": "res://assets/images/nba/team_1610612765.webp",
+	"raptors": "res://assets/images/nba/team_1610612761.webp",
+	"toronto raptors": "res://assets/images/nba/team_1610612761.webp",
+	"rockets": "res://assets/images/nba/team_1610612745.webp",
+	"houston rockets": "res://assets/images/nba/team_1610612745.webp",
+	"spurs": "res://assets/images/nba/team_1610612759.webp",
+	"san antonio spurs": "res://assets/images/nba/team_1610612759.webp",
+	"suns": "res://assets/images/nba/team_1610612756.webp",
+	"phoenix suns": "res://assets/images/nba/team_1610612756.webp",
+	"thunder": "res://assets/images/nba/team_1610612760.webp",
+	"oklahoma city thunder": "res://assets/images/nba/team_1610612760.webp",
+	"supersonics": "res://assets/images/nba/team_1610612760.webp",
+	"sonics": "res://assets/images/nba/team_1610612760.webp",
+	"timberwolves": "res://assets/images/nba/team_1610612750.webp",
+	"minnesota timberwolves": "res://assets/images/nba/team_1610612750.webp",
+	"wolves": "res://assets/images/nba/team_1610612750.webp",
+	"trail blazers": "res://assets/images/nba/team_1610612757.webp",
+	"portland trail blazers": "res://assets/images/nba/team_1610612757.webp",
+	"blazers": "res://assets/images/nba/team_1610612757.webp",
+	"warriors": "res://assets/images/nba/team_1610612744.webp",
+	"golden state warriors": "res://assets/images/nba/team_1610612744.webp",
+	"wizards": "res://assets/images/nba/team_1610612764.webp",
+	"washington wizards": "res://assets/images/nba/team_1610612764.webp",
+	"bullets": "res://assets/images/nba/team_1610612764.webp"
+}
+
+var team_placeholder_cache: Dictionary = {}
+
+func get_team_placeholder_for_item(item: Dictionary) -> Texture2D:
+	var team_name: String = item.get("team", "").to_lower().strip_edges()
+	var team_full: String = item.get("team_full", "").to_lower().strip_edges()
+	var subtext: String = item.get("subtext", "").to_lower().strip_edges()
+
+	var matched_res: String = ""
+	for cand in [team_name, team_full]:
+		if not cand.is_empty() and TEAM_LOGO_MAP.has(cand):
+			matched_res = TEAM_LOGO_MAP[cand]
+			break
+
+	if matched_res.is_empty():
+		for t in TEAM_LOGO_MAP.keys():
+			if not t.is_empty() and (subtext.contains(t) or team_name.contains(t)):
+				matched_res = TEAM_LOGO_MAP[t]
+				break
+
+	if matched_res.is_empty():
+		matched_res = "res://assets/images/nba/nba_league.webp"
+
+	if team_placeholder_cache.has(matched_res):
+		return team_placeholder_cache[matched_res]
+
+	if ResourceLoader.exists(matched_res):
+		var tex = load(matched_res)
+		if tex:
+			team_placeholder_cache[matched_res] = tex
+			return tex
+
+	return null
+
 func load_image_for_item(item: Dictionary, target_rect: TextureRect) -> void:
 	var item_name: String = item.get("name", "")
 	if item_name.is_empty():
@@ -56,7 +163,12 @@ func load_image_for_item(item: Dictionary, target_rect: TextureRect) -> void:
 		target_rect.texture = memory_cache[item_name]
 		return
 
-	# 2. Local bundled asset resolution (0ms latency, zero network)
+	# 2. Team placeholder immediately shown while image resolves / loads
+	var team_tex = get_team_placeholder_for_item(item)
+	if team_tex:
+		target_rect.texture = team_tex
+
+	# 3. Local bundled asset resolution (0ms latency, zero network)
 	var local_path = _resolve_local_image_path(item)
 	if not local_path.is_empty() and ResourceLoader.exists(local_path):
 		var local_tex = load(local_path)

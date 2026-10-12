@@ -15,7 +15,7 @@
       "subtext": "Forward \u2022 Mavericks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1717.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1717.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -37,7 +37,7 @@
       "subtext": "Forward \u2022 Timberwolves",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/708.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/708.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -59,7 +59,7 @@
       "subtext": "Center \u2022 Celtics",
       "value": 244.0,
       "display_value": "244 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/305.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/305.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -80,7 +80,7 @@
       "subtext": "Forward \u2022 Jazz",
       "value": 259.0,
       "display_value": "259 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/252.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/252.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -102,7 +102,7 @@
       "subtext": "Forward \u2022 Celtics",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1718.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1718.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -124,7 +124,7 @@
       "subtext": "Forward \u2022 Spurs",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1495.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1495.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -147,7 +147,7 @@
       "subtext": "Center \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76003.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76003.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -167,7 +167,7 @@
       "subtext": "Guard \u2022 Lakers",
       "value": 212.0,
       "display_value": "212 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/977.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/977.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -190,7 +190,7 @@
       "subtext": "Center \u2022 Rockets",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77449.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77449.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -211,7 +211,7 @@
       "subtext": "Guard \u2022 Pacers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/397.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/397.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -233,7 +233,7 @@
       "subtext": "Center \u2022 Lakers",
       "value": 325.0,
       "display_value": "325 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/406.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/406.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -255,7 +255,7 @@
       "subtext": "Guard \u2022 Suns",
       "value": 178.0,
       "display_value": "178 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/959.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/959.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -277,7 +277,7 @@
       "subtext": "Guard \u2022 Jazz",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/304.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/304.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -299,7 +299,7 @@
       "subtext": "Guard \u2022 Wizards",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -321,7 +321,7 @@
       "subtext": "Guard \u2022 SuperSonics",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/56.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/56.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -342,7 +342,7 @@
       "subtext": "Guard \u2022 Bulls",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/937.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/937.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -365,7 +365,7 @@
       "subtext": "Guard \u2022 Heat",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2548.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2548.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -386,7 +386,7 @@
       "subtext": "Center \u2022 Knicks",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/121.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/121.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -408,7 +408,7 @@
       "subtext": "Forward \u2022 Bullets",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76979.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76979.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -428,7 +428,7 @@
       "subtext": "Forward \u2022 Celtics",
       "value": 203.0,
       "display_value": "203 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76970.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76970.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -448,7 +448,7 @@
       "subtext": "Forward \u2022 76ers",
       "value": 252.0,
       "display_value": "252 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/787.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/787.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -469,7 +469,7 @@
       "subtext": "Guard \u2022 76ers",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76882.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76882.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -489,7 +489,7 @@
       "subtext": "Guard \u2022 Clippers",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -511,7 +511,7 @@
       "subtext": "Guard \u2022 Hawks",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78530.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78530.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -531,7 +531,7 @@
       "subtext": "Forward \u2022 76ers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78076.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78076.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -551,7 +551,7 @@
       "subtext": "Forward \u2022 Suns",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -573,7 +573,7 @@
       "subtext": "Forward \u2022 Hawks",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -594,7 +594,7 @@
       "subtext": "Guard \u2022 Bulls",
       "value": 216.0,
       "display_value": "216 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/893.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/893.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -616,7 +616,7 @@
       "subtext": "Forward \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76127.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76127.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -636,7 +636,7 @@
       "subtext": "Guard \u2022 Lakers",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78497.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78497.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -656,7 +656,7 @@
       "subtext": "Center \u2022 Braves",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77498.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77498.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -676,7 +676,7 @@
       "subtext": "Guard \u2022 Royals",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600015.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600015.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -696,7 +696,7 @@
       "subtext": "Guard \u2022 Warriors",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -718,7 +718,7 @@
       "subtext": "Center \u2022 Spurs",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/764.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/764.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -740,7 +740,7 @@
       "subtext": "Center \u2022 Warriors",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600001.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600001.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -760,7 +760,7 @@
       "subtext": "Center \u2022 Warriors",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76375.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76375.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -780,7 +780,7 @@
       "subtext": "Guard \u2022 76ers",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -802,7 +802,7 @@
       "subtext": "Forward \u2022 Pistons",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/23.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/23.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -823,7 +823,7 @@
       "subtext": "Forward \u2022 Celtics",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1450.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1450.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -844,7 +844,7 @@
       "subtext": "Guard \u2022 Knicks",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600006.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600006.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -864,7 +864,7 @@
       "subtext": "Center \u2022 Celtics",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78049.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78049.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -884,7 +884,7 @@
       "subtext": "Guard \u2022 Knicks",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76750.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76750.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -904,7 +904,7 @@
       "subtext": "Guard \u2022 Pistons",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78318.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78318.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -925,7 +925,7 @@
       "subtext": "Center \u2022 Bullets",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78392.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78392.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -945,7 +945,7 @@
       "subtext": "Guard \u2022 Celtics",
       "value": 198.0,
       "display_value": "198 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77196.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77196.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -965,7 +965,7 @@
       "subtext": "Forward \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1460.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1460.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -986,7 +986,7 @@
       "subtext": "Guard \u2022 Pistons",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76166.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76166.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1006,7 +1006,7 @@
       "subtext": "Guard \u2022 Trail Blazers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1027,7 +1027,7 @@
       "subtext": "Center \u2022 Celtics",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76462.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76462.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1047,7 +1047,7 @@
       "subtext": "Forward \u2022 Hawks",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77847.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77847.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1067,7 +1067,7 @@
       "subtext": "Forward \u2022 Royals",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77418.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77418.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1087,7 +1087,7 @@
       "subtext": "Guard \u2022 Celtics",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78126.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78126.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1107,7 +1107,7 @@
       "subtext": "Forward \u2022 Lakers",
       "value": 253.0,
       "display_value": "253 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1129,7 +1129,7 @@
       "subtext": "Forward \u2022 Bucks",
       "value": 243.0,
       "display_value": "243 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1150,7 +1150,7 @@
       "subtext": "Guard \u2022 Jazz",
       "value": 197.0,
       "display_value": "197 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77459.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77459.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1170,7 +1170,7 @@
       "subtext": "Center \u2022 Trail Blazers",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78450.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78450.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1190,7 +1190,7 @@
       "subtext": "Forward \u2022 Warriors",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76056.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76056.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1210,7 +1210,7 @@
       "subtext": "Forward \u2022 Warriors",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600013.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600013.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1230,7 +1230,7 @@
       "subtext": "Center \u2022 Lakers",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600012.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600012.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1250,7 +1250,7 @@
       "subtext": "Guard \u2022 Raptors",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1713.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1713.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1273,7 +1273,7 @@
       "subtext": "Forward \u2022 Hawks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/788.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/788.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1296,7 +1296,7 @@
       "subtext": "Center \u2022 Knicks",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2199.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2199.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1317,7 +1317,7 @@
       "subtext": "Forward \u2022 Heat",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2617.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2617.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1339,7 +1339,7 @@
       "subtext": "Center \u2022 Bobcats",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1737.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1737.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1361,7 +1361,7 @@
       "subtext": "Center \u2022 Pacers",
       "value": 252.0,
       "display_value": "252 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/229.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/229.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1382,7 +1382,7 @@
       "subtext": "Forward \u2022 Pistons",
       "value": 218.0,
       "display_value": "218 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/711.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/711.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1404,7 +1404,7 @@
       "subtext": "Guard \u2022 Mavericks",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1891.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1891.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1426,7 +1426,7 @@
       "subtext": "Forward \u2022 Knicks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/891.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/891.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1448,7 +1448,7 @@
       "subtext": "Forward \u2022 Lakers",
       "value": 265.0,
       "display_value": "265 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2730.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2730.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1471,7 +1471,7 @@
       "subtext": "Guard \u2022 Spurs",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2225.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2225.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1492,7 +1492,7 @@
       "subtext": "Guard \u2022 Warriors",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2738.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2738.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1515,7 +1515,7 @@
       "subtext": "Center \u2022 Nuggets",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/87.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/87.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1536,7 +1536,7 @@
       "subtext": "Forward \u2022 Nuggets",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/948.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/948.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1559,7 +1559,7 @@
       "subtext": "Forward \u2022 Pacers",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/979.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/979.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1582,7 +1582,7 @@
       "subtext": "Guard \u2022 Nuggets",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1889.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1889.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1604,7 +1604,7 @@
       "subtext": "Forward \u2022 Pistons",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/255.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/255.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1626,7 +1626,7 @@
       "subtext": "Forward \u2022 Grizzlies",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2216.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2216.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1647,7 +1647,7 @@
       "subtext": "Guard \u2022 Hawks",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101150.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101150.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1669,7 +1669,7 @@
       "subtext": "Center \u2022 Nuggets",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/7.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/7.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1690,7 +1690,7 @@
       "subtext": "Forward \u2022 Nets",
       "value": 233.0,
       "display_value": "233 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2210.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2210.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1711,7 +1711,7 @@
       "subtext": "Center \u2022 Bulls",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/270.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/270.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1733,7 +1733,7 @@
       "subtext": "Center \u2022 Pacers",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1006.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1006.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1754,7 +1754,7 @@
       "subtext": "Forward \u2022 Trail Blazers",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/361.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/361.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1777,7 +1777,7 @@
       "subtext": "Guard \u2022 76ers",
       "value": 212.0,
       "display_value": "212 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2594.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2594.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1799,7 +1799,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/703.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/703.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1821,7 +1821,7 @@
       "subtext": "Forward \u2022 Bullets",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/328.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/328.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1842,7 +1842,7 @@
       "subtext": "Guard \u2022 NBA",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2207.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2207.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1865,7 +1865,7 @@
       "subtext": "Forward \u2022 Clippers",
       "value": 254.0,
       "display_value": "254 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1882.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1882.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1887,7 +1887,7 @@
       "subtext": "Guard \u2022 Grizzlies",
       "value": 218.0,
       "display_value": "218 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2034.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2034.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1909,7 +1909,7 @@
       "subtext": "Center \u2022 Hawks",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78014.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78014.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1930,7 +1930,7 @@
       "subtext": "Guard \u2022 Lakers",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/965.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/965.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1952,7 +1952,7 @@
       "subtext": "Guard \u2022 Heat",
       "value": 196.0,
       "display_value": "196 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1974,7 +1974,7 @@
       "subtext": "Center \u2022 Hawks",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2585.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2585.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -1995,7 +1995,7 @@
       "subtext": "Forward \u2022 Nets",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/433.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/433.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2016,7 +2016,7 @@
       "subtext": "Center \u2022 76ers",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/689.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/689.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -2038,7 +2038,7 @@
       "subtext": "Forward \u2022 Pistons",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1112.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1112.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2061,7 +2061,7 @@
       "subtext": "Guard \u2022 Cavaliers",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200765.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200765.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2083,7 +2083,7 @@
       "subtext": "Guard \u2022 NBA",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/393.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/393.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2105,7 +2105,7 @@
       "subtext": "Forward \u2022 Nets",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200746.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200746.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2128,7 +2128,7 @@
       "subtext": "Forward \u2022 Mavericks",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/64.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/64.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2151,7 +2151,7 @@
       "subtext": "Center \u2022 NBA",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/770.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/770.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -2172,7 +2172,7 @@
       "subtext": "Guard \u2022 Jazz",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2195,7 +2195,7 @@
       "subtext": "Forward \u2022 Timberwolves",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/693.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/693.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2218,7 +2218,7 @@
       "subtext": "Center \u2022 Lakers",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/124.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/124.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -2240,7 +2240,7 @@
       "subtext": "Guard \u2022 NBA",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/107.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/107.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2261,7 +2261,7 @@
       "subtext": "Center \u2022 Trail Blazers",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -2283,7 +2283,7 @@
       "subtext": "Forward \u2022 Rockets",
       "value": 248.0,
       "display_value": "248 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/901.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/901.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2306,7 +2306,7 @@
       "subtext": "Guard \u2022 Trail Blazers",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/345.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/345.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2328,7 +2328,7 @@
       "subtext": "Guard \u2022 Nuggets",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2747.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2747.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2349,7 +2349,7 @@
       "subtext": "Guard \u2022 NBA",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/283.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/283.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2370,7 +2370,7 @@
       "subtext": "Forward \u2022 Lakers",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/109.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/109.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2392,7 +2392,7 @@
       "subtext": "Guard \u2022 Suns",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1890.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1890.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2415,7 +2415,7 @@
       "subtext": "Forward \u2022 Bucks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/175.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/175.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2437,7 +2437,7 @@
       "subtext": "Forward \u2022 Hawks",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78151.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78151.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2457,7 +2457,7 @@
       "subtext": "Forward \u2022 SuperSonics",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/96.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/96.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2479,7 +2479,7 @@
       "subtext": "Forward \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/920.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/920.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2501,7 +2501,7 @@
       "subtext": "Guard \u2022 Bucks",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/894.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/894.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2522,7 +2522,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1712.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1712.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2544,7 +2544,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/739.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/739.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2567,7 +2567,7 @@
       "subtext": "Guard \u2022 Spurs",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1938.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1938.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2588,7 +2588,7 @@
       "subtext": "Guard \u2022 Hornets",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/209.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/209.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2611,7 +2611,7 @@
       "subtext": "Guard \u2022 Bulls",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/70.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/70.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2633,7 +2633,7 @@
       "subtext": "Guard \u2022 76ers",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200755.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200755.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2655,7 +2655,7 @@
       "subtext": "Guard \u2022 Mavericks",
       "value": 206.0,
       "display_value": "206 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/157.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/157.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2676,7 +2676,7 @@
       "subtext": "Guard \u2022 Timberwolves",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2698,7 +2698,7 @@
       "subtext": "Center \u2022 Heat",
       "value": 261.0,
       "display_value": "261 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/297.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/297.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -2719,7 +2719,7 @@
       "subtext": "Guard \u2022 Clippers",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2741,7 +2741,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/281.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/281.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2763,7 +2763,7 @@
       "subtext": "Guard \u2022 Mavericks",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/714.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/714.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2785,7 +2785,7 @@
       "subtext": "Guard \u2022 NBA",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101139.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101139.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2807,7 +2807,7 @@
       "subtext": "Forward \u2022 Hornets",
       "value": 239.0,
       "display_value": "239 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/136.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/136.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2829,7 +2829,7 @@
       "subtext": "Forward \u2022 Raptors",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201152.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201152.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2851,7 +2851,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1472.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1472.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2872,7 +2872,7 @@
       "subtext": "Forward \u2022 Hornets",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2561.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2561.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2893,7 +2893,7 @@
       "subtext": "Forward \u2022 Pistons",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/686.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/686.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2916,7 +2916,7 @@
       "subtext": "Guard \u2022 Hawks",
       "value": 213.0,
       "display_value": "213 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/278.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/278.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2938,7 +2938,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 234.0,
       "display_value": "234 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/330.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/330.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2961,7 +2961,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/3.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/3.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2983,7 +2983,7 @@
       "subtext": "Center \u2022 Cavaliers",
       "value": 281.0,
       "display_value": "281 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201577.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201577.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -3005,7 +3005,7 @@
       "subtext": "Forward \u2022 Lakers",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1885.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1885.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3027,7 +3027,7 @@
       "subtext": "Forward \u2022 Clippers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1894.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1894.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3049,7 +3049,7 @@
       "subtext": "Guard \u2022 NBA",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/57.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/57.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3071,7 +3071,7 @@
       "subtext": "Center \u2022 Bucks",
       "value": 282.0,
       "display_value": "282 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -3093,7 +3093,7 @@
       "subtext": "Forward \u2022 Mavericks",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3116,7 +3116,7 @@
       "subtext": "Guard \u2022 Pacers",
       "value": 188.0,
       "display_value": "188 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201588.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201588.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3138,7 +3138,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/178.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/178.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3161,7 +3161,7 @@
       "subtext": "Forward \u2022 Clippers",
       "value": 226.0,
       "display_value": "226 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2440.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2440.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3182,7 +3182,7 @@
       "subtext": "Center \u2022 NBA",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/104.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/104.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -3203,7 +3203,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/448.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/448.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3224,7 +3224,7 @@
       "subtext": "Guard \u2022 76ers",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76385.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76385.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3245,7 +3245,7 @@
       "subtext": "Guard \u2022 Pistons",
       "value": 193.0,
       "display_value": "193 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1888.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1888.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3267,7 +3267,7 @@
       "subtext": "Forward \u2022 Bullets",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/279.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/279.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3289,7 +3289,7 @@
       "subtext": "Guard \u2022 Mavericks",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200826.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200826.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3310,7 +3310,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/185.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/185.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3332,7 +3332,7 @@
       "subtext": "Guard \u2022 Suns",
       "value": 194.0,
       "display_value": "194 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2571.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2571.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3353,7 +3353,7 @@
       "subtext": "Guard \u2022 Celtics",
       "value": 165.0,
       "display_value": "165 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/344.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/344.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3375,7 +3375,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/934.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/934.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3396,7 +3396,7 @@
       "subtext": "Forward \u2022 Pistons",
       "value": 212.0,
       "display_value": "212 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2419.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2419.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3417,7 +3417,7 @@
       "subtext": "Guard \u2022 Magic",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2749.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2749.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3438,7 +3438,7 @@
       "subtext": "Forward \u2022 Knicks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2405.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2405.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3460,7 +3460,7 @@
       "subtext": "Forward \u2022 Thunder",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2555.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2555.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3482,7 +3482,7 @@
       "subtext": "Forward \u2022 Kings",
       "value": 261.0,
       "display_value": "261 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1802.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1802.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3505,7 +3505,7 @@
       "subtext": "Forward \u2022 Nuggets",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3527,7 +3527,7 @@
       "subtext": "Guard \u2022 SuperSonics",
       "value": 187.0,
       "display_value": "187 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/766.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/766.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3550,7 +3550,7 @@
       "subtext": "Guard \u2022 Suns",
       "value": 193.0,
       "display_value": "193 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1453.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1453.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3571,7 +3571,7 @@
       "subtext": "Guard \u2022 Clippers",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/15.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/15.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3593,7 +3593,7 @@
       "subtext": "Guard \u2022 Hawks",
       "value": 221.0,
       "display_value": "221 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/120.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/120.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3615,7 +3615,7 @@
       "subtext": "Guard \u2022 Bulls",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/166.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/166.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3637,7 +3637,7 @@
       "subtext": "Forward \u2022 Spurs",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2564.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2564.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3659,7 +3659,7 @@
       "subtext": "Guard \u2022 Lakers",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/216.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/216.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3681,7 +3681,7 @@
       "subtext": "Guard \u2022 SuperSonics",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/699.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/699.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3702,7 +3702,7 @@
       "subtext": "Guard \u2022 Thunder",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200757.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200757.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3724,7 +3724,7 @@
       "subtext": "Center \u2022 NBA",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/170.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/170.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -3745,7 +3745,7 @@
       "subtext": "Forward \u2022 Jazz",
       "value": 208.0,
       "display_value": "208 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76504.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76504.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3766,7 +3766,7 @@
       "subtext": "Guard \u2022 Bobcats",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101109.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101109.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3787,7 +3787,7 @@
       "subtext": "Forward \u2022 Magic",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2045.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2045.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3808,7 +3808,7 @@
       "subtext": "Guard \u2022 Raptors",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101181.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101181.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3829,7 +3829,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2365.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2365.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3851,7 +3851,7 @@
       "subtext": "Forward \u2022 Bobcats",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2222.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2222.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3872,7 +3872,7 @@
       "subtext": "Guard \u2022 Kings",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1710.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1710.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3894,7 +3894,7 @@
       "subtext": "Guard \u2022 Mavericks",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76516.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76516.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3915,7 +3915,7 @@
       "subtext": "Guard \u2022 Clippers",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3938,7 +3938,7 @@
       "subtext": "Forward \u2022 Pacers",
       "value": 241.0,
       "display_value": "241 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/365.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/365.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3960,7 +3960,7 @@
       "subtext": "Forward \u2022 Nuggets",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76673.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76673.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3981,7 +3981,7 @@
       "subtext": "Center \u2022 NBA",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -4002,7 +4002,7 @@
       "subtext": "Forward \u2022 Cavaliers",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2400.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2400.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4023,7 +4023,7 @@
       "subtext": "Guard \u2022 NBA",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/779.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/779.png",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -4046,7 +4046,7 @@
       "subtext": "Guard \u2022 Hornets",
       "value": 203.0,
       "display_value": "203 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/133.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/133.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4067,7 +4067,7 @@
       "subtext": "Forward \u2022 Clippers",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2047.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2047.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4088,7 +4088,7 @@
       "subtext": "Forward \u2022 76ers",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/221.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/221.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4109,7 +4109,7 @@
       "subtext": "Center \u2022 Pistons",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/100263.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/100263.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -4130,7 +4130,7 @@
       "subtext": "Forward \u2022 Kings",
       "value": 229.0,
       "display_value": "229 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/978.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/978.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4152,7 +4152,7 @@
       "subtext": "Forward \u2022 Bullets",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77264.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77264.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4173,7 +4173,7 @@
       "subtext": "Forward \u2022 Pistons",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -4196,7 +4196,7 @@
       "subtext": "Forward \u2022 NBA",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1425.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1425.png",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -4218,7 +4218,7 @@
       "subtext": "Forward \u2022 Spurs",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1477.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1477.png",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4239,7 +4239,7 @@
       "subtext": "Center \u2022 Pistons",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600005.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600005.png",
       "position": "Center",
       "positions": [
         "Center"
@@ -4259,7 +4259,7 @@
       "subtext": "Guard \u2022 Spurs",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201158.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201158.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4280,7 +4280,7 @@
       "subtext": "Guard \u2022 Clippers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2039.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2039.png",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4301,7 +4301,7 @@
       "subtext": "Forward \u2022 Nets",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2743.webp",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2743.png",
       "position": "Forward",
       "positions": [
         "Forward"
