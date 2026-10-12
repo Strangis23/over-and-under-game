@@ -1,0 +1,174 @@
+{
+  "id": "nba_arena_capacity",
+  "title": "Arena Seating Capacity",
+  "group": "franchise",
+  "group_label": "Teams & Franchises",
+  "filter_type": "team",
+  "prompt": "Which NBA team plays in the LARGER Arena (Seating Capacity)?",
+  "unit": "seats",
+  "value_format": "{value} Seats",
+  "icon": "res://assets/icons/trophy.png",
+  "theme_color": "#FF6347",
+  "items": [
+    {
+      "name": "Chicago Bulls",
+      "subtext": "United Center \u2022 Eastern Conf",
+      "value": 21711,
+      "display_value": "21,711 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bulls"
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "subtext": "Rocket Mortgage FieldHouse \u2022 Eastern Conf",
+      "value": 20562,
+      "display_value": "20,562 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Cavaliers"
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "subtext": "Moda Center \u2022 Western Conf",
+      "value": 19980,
+      "display_value": "19,980 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Trail Blazers"
+    },
+    {
+      "name": "New York Knicks",
+      "subtext": "Madison Square Garden \u2022 Eastern Conf",
+      "value": 19763,
+      "display_value": "19,763 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Knicks"
+    },
+    {
+      "name": "Miami Heat",
+      "subtext": "Kaseya Center \u2022 Eastern Conf",
+      "value": 19600,
+      "display_value": "19,600 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Heat"
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "subtext": "Target Center \u2022 Western Conf",
+      "value": 19356,
+      "display_value": "19,356 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Timberwolves"
+    },
+    {
+      "name": "Dallas Mavericks",
+      "subtext": "American Airlines Center \u2022 Western Conf",
+      "value": 19200,
+      "display_value": "19,200 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Mavericks"
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "subtext": "Crypto.com Arena \u2022 Western Conf",
+      "value": 19060,
+      "display_value": "19,060 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Clippers"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "subtext": "Crypto.com Arena \u2022 Western Conf",
+      "value": 19060,
+      "display_value": "19,060 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Lakers"
+    },
+    {
+      "name": "Atlanta Hawks",
+      "subtext": "State Farm Arena \u2022 Eastern Conf",
+      "value": 18729,
+      "display_value": "18,729 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Hawks"
+    },
+    {
+      "name": "Boston Celtics",
+      "subtext": "TD Garden \u2022 Eastern Conf",
+      "value": 18624,
+      "display_value": "18,624 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Celtics"
+    },
+    {
+      "name": "Indiana Pacers",
+      "subtext": "Gainbridge Fieldhouse  \u2022 Eastern Conf",
+      "value": 18345,
+      "display_value": "18,345 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Pacers"
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "subtext": "FedExForum \u2022 Western Conf",
+      "value": 18119,
+      "display_value": "18,119 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Grizzlies"
+    },
+    {
+      "name": "Houston Rockets",
+      "subtext": "Toyota Center \u2022 Western Conf",
+      "value": 18104,
+      "display_value": "18,104 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Rockets"
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "subtext": "Fiserv Forum \u2022 Eastern Conf",
+      "value": 17500,
+      "display_value": "17,500 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bucks"
+    },
+    {
+      "name": "Sacramento Kings",
+      "subtext": "Golden 1 Center \u2022 Western Conf",
+      "value": 17500,
+      "display_value": "17,500 Seats",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Kings"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Godot 4 project ignores
+.godot/
+*.translation
+
+# Raw data and databases
+data/categories/nba data/
+*.sqlite
+*.duckdb
+
+# Local builds
+build/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,314 @@
+{
+  "id": "nba_franchise_win_pct",
+  "title": "All-Time Franchise Win %",
+  "group": "franchise",
+  "group_label": "Teams & Franchises",
+  "filter_type": "team",
+  "prompt": "Which franchise has the HIGHER All-Time Win Percentage?",
+  "unit": "%",
+  "value_format": "{value}% Win Rate",
+  "icon": "res://assets/icons/trophy.png",
+  "theme_color": "#20B2AA",
+  "items": [
+    {
+      "name": "Boston Celtics",
+      "subtext": "Boston \u2022 Eastern Conference",
+      "value": 58.7,
+      "display_value": "58.7% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Celtics"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "subtext": "Los Angeles \u2022 Western Conference",
+      "value": 59.6,
+      "display_value": "59.6% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Lakers"
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "subtext": "Philadelphia \u2022 Eastern Conference",
+      "value": 51.6,
+      "display_value": "51.6% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "76ers"
+    },
+    {
+      "name": "New York Knicks",
+      "subtext": "New York \u2022 Eastern Conference",
+      "value": 48.6,
+      "display_value": "48.6% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Knicks"
+    },
+    {
+      "name": "Atlanta Hawks",
+      "subtext": "Atlanta \u2022 Eastern Conference",
+      "value": 49.8,
+      "display_value": "49.8% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Hawks"
+    },
+    {
+      "name": "Golden State Warriors",
+      "subtext": "Golden State \u2022 Western Conference",
+      "value": 47.5,
+      "display_value": "47.5% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Warriors"
+    },
+    {
+      "name": "Detroit Pistons",
+      "subtext": "Detroit \u2022 Eastern Conference",
+      "value": 47.8,
+      "display_value": "47.8% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Pistons"
+    },
+    {
+      "name": "Sacramento Kings",
+      "subtext": "Sacramento \u2022 Western Conference",
+      "value": 45.8,
+      "display_value": "45.8% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Kings"
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "subtext": "Oklahoma City \u2022 Western Conference",
+      "value": 53.2,
+      "display_value": "53.2% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Thunder"
+    },
+    {
+      "name": "Phoenix Suns",
+      "subtext": "Phoenix \u2022 Western Conference",
+      "value": 54.2,
+      "display_value": "54.2% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Suns"
+    },
+    {
+      "name": "San Antonio Spurs",
+      "subtext": "San Antonio \u2022 Western Conference",
+      "value": 60.2,
+      "display_value": "60.2% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Spurs"
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "subtext": "Milwaukee \u2022 Eastern Conference",
+      "value": 52.7,
+      "display_value": "52.7% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bucks"
+    },
+    {
+      "name": "Houston Rockets",
+      "subtext": "Houston \u2022 Western Conference",
+      "value": 51.3,
+      "display_value": "51.3% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Rockets"
+    },
+    {
+      "name": "Chicago Bulls",
+      "subtext": "Chicago \u2022 Eastern Conference",
+      "value": 51.3,
+      "display_value": "51.3% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bulls"
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "subtext": "Portland \u2022 Western Conference",
+      "value": 53.7,
+      "display_value": "53.7% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Trail Blazers"
+    },
+    {
+      "name": "Washington Wizards",
+      "subtext": "Washington \u2022 Eastern Conference",
+      "value": 45.4,
+      "display_value": "45.4% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Wizards"
+    },
+    {
+      "name": "Utah Jazz",
+      "subtext": "Utah \u2022 Western Conference",
+      "value": 54.8,
+      "display_value": "54.8% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Jazz"
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "subtext": "Cleveland \u2022 Eastern Conference",
+      "value": 47.0,
+      "display_value": "47.0% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Cavaliers"
+    },
+    {
+      "name": "Indiana Pacers",
+      "subtext": "Indiana \u2022 Eastern Conference",
+      "value": 49.6,
+      "display_value": "49.6% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Pacers"
+    },
+    {
+      "name": "Denver Nuggets",
+      "subtext": "Denver \u2022 Western Conference",
+      "value": 49.4,
+      "display_value": "49.4% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Nuggets"
+    },
+    {
+      "name": "Dallas Mavericks",
+      "subtext": "Dallas \u2022 Western Conference",
+      "value": 50.5,
+      "display_value": "50.5% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Mavericks"
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "subtext": "Los Angeles \u2022 Western Conference",
+      "value": 41.5,
+      "display_value": "41.5% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Clippers"
+    },
+    {
+      "name": "Brooklyn Nets",
+      "subtext": "Brooklyn \u2022 Eastern Conference",
+      "value": 42.8,
+      "display_value": "42.8% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Nets"
+    },
+    {
+      "name": "Miami Heat",
+      "subtext": "Miami \u2022 Eastern Conference",
+      "value": 51.8,
+      "display_value": "51.8% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Heat"
+    },
+    {
+      "name": "Orlando Magic",
+      "subtext": "Orlando \u2022 Eastern Conference",
+      "value": 47.3,
+      "display_value": "47.3% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Magic"
+    },
+    {
+      "name": "Charlotte Hornets",
+      "subtext": "Charlotte \u2022 Eastern Conference",
+      "value": 44.4,
+      "display_value": "44.4% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Hornets"
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "subtext": "Minnesota \u2022 Western Conference",
+      "value": 40.3,
+      "display_value": "40.3% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Timberwolves"
+    },
+    {
+      "name": "Toronto Raptors",
+      "subtext": "Toronto \u2022 Eastern Conference",
+      "value": 48.3,
+      "display_value": "48.3% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Raptors"
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "subtext": "Memphis \u2022 Western Conference",
+      "value": 42.6,
+      "display_value": "42.6% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Grizzlies"
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "subtext": "New Orleans \u2022 Western Conference",
+      "value": 47.1,
+      "display_value": "47.1% Win Rate",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Pelicans"
+    }
+  ]
+}

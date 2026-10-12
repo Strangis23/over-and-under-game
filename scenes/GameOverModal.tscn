@@ -1,0 +1,175 @@
+[gd_scene load_steps=7 format=3 uid="uid://c6a8r9s2j3t4k"]
+
+[ext_resource type="Script" path="res://scripts/GameOverModal.gd" id="1_8d3p1"]
+[ext_resource type="Texture2D" path="res://assets/icons/basketball.png" id="2_2k4m8"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_overlay"]
+bg_color = Color(0.02, 0.04, 0.07, 0.8)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_modal_panel"]
+bg_color = Color(0.11, 0.08, 0.15, 0.98)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.9, 0.48, 0.15, 0.85)
+corner_radius_top_left = 24
+corner_radius_top_right = 24
+corner_radius_bottom_right = 24
+corner_radius_bottom_left = 24
+shadow_color = Color(0, 0, 0, 0.6)
+shadow_size = 18
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_retry"]
+bg_color = Color(0.92, 0.45, 0.1, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.8, 0.4, 0.9)
+corner_radius_top_left = 14
+corner_radius_top_right = 14
+corner_radius_bottom_right = 14
+corner_radius_bottom_left = 14
+shadow_color = Color(0, 0, 0, 0.4)
+shadow_size = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_cat"]
+bg_color = Color(0.18, 0.14, 0.24, 1)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.4, 0.35, 0.5, 0.8)
+corner_radius_top_left = 14
+corner_radius_top_right = 14
+corner_radius_bottom_right = 14
+corner_radius_bottom_left = 14
+
+[node name="GameOverModal" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_8d3p1")
+
+[node name="Overlay" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_overlay")
+
+[node name="Center" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="PanelContainer" parent="Center"]
+custom_minimum_size = Vector2(480, 540)
+layout_mode = 2
+pivot_offset = Vector2(240, 270)
+theme_override_styles/panel = SubResource("StyleBoxFlat_modal_panel")
+
+[node name="Margin" type="MarginContainer" parent="Center/Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 32
+theme_override_constants/margin_top = 32
+theme_override_constants/margin_right = 32
+theme_override_constants/margin_bottom = 32
+
+[node name="VBox" type="VBoxContainer" parent="Center/Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 14
+alignment = 1
+
+[node name="Icon" type="TextureRect" parent="Center/Panel/Margin/VBox"]
+custom_minimum_size = Vector2(88, 88)
+layout_mode = 2
+size_flags_horizontal = 4
+texture = ExtResource("2_2k4m8")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Title" type="Label" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.45, 0.15, 1)
+theme_override_font_sizes/font_size = 30
+text = "FINAL BUZZER! 🏀"
+horizontal_alignment = 1
+
+[node name="CategoryTitle" type="Label" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.9, 0.8, 0.65, 1)
+theme_override_font_sizes/font_size = 17
+text = "NBA Scoring Averages"
+horizontal_alignment = 1
+
+[node name="SettingsTitle" type="Label" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.4, 0.8, 1, 1)
+theme_override_font_sizes/font_size = 13
+text = "Rookie • 3 Balls"
+horizontal_alignment = 1
+
+[node name="ScoreBox" type="VBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="ScoreLabel" type="Label" parent="Center/Panel/Margin/VBox/ScoreBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.7, 0.65, 0.6, 1)
+theme_override_font_sizes/font_size = 14
+text = "FINAL BUCKETS / STREAK"
+horizontal_alignment = 1
+
+[node name="FinalScore" type="Label" parent="Center/Panel/Margin/VBox/ScoreBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.6, 0.15, 1)
+theme_override_font_sizes/font_size = 54
+text = "8"
+horizontal_alignment = 1
+
+[node name="BestScore" type="Label" parent="Center/Panel/Margin/VBox/ScoreBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.85, 0.3, 1)
+theme_override_font_sizes/font_size = 17
+text = "FRANCHISE BEST: 12"
+horizontal_alignment = 1
+
+[node name="NewBestTag" type="Label" parent="Center/Panel/Margin/VBox/ScoreBox"]
+visible = false
+layout_mode = 2
+theme_override_colors/font_color = Color(0.2, 1, 0.5, 1)
+theme_override_font_sizes/font_size = 15
+text = "★ NEW FRANCHISE RECORD! ★"
+horizontal_alignment = 1
+
+[node name="Spacer" type="Control" parent="Center/Panel/Margin/VBox"]
+custom_minimum_size = Vector2(0, 8)
+layout_mode = 2
+
+[node name="ButtonBox" type="VBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="RetryBtn" type="Button" parent="Center/Panel/Margin/VBox/ButtonBox"]
+custom_minimum_size = Vector2(0, 54)
+layout_mode = 2
+theme_override_font_sizes/font_size = 18
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_retry")
+text = "PLAY ANOTHER QUARTER 🏀"
+
+[node name="CategoryBtn" type="Button" parent="Center/Panel/Margin/VBox/ButtonBox"]
+custom_minimum_size = Vector2(0, 46)
+layout_mode = 2
+theme_override_font_sizes/font_size = 15
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_cat")
+text = "LOCKER ROOM"

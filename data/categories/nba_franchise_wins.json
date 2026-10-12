@@ -1,0 +1,314 @@
+{
+  "id": "nba_franchise_wins",
+  "title": "All-Time Franchise Wins",
+  "group": "franchise",
+  "group_label": "Teams & Franchises",
+  "filter_type": "team",
+  "prompt": "Which franchise has MORE All-Time Regular Season Wins?",
+  "unit": "wins",
+  "value_format": "{value} Wins",
+  "icon": "res://assets/icons/trophy.png",
+  "theme_color": "#1E90FF",
+  "items": [
+    {
+      "name": "Boston Celtics",
+      "subtext": "Boston \u2022 Eastern Conference",
+      "value": 3210,
+      "display_value": "3210 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Celtics"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "subtext": "Los Angeles \u2022 Western Conference",
+      "value": 3193,
+      "display_value": "3193 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Lakers"
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "subtext": "Philadelphia \u2022 Eastern Conference",
+      "value": 2731,
+      "display_value": "2731 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "76ers"
+    },
+    {
+      "name": "New York Knicks",
+      "subtext": "New York \u2022 Eastern Conference",
+      "value": 2654,
+      "display_value": "2654 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Knicks"
+    },
+    {
+      "name": "Atlanta Hawks",
+      "subtext": "Atlanta \u2022 Eastern Conference",
+      "value": 2633,
+      "display_value": "2633 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Hawks"
+    },
+    {
+      "name": "Golden State Warriors",
+      "subtext": "Golden State \u2022 Western Conference",
+      "value": 2591,
+      "display_value": "2591 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Warriors"
+    },
+    {
+      "name": "Detroit Pistons",
+      "subtext": "Detroit \u2022 Eastern Conference",
+      "value": 2559,
+      "display_value": "2559 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Pistons"
+    },
+    {
+      "name": "Sacramento Kings",
+      "subtext": "Sacramento \u2022 Western Conference",
+      "value": 2455,
+      "display_value": "2455 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Kings"
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "subtext": "Oklahoma City \u2022 Western Conference",
+      "value": 2232,
+      "display_value": "2232 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Thunder"
+    },
+    {
+      "name": "Phoenix Suns",
+      "subtext": "Phoenix \u2022 Western Conference",
+      "value": 2231,
+      "display_value": "2231 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Suns"
+    },
+    {
+      "name": "San Antonio Spurs",
+      "subtext": "San Antonio \u2022 Western Conference",
+      "value": 2181,
+      "display_value": "2181 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Spurs"
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "subtext": "Milwaukee \u2022 Eastern Conference",
+      "value": 2168,
+      "display_value": "2168 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bucks"
+    },
+    {
+      "name": "Houston Rockets",
+      "subtext": "Houston \u2022 Western Conference",
+      "value": 2154,
+      "display_value": "2154 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Rockets"
+    },
+    {
+      "name": "Chicago Bulls",
+      "subtext": "Chicago \u2022 Eastern Conference",
+      "value": 2147,
+      "display_value": "2147 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bulls"
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "subtext": "Portland \u2022 Western Conference",
+      "value": 2123,
+      "display_value": "2123 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Trail Blazers"
+    },
+    {
+      "name": "Washington Wizards",
+      "subtext": "Washington \u2022 Eastern Conference",
+      "value": 2052,
+      "display_value": "2052 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Wizards"
+    },
+    {
+      "name": "Utah Jazz",
+      "subtext": "Utah \u2022 Western Conference",
+      "value": 2030,
+      "display_value": "2030 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Jazz"
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "subtext": "Cleveland \u2022 Eastern Conference",
+      "value": 1853,
+      "display_value": "1853 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Cavaliers"
+    },
+    {
+      "name": "Indiana Pacers",
+      "subtext": "Indiana \u2022 Eastern Conference",
+      "value": 1798,
+      "display_value": "1798 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Pacers"
+    },
+    {
+      "name": "Denver Nuggets",
+      "subtext": "Denver \u2022 Western Conference",
+      "value": 1790,
+      "display_value": "1790 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Nuggets"
+    },
+    {
+      "name": "Dallas Mavericks",
+      "subtext": "Dallas \u2022 Western Conference",
+      "value": 1706,
+      "display_value": "1706 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Mavericks"
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "subtext": "Los Angeles \u2022 Western Conference",
+      "value": 1638,
+      "display_value": "1638 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Clippers"
+    },
+    {
+      "name": "Brooklyn Nets",
+      "subtext": "Brooklyn \u2022 Eastern Conference",
+      "value": 1551,
+      "display_value": "1551 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Nets"
+    },
+    {
+      "name": "Miami Heat",
+      "subtext": "Miami \u2022 Eastern Conference",
+      "value": 1409,
+      "display_value": "1409 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Heat"
+    },
+    {
+      "name": "Orlando Magic",
+      "subtext": "Orlando \u2022 Eastern Conference",
+      "value": 1248,
+      "display_value": "1248 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Magic"
+    },
+    {
+      "name": "Charlotte Hornets",
+      "subtext": "Charlotte \u2022 Eastern Conference",
+      "value": 1132,
+      "display_value": "1132 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Hornets"
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "subtext": "Minnesota \u2022 Western Conference",
+      "value": 1060,
+      "display_value": "1060 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Timberwolves"
+    },
+    {
+      "name": "Toronto Raptors",
+      "subtext": "Toronto \u2022 Eastern Conference",
+      "value": 1037,
+      "display_value": "1037 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Raptors"
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "subtext": "Memphis \u2022 Western Conference",
+      "value": 915,
+      "display_value": "915 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Grizzlies"
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "subtext": "New Orleans \u2022 Western Conference",
+      "value": 755,
+      "display_value": "755 Wins",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Pelicans"
+    }
+  ]
+}

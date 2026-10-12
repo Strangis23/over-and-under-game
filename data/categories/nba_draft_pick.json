@@ -1,0 +1,3946 @@
+{
+  "id": "nba_draft_pick",
+  "title": "Overall Draft Pick Number",
+  "group": "career",
+  "group_label": "Career & Draft",
+  "filter_type": "player",
+  "prompt": "Who had the HIGHER Overall Draft Pick Number (Drafted Later)?",
+  "unit": "pick",
+  "value_format": "Pick #{value}",
+  "icon": "res://assets/icons/trophy.png",
+  "theme_color": "#DA70D6",
+  "items": [
+    {
+      "name": "Jaden Hardy",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 37,
+      "display_value": "Pick #37",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630702.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Blake Wesley",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 25,
+      "display_value": "Pick #25",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "J.D. Davison",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 53,
+      "display_value": "Pick #53",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Andrew Nembhard",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 31,
+      "display_value": "Pick #31",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Paolo Banchero",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 1,
+      "display_value": "Pick #1",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Ochai Agbaji",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 14,
+      "display_value": "Pick #14",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Dalen Terry",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 18,
+      "display_value": "Pick #18",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Wendell Moore Jr.",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 26,
+      "display_value": "Pick #26",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631111.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Vince Williams Jr.",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 47,
+      "display_value": "Pick #47",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631246.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jake LaRavia",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 19,
+      "display_value": "Pick #19",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631222.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Chet Holmgren",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 2,
+      "display_value": "Pick #2",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Trevor Keels",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 42,
+      "display_value": "Pick #42",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631211.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Tyrese Martin",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 51,
+      "display_value": "Pick #51",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631213.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jalen Duren",
+      "subtext": "Center \u2022 Draft Class 2022",
+      "value": 13,
+      "display_value": "Pick #13",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "AJ Griffin",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 16,
+      "display_value": "Pick #16",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631100.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Kendall Brown",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 48,
+      "display_value": "Pick #48",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631112.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jaden Ivey",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 5,
+      "display_value": "Pick #5",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631093.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "David Roddy",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 23,
+      "display_value": "Pick #23",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631223.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "MarJon Beauchamp",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 24,
+      "display_value": "Pick #24",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Jabari Smith Jr.",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 3,
+      "display_value": "Pick #3",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631095.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Walker Kessler",
+      "subtext": "Center \u2022 Draft Class 2022",
+      "value": 22,
+      "display_value": "Pick #22",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Bennedict Mathurin",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 6,
+      "display_value": "Pick #6",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631097.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Isaiah Mobley",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 49,
+      "display_value": "Pick #49",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630600.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Peyton Watson",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 30,
+      "display_value": "Pick #30",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Shaedon Sharpe",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 7,
+      "display_value": "Pick #7",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "E.J. Liddell",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 41,
+      "display_value": "Pick #41",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630604.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pelicans",
+      "team_full": "New Orleans Pelicans",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "TyTy Washington Jr.",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 29,
+      "display_value": "Pick #29",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631102.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Ryan Rollins",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 44,
+      "display_value": "Pick #44",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631157.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Patrick Baldwin Jr.",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 28,
+      "display_value": "Pick #28",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631116.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jaylin Williams",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 34,
+      "display_value": "Pick #34",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631119.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Mark Williams",
+      "subtext": "Center \u2022 Draft Class 2022",
+      "value": 15,
+      "display_value": "Pick #15",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Bryce McGowens",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 40,
+      "display_value": "Pick #40",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631121.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jabari Walker",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 57,
+      "display_value": "Pick #57",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631133.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jalen Williams",
+      "subtext": "Guard \u2022 Draft Class 2022",
+      "value": 12,
+      "display_value": "Pick #12",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jeremy Sochan",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 9,
+      "display_value": "Pick #9",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Malaki Branham",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 20,
+      "display_value": "Pick #20",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Ousmane Dieng",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 11,
+      "display_value": "Pick #11",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Tari Eason",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 17,
+      "display_value": "Pick #17",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631106.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Keegan Murray",
+      "subtext": "Forward \u2022 Draft Class 2022",
+      "value": 4,
+      "display_value": "Pick #4",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Tre Mann",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 18,
+      "display_value": "Pick #18",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Ziaire Williams",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 10,
+      "display_value": "Pick #10",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Santi Aldama",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 30,
+      "display_value": "Pick #30",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630583.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Jalen Suggs",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 5,
+      "display_value": "Pick #5",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Bones Hyland",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 26,
+      "display_value": "Pick #26",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Jalen Green",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 2,
+      "display_value": "Pick #2",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Jason Preston",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 33,
+      "display_value": "Pick #33",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630554.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Moses Moody",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 14,
+      "display_value": "Pick #14",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630541.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Jericho Sims",
+      "subtext": "Center \u2022 Draft Class 2021",
+      "value": 58,
+      "display_value": "Pick #58",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Day'Ron Sharpe",
+      "subtext": "Center \u2022 Draft Class 2021",
+      "value": 29,
+      "display_value": "Pick #29",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630549.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Cam Thomas",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 27,
+      "display_value": "Pick #27",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Scottie Barnes",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 4,
+      "display_value": "Pick #4",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "James Bouknight",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 11,
+      "display_value": "Pick #11",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630547.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Cade Cunningham",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 1,
+      "display_value": "Pick #1",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Chris Duarte",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 13,
+      "display_value": "Pick #13",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630537.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Josh Christopher",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 24,
+      "display_value": "Pick #24",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Davion Mitchell",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 9,
+      "display_value": "Pick #9",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Evan Mobley",
+      "subtext": "Center \u2022 Draft Class 2021",
+      "value": 3,
+      "display_value": "Pick #3",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Aaron Wiggins",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 55,
+      "display_value": "Pick #55",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630598.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "JT Thor",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 37,
+      "display_value": "Pick #37",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630550.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Trey Murphy III",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 17,
+      "display_value": "Pick #17",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630530.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pelicans",
+      "team_full": "New Orleans Pelicans",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Kessler Edwards",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 44,
+      "display_value": "Pick #44",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630556.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Franz Wagner",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 8,
+      "display_value": "Pick #8",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Herbert Jones",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 35,
+      "display_value": "Pick #35",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pelicans",
+      "team_full": "New Orleans Pelicans",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Joe Wieskamp",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 41,
+      "display_value": "Pick #41",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630580.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Dalano Banton",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 46,
+      "display_value": "Pick #46",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630625.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Charles Bassey",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 53,
+      "display_value": "Pick #53",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Luka Garza",
+      "subtext": "Center \u2022 Draft Class 2021",
+      "value": 52,
+      "display_value": "Pick #52",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630568.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Neemias Queta",
+      "subtext": "Center \u2022 Draft Class 2021",
+      "value": 39,
+      "display_value": "Pick #39",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Corey Kispert",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 15,
+      "display_value": "Pick #15",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630557.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Wizards",
+      "team_full": "Washington Wizards",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Josh Giddey",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 6,
+      "display_value": "Pick #6",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Jaden Springer",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 28,
+      "display_value": "Pick #28",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Miles McBride",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 36,
+      "display_value": "Pick #36",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Brandon Boston Jr.",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 51,
+      "display_value": "Pick #51",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Sandro Mamukelashvili",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 54,
+      "display_value": "Pick #54",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630572.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Jeremiah Robinson-Earl",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 32,
+      "display_value": "Pick #32",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630526.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Quentin Grimes",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 25,
+      "display_value": "Pick #25",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629656.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Isaiah Livers",
+      "subtext": "Forward \u2022 Draft Class 2021",
+      "value": 42,
+      "display_value": "Pick #42",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630587.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Keon Johnson",
+      "subtext": "Guard \u2022 Draft Class 2021",
+      "value": 21,
+      "display_value": "Pick #21",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Obi Toppin",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 8,
+      "display_value": "Pick #8",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Desmond Bane",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 30,
+      "display_value": "Pick #30",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Malachi Flynn",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 29,
+      "display_value": "Pick #29",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630201.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Deni Avdija",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 9,
+      "display_value": "Pick #9",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Wizards",
+      "team_full": "Washington Wizards",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Immanuel Quickley",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 25,
+      "display_value": "Pick #25",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Devin Vassell",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 11,
+      "display_value": "Pick #11",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Theo Maledon",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 34,
+      "display_value": "Pick #34",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630177.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Anthony Edwards",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 1,
+      "display_value": "Pick #1",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Vernon Carey Jr.",
+      "subtext": "Center \u2022 Draft Class 2020",
+      "value": 32,
+      "display_value": "Pick #32",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630176.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Josh Green",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 18,
+      "display_value": "Pick #18",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Vit Krejci",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 37,
+      "display_value": "Pick #37",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630249.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "James Wiseman",
+      "subtext": "Center \u2022 Draft Class 2020",
+      "value": 2,
+      "display_value": "Pick #2",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Jordan Nwora",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 45,
+      "display_value": "Pick #45",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629670.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Aleksej Pokusevski",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 17,
+      "display_value": "Pick #17",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630197.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Thunder",
+      "team_full": "Oklahoma City Thunder",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Killian Hayes",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 7,
+      "display_value": "Pick #7",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630165.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Precious Achiuwa",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 20,
+      "display_value": "Pick #20",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Patrick Williams",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 4,
+      "display_value": "Pick #4",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630172.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Sam Merrill",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 60,
+      "display_value": "Pick #60",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630241.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Kira Lewis Jr.",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 13,
+      "display_value": "Pick #13",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630184.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pelicans",
+      "team_full": "New Orleans Pelicans",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Marko Simonovic",
+      "subtext": "Center \u2022 Draft Class 2020",
+      "value": 44,
+      "display_value": "Pick #44",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630250.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Aaron Nesmith",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 14,
+      "display_value": "Pick #14",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630174.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "LaMelo Ball",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 3,
+      "display_value": "Pick #3",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Isaiah Stewart",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 16,
+      "display_value": "Pick #16",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Payton Pritchard",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 26,
+      "display_value": "Pick #26",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Zeke Nnaji",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 22,
+      "display_value": "Pick #22",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Tyrese Haliburton",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 12,
+      "display_value": "Pick #12",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Kenyon Martin Jr.",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 52,
+      "display_value": "Pick #52",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Paul Reed",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 58,
+      "display_value": "Pick #58",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630194.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Jalen Smith",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 10,
+      "display_value": "Pick #10",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Jaden McDaniels",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 28,
+      "display_value": "Pick #28",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Cole Anthony",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 15,
+      "display_value": "Pick #15",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Saddiq Bey",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 19,
+      "display_value": "Pick #19",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Tyrese Maxey",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 21,
+      "display_value": "Pick #21",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Nick Richards",
+      "subtext": "Center \u2022 Draft Class 2020",
+      "value": 42,
+      "display_value": "Pick #42",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630208.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Isaac Okoro",
+      "subtext": "Guard \u2022 Draft Class 2020",
+      "value": 5,
+      "display_value": "Pick #5",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Udoka Azubuike",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 27,
+      "display_value": "Pick #27",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Xavier Tillman",
+      "subtext": "Forward \u2022 Draft Class 2020",
+      "value": 35,
+      "display_value": "Pick #35",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "RJ Barrett",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 3,
+      "display_value": "Pick #3",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Bol Bol",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 44,
+      "display_value": "Pick #44",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2019,
+      "to_year": 2022
+    },
+    {
+      "name": "De'Andre Hunter",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 4,
+      "display_value": "Pick #4",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Coby White",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 7,
+      "display_value": "Pick #7",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Bruno Fernando",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 34,
+      "display_value": "Pick #34",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628981.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Cody Martin",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 36,
+      "display_value": "Pick #36",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Luka Samanic",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 19,
+      "display_value": "Pick #19",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629677.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Ty Jerome",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 24,
+      "display_value": "Pick #24",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Goga Bitadze",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 18,
+      "display_value": "Pick #18",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Cam Reddish",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 10,
+      "display_value": "Pick #10",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629629.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Jordan Poole",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 28,
+      "display_value": "Pick #28",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Brandon Clarke",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 21,
+      "display_value": "Pick #21",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Zion Williamson",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 1,
+      "display_value": "Pick #1",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pelicans",
+      "team_full": "New Orleans Pelicans",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Matisse Thybulle",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 20,
+      "display_value": "Pick #20",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Grant Williams",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 22,
+      "display_value": "Pick #22",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Cameron Johnson",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 11,
+      "display_value": "Pick #11",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Rui Hachimura",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 9,
+      "display_value": "Pick #9",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Romeo Langford",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 14,
+      "display_value": "Pick #14",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629641.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Darius Bazley",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 23,
+      "display_value": "Pick #23",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629647.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Daniel Gafford",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 38,
+      "display_value": "Pick #38",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Wizards",
+      "team_full": "Washington Wizards",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Admiral Schofield",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 42,
+      "display_value": "Pick #42",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629678.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Mfiondu Kabengele",
+      "subtext": "Center \u2022 Draft Class 2019",
+      "value": 27,
+      "display_value": "Pick #27",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629662.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Keldon Johnson",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 29,
+      "display_value": "Pick #29",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Kevin Porter Jr.",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 30,
+      "display_value": "Pick #30",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Chuma Okeke",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 16,
+      "display_value": "Pick #16",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Dylan Windler",
+      "subtext": "Guard \u2022 Draft Class 2019",
+      "value": 26,
+      "display_value": "Pick #26",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629685.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Isaiah Roby",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 45,
+      "display_value": "Pick #45",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629676.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "P.J. Washington",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 12,
+      "display_value": "Pick #12",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Jalen McDaniels",
+      "subtext": "Forward \u2022 Draft Class 2019",
+      "value": 52,
+      "display_value": "Pick #52",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629667.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Nic Claxton",
+      "subtext": "Center \u2022 Draft Class 2019",
+      "value": 31,
+      "display_value": "Pick #31",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Josh Okogie",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 20,
+      "display_value": "Pick #20",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Moritz Wagner",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 25,
+      "display_value": "Pick #25",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Mitchell Robinson",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 36,
+      "display_value": "Pick #36",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Alize Johnson",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 50,
+      "display_value": "Pick #50",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628993.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2018,
+      "to_year": 2022
+    },
+    {
+      "name": "Jevon Carter",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 32,
+      "display_value": "Pick #32",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628975.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Wendell Carter Jr.",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 7,
+      "display_value": "Pick #7",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Michael Porter Jr.",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 14,
+      "display_value": "Pick #14",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Donte DiVincenzo",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 17,
+      "display_value": "Pick #17",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Jaren Jackson Jr.",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 4,
+      "display_value": "Pick #4",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Miles Bridges",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 12,
+      "display_value": "Pick #12",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628970.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Shake Milton",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 54,
+      "display_value": "Pick #54",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629003.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Trae Young",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 5,
+      "display_value": "Pick #5",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Mikal Bridges",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 10,
+      "display_value": "Pick #10",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Chimezie Metu",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 49,
+      "display_value": "Pick #49",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629002.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Robert Williams III",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 27,
+      "display_value": "Pick #27",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Grayson Allen",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 21,
+      "display_value": "Pick #21",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Anfernee Simons",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 24,
+      "display_value": "Pick #24",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Collin Sexton",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 8,
+      "display_value": "Pick #8",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "De'Anthony Melton",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 46,
+      "display_value": "Pick #46",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Luka Doncic",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 3,
+      "display_value": "Pick #3",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Lonnie Walker IV",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 18,
+      "display_value": "Pick #18",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Hamidou Diallo",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 45,
+      "display_value": "Pick #45",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628977.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Svi Mykhailiuk",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 47,
+      "display_value": "Pick #47",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Deandre Ayton",
+      "subtext": "Center \u2022 Draft Class 2018",
+      "value": 1,
+      "display_value": "Pick #1",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Kevin Knox II",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 9,
+      "display_value": "Pick #9",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Gary Trent Jr.",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 37,
+      "display_value": "Pick #37",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Marvin Bagley III",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 2,
+      "display_value": "Pick #2",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Keita Bates-Diop",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 48,
+      "display_value": "Pick #48",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628966.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Jarred Vanderbilt",
+      "subtext": "Forward \u2022 Draft Class 2018",
+      "value": 41,
+      "display_value": "Pick #41",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Landry Shamet",
+      "subtext": "Guard \u2022 Draft Class 2018",
+      "value": 26,
+      "display_value": "Pick #26",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Wizards",
+      "team_full": "Washington Wizards",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Edmond Sumner",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 52,
+      "display_value": "Pick #52",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628410.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Semi Ojeleye",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 37,
+      "display_value": "Pick #37",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628400.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2021
+    },
+    {
+      "name": "Josh Jackson",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 4,
+      "display_value": "Pick #4",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628367.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2021
+    },
+    {
+      "name": "O.G. Anunoby",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 23,
+      "display_value": "Pick #23",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Frank Ntilikina",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 8,
+      "display_value": "Pick #8",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628373.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "D.J. Wilson",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 17,
+      "display_value": "Pick #17",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628391.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2021
+    },
+    {
+      "name": "Sterling Brown",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 46,
+      "display_value": "Pick #46",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628425.png",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2022
+    },
+    {
+      "name": "Dennis Smith Jr.",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 9,
+      "display_value": "Pick #9",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628372.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Derrick White",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 29,
+      "display_value": "Pick #29",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Jonathan Isaac",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 6,
+      "display_value": "Pick #6",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Thomas Bryant",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 42,
+      "display_value": "Pick #42",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Heat",
+      "team_full": "Miami Heat",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Frank Mason III",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 34,
+      "display_value": "Pick #34",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628412.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2020
+    },
+    {
+      "name": "Lauri Markkanen",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 7,
+      "display_value": "Pick #7",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Isaiah Hartenstein",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 43,
+      "display_value": "Pick #43",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Donovan Mitchell",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 13,
+      "display_value": "Pick #13",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Sindarius Thornwell",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 48,
+      "display_value": "Pick #48",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628414.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2020
+    },
+    {
+      "name": "Jordan Bell",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 38,
+      "display_value": "Pick #38",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628395.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2021
+    },
+    {
+      "name": "Monte Morris",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 51,
+      "display_value": "Pick #51",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Wizards",
+      "team_full": "Washington Wizards",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "John Collins",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 19,
+      "display_value": "Pick #19",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Zach Collins",
+      "subtext": "Forward \u2022 Draft Class 2017",
+      "value": 10,
+      "display_value": "Pick #10",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.png",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "De'Aaron Fox",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 5,
+      "display_value": "Pick #5",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Kings",
+      "team_full": "Sacramento Kings",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Lonzo Ball",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 2,
+      "display_value": "Pick #2",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Markelle Fultz",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 1,
+      "display_value": "Pick #1",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Luke Kennard",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 12,
+      "display_value": "Pick #12",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628379.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Josh Hart",
+      "subtext": "Guard \u2022 Draft Class 2017",
+      "value": 30,
+      "display_value": "Pick #30",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png",
+      "position": "Guard",
+      "positions": [
+        "Guard"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    }
+  ]
+}

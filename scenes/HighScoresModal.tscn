@@ -1,0 +1,365 @@
+[gd_scene load_steps=8 format=3 uid="uid://c7m9x1q4r8t2p"]
+
+[ext_resource type="Script" path="res://scripts/HighScoresModal.gd" id="1_scores"]
+[ext_resource type="Texture2D" path="res://assets/icons/basketball.png" id="2_trophy"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_panel"]
+bg_color = Color(0.11, 0.08, 0.15, 0.98)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.9, 0.48, 0.15, 0.85)
+corner_radius_top_left = 22
+corner_radius_top_right = 22
+corner_radius_bottom_right = 22
+corner_radius_bottom_left = 22
+shadow_color = Color(0, 0, 0, 0.6)
+shadow_size = 18
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_close"]
+bg_color = Color(0.18, 0.14, 0.24, 0.8)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_stat_card"]
+bg_color = Color(0.14, 0.1, 0.18, 0.9)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.85, 0.45, 0.15, 0.6)
+corner_radius_top_left = 14
+corner_radius_top_right = 14
+corner_radius_bottom_right = 14
+corner_radius_bottom_left = 14
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_chip_normal"]
+bg_color = Color(0.12, 0.15, 0.22, 0.9)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.24, 0.3, 0.44, 0.6)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_back"]
+bg_color = Color(0.92, 0.45, 0.1, 1)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(1, 0.8, 0.4, 0.9)
+corner_radius_top_left = 14
+corner_radius_top_right = 14
+corner_radius_bottom_right = 14
+corner_radius_bottom_left = 14
+
+[node name="HighScoresModal" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_scores")
+
+[node name="Overlay" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.8)
+
+[node name="Center" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="PanelContainer" parent="Center"]
+custom_minimum_size = Vector2(640, 800)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_panel")
+
+[node name="Margin" type="MarginContainer" parent="Center/Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 22
+theme_override_constants/margin_top = 22
+theme_override_constants/margin_right = 22
+theme_override_constants/margin_bottom = 22
+
+[node name="VBox" type="VBoxContainer" parent="Center/Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 14
+
+[node name="Header" type="HBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="Trophy" type="TextureRect" parent="Center/Panel/Margin/VBox/Header"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture = ExtResource("2_trophy")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Title" type="Label" parent="Center/Panel/Margin/VBox/Header"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(1, 0.9, 0.75, 1)
+theme_override_font_sizes/font_size = 21
+text = "🏀 NBA RECORD BOOK & LEADERBOARD"
+
+[node name="CloseBtn" type="Button" parent="Center/Panel/Margin/VBox/Header"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+theme_override_font_sizes/font_size = 18
+theme_override_styles/normal = SubResource("StyleBoxFlat_close")
+text = "✕"
+
+[node name="StatsBanner" type="HBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="BestCard" type="PanelContainer" parent="Center/Panel/Margin/VBox/StatsBanner"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_styles/panel = SubResource("StyleBoxFlat_stat_card")
+
+[node name="VBox" type="VBoxContainer" parent="Center/Panel/Margin/VBox/StatsBanner/BestCard"]
+layout_mode = 2
+alignment = 1
+
+[node name="Title" type="Label" parent="Center/Panel/Margin/VBox/StatsBanner/BestCard/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.75, 0.6, 1)
+theme_override_font_sizes/font_size = 11
+text = "FRANCHISE BEST"
+horizontal_alignment = 1
+
+[node name="Value" type="Label" parent="Center/Panel/Margin/VBox/StatsBanner/BestCard/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.6, 0.15, 1)
+theme_override_font_sizes/font_size = 20
+text = "🔥 0"
+horizontal_alignment = 1
+
+[node name="GamesCard" type="PanelContainer" parent="Center/Panel/Margin/VBox/StatsBanner"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_styles/panel = SubResource("StyleBoxFlat_stat_card")
+
+[node name="VBox" type="VBoxContainer" parent="Center/Panel/Margin/VBox/StatsBanner/GamesCard"]
+layout_mode = 2
+alignment = 1
+
+[node name="Title" type="Label" parent="Center/Panel/Margin/VBox/StatsBanner/GamesCard/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.75, 0.6, 1)
+theme_override_font_sizes/font_size = 11
+text = "GAMES PLAYED"
+horizontal_alignment = 1
+
+[node name="Value" type="Label" parent="Center/Panel/Margin/VBox/StatsBanner/GamesCard/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.3, 0.85, 1, 1)
+theme_override_font_sizes/font_size = 20
+text = "🎮 0"
+horizontal_alignment = 1
+
+[node name="AccuracyCard" type="PanelContainer" parent="Center/Panel/Margin/VBox/StatsBanner"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_styles/panel = SubResource("StyleBoxFlat_stat_card")
+
+[node name="VBox" type="VBoxContainer" parent="Center/Panel/Margin/VBox/StatsBanner/AccuracyCard"]
+layout_mode = 2
+alignment = 1
+
+[node name="Title" type="Label" parent="Center/Panel/Margin/VBox/StatsBanner/AccuracyCard/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.75, 0.6, 1)
+theme_override_font_sizes/font_size = 11
+text = "FIELD GOAL %"
+horizontal_alignment = 1
+
+[node name="Value" type="Label" parent="Center/Panel/Margin/VBox/StatsBanner/AccuracyCard/VBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.3, 0.95, 0.5, 1)
+theme_override_font_sizes/font_size = 20
+text = "🎯 0%"
+horizontal_alignment = 1
+
+[node name="Filters" type="VBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="CatDropdown" type="OptionButton" parent="Center/Panel/Margin/VBox/Filters"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+theme_override_font_sizes/font_size = 14
+
+[node name="DiffRow" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Filters"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="DiffLabel" type="Label" parent="Center/Panel/Margin/VBox/Filters/DiffRow"]
+custom_minimum_size = Vector2(75, 0)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.6, 0.7, 0.85, 1)
+theme_override_font_sizes/font_size = 12
+text = "Difficulty:"
+
+[node name="DiffContainer" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Filters/DiffRow"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 6
+
+[node name="DiffAll" type="Button" parent="Center/Panel/Margin/VBox/Filters/DiffRow/DiffContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "All"
+metadata/filter_value = "All"
+
+[node name="DiffEasy" type="Button" parent="Center/Panel/Margin/VBox/Filters/DiffRow/DiffContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "🟢 Easy"
+metadata/filter_value = "Easy"
+
+[node name="DiffMed" type="Button" parent="Center/Panel/Margin/VBox/Filters/DiffRow/DiffContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "🟡 Med"
+metadata/filter_value = "Medium"
+
+[node name="DiffHard" type="Button" parent="Center/Panel/Margin/VBox/Filters/DiffRow/DiffContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "🔴 Hard"
+metadata/filter_value = "Hard"
+
+[node name="LivesRow" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Filters"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="LivesLabel" type="Label" parent="Center/Panel/Margin/VBox/Filters/LivesRow"]
+custom_minimum_size = Vector2(75, 0)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.6, 0.7, 0.85, 1)
+theme_override_font_sizes/font_size = 12
+text = "Lives:"
+
+[node name="LivesContainer" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Filters/LivesRow"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 6
+
+[node name="LivesAll" type="Button" parent="Center/Panel/Margin/VBox/Filters/LivesRow/LivesContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "All"
+metadata/filter_value = "All"
+
+[node name="Lives1" type="Button" parent="Center/Panel/Margin/VBox/Filters/LivesRow/LivesContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "1 Life"
+metadata/filter_value = "1 Life"
+
+[node name="Lives3" type="Button" parent="Center/Panel/Margin/VBox/Filters/LivesRow/LivesContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "3 Lives"
+metadata/filter_value = "3 Lives"
+
+[node name="Lives5" type="Button" parent="Center/Panel/Margin/VBox/Filters/LivesRow/LivesContainer"]
+custom_minimum_size = Vector2(0, 36)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip_normal")
+text = "5 Lives"
+metadata/filter_value = "5 Lives"
+
+[node name="Scroll" type="ScrollContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+size_flags_vertical = 3
+horizontal_scroll_mode = 0
+
+[node name="ScoreList" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Scroll"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 10
+
+[node name="EmptyState" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Scroll"]
+visible = false
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Msg" type="Label" parent="Center/Panel/Margin/VBox/Scroll/EmptyState"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.65, 0.72, 0.85, 1)
+theme_override_font_sizes/font_size = 15
+text = "No high scores recorded for this filter yet."
+horizontal_alignment = 1
+
+[node name="SubMsg" type="Label" parent="Center/Panel/Margin/VBox/Scroll/EmptyState"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.45, 0.52, 0.65, 1)
+theme_override_font_sizes/font_size = 13
+text = "Play a game with these settings to establish a record!"
+horizontal_alignment = 1
+
+[node name="Footer" type="HBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 14
+
+[node name="ClearBtn" type="Button" parent="Center/Panel/Margin/VBox/Footer"]
+custom_minimum_size = Vector2(130, 48)
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.45, 0.45, 1)
+theme_override_font_sizes/font_size = 13
+text = "🗑️ Clear Records"
+flat = true
+
+[node name="BackBtn" type="Button" parent="Center/Panel/Margin/VBox/Footer"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 16
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_back")
+text = "CLOSE"

@@ -1,0 +1,338 @@
+[gd_scene load_steps=15 format=3 uid="uid://cx6m1q2r7y4wa"]
+
+[ext_resource type="Script" path="res://scripts/Game.gd" id="1_4p8q2"]
+[ext_resource type="PackedScene" path="res://scenes/DuelCard.tscn" id="2_2x9a4"]
+[ext_resource type="PackedScene" path="res://scenes/GameOverModal.tscn" id="3_3k8m1"]
+[ext_resource type="Texture2D" path="res://assets/icons/flame.png" id="4_5m2q8"]
+[ext_resource type="Texture2D" path="res://assets/icons/swipe_left.png" id="5_7b1v2"]
+[ext_resource type="Texture2D" path="res://assets/icons/swipe_right.png" id="6_8c3w4"]
+[ext_resource type="Texture2D" path="res://assets/icons/basketball.png" id="7_ball"]
+[ext_resource type="Texture2D" path="res://assets/icons/infinity.png" id="8_infinity"]
+[ext_resource type="Texture2D" path="res://assets/images/court_floor.png" id="9_court"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_back_btn"]
+bg_color = Color(0.18, 0.14, 0.24, 0.95)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.85, 0.45, 0.15, 0.8)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_active_filter"]
+bg_color = Color(0.15, 0.1, 0.08, 0.95)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.95, 0.5, 0.15, 0.8)
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_prompt"]
+bg_color = Color(0.12, 0.09, 0.16, 0.95)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.9, 0.5, 0.15, 0.85)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+shadow_color = Color(0.9, 0.4, 0.1, 0.2)
+shadow_size = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_left"]
+bg_color = Color(0.08, 0.35, 0.65, 0.95)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.2, 0.75, 1, 0.9)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+shadow_color = Color(0, 0, 0, 0.4)
+shadow_size = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_right"]
+bg_color = Color(0.85, 0.3, 0.1, 0.95)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.65, 0.2, 0.9)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+shadow_color = Color(0, 0, 0, 0.4)
+shadow_size = 6
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_feedback"]
+bg_color = Color(0.95, 0.38, 0.1, 0.98)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(1, 0.85, 0.4, 1)
+corner_radius_top_left = 18
+corner_radius_top_right = 18
+corner_radius_bottom_right = 18
+corner_radius_bottom_left = 18
+shadow_color = Color(0, 0, 0, 0.6)
+shadow_size = 14
+
+[node name="Game" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_4p8q2")
+
+[node name="CourtBackground" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("9_court")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="Margin" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 22
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 22
+
+[node name="VBox" type="VBoxContainer" parent="Margin"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="TopBar" type="HBoxContainer" parent="Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="BackBtn" type="Button" parent="Margin/VBox/TopBar"]
+custom_minimum_size = Vector2(75, 42)
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_back_btn")
+text = "◀ COURT"
+
+[node name="CategoryTitle" type="Label" parent="Margin/VBox/TopBar"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(1, 0.9, 0.75, 1)
+theme_override_font_sizes/font_size = 15
+text = "🏀 NBA SCORING LEADERS"
+text_overrun_behavior = 3
+
+[node name="LivesBox" type="HBoxContainer" parent="Margin/VBox/TopBar"]
+layout_mode = 2
+theme_override_constants/separation = 4
+alignment = 1
+
+[node name="Heart1" type="TextureRect" parent="Margin/VBox/TopBar/LivesBox"]
+custom_minimum_size = Vector2(28, 28)
+layout_mode = 2
+texture = ExtResource("7_ball")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Heart2" type="TextureRect" parent="Margin/VBox/TopBar/LivesBox"]
+custom_minimum_size = Vector2(28, 28)
+layout_mode = 2
+texture = ExtResource("7_ball")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Heart3" type="TextureRect" parent="Margin/VBox/TopBar/LivesBox"]
+custom_minimum_size = Vector2(28, 28)
+layout_mode = 2
+texture = ExtResource("7_ball")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Heart4" type="TextureRect" parent="Margin/VBox/TopBar/LivesBox"]
+visible = false
+custom_minimum_size = Vector2(28, 28)
+layout_mode = 2
+texture = ExtResource("7_ball")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Heart5" type="TextureRect" parent="Margin/VBox/TopBar/LivesBox"]
+visible = false
+custom_minimum_size = Vector2(28, 28)
+layout_mode = 2
+texture = ExtResource("7_ball")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="FreePlayIcon" type="TextureRect" parent="Margin/VBox/TopBar/LivesBox"]
+visible = false
+custom_minimum_size = Vector2(28, 28)
+layout_mode = 2
+texture = ExtResource("8_infinity")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="FreePlayLabel" type="Label" parent="Margin/VBox/TopBar/LivesBox"]
+visible = false
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.75, 0.2, 1)
+theme_override_font_sizes/font_size = 12
+text = "PRACTICE"
+
+[node name="StreakBox" type="HBoxContainer" parent="Margin/VBox/TopBar"]
+layout_mode = 2
+theme_override_constants/separation = 6
+
+[node name="FlameIcon" type="TextureRect" parent="Margin/VBox/TopBar/StreakBox"]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+texture = ExtResource("4_5m2q8")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="ScoreLabel" type="Label" parent="Margin/VBox/TopBar/StreakBox"]
+custom_minimum_size = Vector2(28, 0)
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.6, 0.15, 1)
+theme_override_font_sizes/font_size = 26
+text = "0"
+horizontal_alignment = 1
+
+[node name="BestLabel" type="Label" parent="Margin/VBox/TopBar/StreakBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.75, 0.6, 1)
+theme_override_font_sizes/font_size = 12
+text = "RECORD: 0"
+
+[node name="PromptBanner" type="PanelContainer" parent="Margin/VBox"]
+custom_minimum_size = Vector2(0, 62)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_prompt")
+
+[node name="PromptLabel" type="Label" parent="Margin/VBox/PromptBanner"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.95, 0.85, 1)
+theme_override_font_sizes/font_size = 16
+text = "WHO HAS THE HIGHER CAREER POINTS PER GAME?"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+
+[node name="ActiveFiltersBar" type="PanelContainer" parent="Margin/VBox"]
+visible = false
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_active_filter")
+
+[node name="Margin" type="MarginContainer" parent="Margin/VBox/ActiveFiltersBar"]
+layout_mode = 2
+theme_override_constants/margin_left = 12
+theme_override_constants/margin_top = 6
+theme_override_constants/margin_right = 12
+theme_override_constants/margin_bottom = 6
+
+[node name="HBox" type="HBoxContainer" parent="Margin/VBox/ActiveFiltersBar/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="ActiveFilterLabel" type="Label" parent="Margin/VBox/ActiveFiltersBar/Margin/HBox"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(1, 0.75, 0.35, 1)
+theme_override_font_sizes/font_size = 12
+text = "🎯 Court Setup: Rookie (Top 30%) • Guards"
+text_overrun_behavior = 3
+
+[node name="CardStage" type="Control" parent="Margin/VBox"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="DuelCard" parent="Margin/VBox/CardStage" instance=ExtResource("2_2x9a4")]
+layout_mode = 1
+
+[node name="BottomControls" type="HBoxContainer" parent="Margin/VBox"]
+custom_minimum_size = Vector2(0, 68)
+layout_mode = 2
+theme_override_constants/separation = 16
+
+[node name="SwipeLeftBtn" type="Button" parent="Margin/VBox/BottomControls"]
+custom_minimum_size = Vector2(0, 56)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 16
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_left")
+text = "👈 PICK LEFT"
+icon = ExtResource("5_7b1v2")
+expand_icon = true
+
+[node name="SwipeRightBtn" type="Button" parent="Margin/VBox/BottomControls"]
+custom_minimum_size = Vector2(0, 56)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 16
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_right")
+text = "PICK RIGHT 👉"
+icon = ExtResource("6_8c3w4")
+alignment = 2
+icon_alignment = 2
+expand_icon = true
+
+[node name="FeedbackBanner" type="PanelContainer" parent="."]
+visible = false
+custom_minimum_size = Vector2(400, 72)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -200.0
+offset_top = -36.0
+offset_right = 200.0
+offset_bottom = 36.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(200, 36)
+mouse_filter = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_feedback")
+
+[node name="Margin" type="MarginContainer" parent="FeedbackBanner"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_left = 18
+theme_override_constants/margin_right = 18
+
+[node name="Label" type="Label" parent="FeedbackBanner/Margin"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.7)
+theme_override_font_sizes/font_size = 22
+text = "SWISH! 🏀"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="GameOverModal" parent="." instance=ExtResource("3_3k8m1")]
+visible = false
+layout_mode = 1

@@ -1,0 +1,284 @@
+{
+  "id": "nba_franchise_founded",
+  "title": "Franchise Age (Years Established)",
+  "group": "franchise",
+  "group_label": "Teams & Franchises",
+  "filter_type": "team",
+  "prompt": "Which franchise is OLDER (More Years Established)?",
+  "unit": "years",
+  "value_format": "{value} Years Old",
+  "icon": "res://assets/icons/trophy.png",
+  "theme_color": "#8A2BE2",
+  "items": [
+    {
+      "name": "Boston Celtics",
+      "subtext": "Founded 1946 \u2022 Eastern Conf",
+      "value": 80,
+      "display_value": "80 Years Old (Est. 1946)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Celtics"
+    },
+    {
+      "name": "Golden State Warriors",
+      "subtext": "Founded 1946 \u2022 Western Conf",
+      "value": 80,
+      "display_value": "80 Years Old (Est. 1946)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Warriors"
+    },
+    {
+      "name": "New York Knicks",
+      "subtext": "Founded 1946 \u2022 Eastern Conf",
+      "value": 80,
+      "display_value": "80 Years Old (Est. 1946)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Knicks"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "subtext": "Founded 1948 \u2022 Western Conf",
+      "value": 78,
+      "display_value": "78 Years Old (Est. 1948)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Lakers"
+    },
+    {
+      "name": "Sacramento Kings",
+      "subtext": "Founded 1948 \u2022 Western Conf",
+      "value": 78,
+      "display_value": "78 Years Old (Est. 1948)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Kings"
+    },
+    {
+      "name": "Detroit Pistons",
+      "subtext": "Founded 1948 \u2022 Eastern Conf",
+      "value": 78,
+      "display_value": "78 Years Old (Est. 1948)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Pistons"
+    },
+    {
+      "name": "Atlanta Hawks",
+      "subtext": "Founded 1949 \u2022 Eastern Conf",
+      "value": 77,
+      "display_value": "77 Years Old (Est. 1949)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Hawks"
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "subtext": "Founded 1949 \u2022 Eastern Conf",
+      "value": 77,
+      "display_value": "77 Years Old (Est. 1949)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "76ers"
+    },
+    {
+      "name": "Chicago Bulls",
+      "subtext": "Founded 1966 \u2022 Eastern Conf",
+      "value": 60,
+      "display_value": "60 Years Old (Est. 1966)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bulls"
+    },
+    {
+      "name": "Houston Rockets",
+      "subtext": "Founded 1967 \u2022 Western Conf",
+      "value": 59,
+      "display_value": "59 Years Old (Est. 1967)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Rockets"
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "subtext": "Founded 1967 \u2022 Western Conf",
+      "value": 59,
+      "display_value": "59 Years Old (Est. 1967)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Thunder"
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "subtext": "Founded 1968 \u2022 Eastern Conf",
+      "value": 58,
+      "display_value": "58 Years Old (Est. 1968)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Bucks"
+    },
+    {
+      "name": "Phoenix Suns",
+      "subtext": "Founded 1968 \u2022 Western Conf",
+      "value": 58,
+      "display_value": "58 Years Old (Est. 1968)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Suns"
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "subtext": "Founded 1970 \u2022 Eastern Conf",
+      "value": 56,
+      "display_value": "56 Years Old (Est. 1970)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Cavaliers"
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "subtext": "Founded 1970 \u2022 Western Conf",
+      "value": 56,
+      "display_value": "56 Years Old (Est. 1970)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Pacific",
+      "team": "Clippers"
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "subtext": "Founded 1970 \u2022 Western Conf",
+      "value": 56,
+      "display_value": "56 Years Old (Est. 1970)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Trail Blazers"
+    },
+    {
+      "name": "Utah Jazz",
+      "subtext": "Founded 1974 \u2022 Western Conf",
+      "value": 52,
+      "display_value": "52 Years Old (Est. 1974)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Jazz"
+    },
+    {
+      "name": "Denver Nuggets",
+      "subtext": "Founded 1976 \u2022 Western Conf",
+      "value": 50,
+      "display_value": "50 Years Old (Est. 1976)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Nuggets"
+    },
+    {
+      "name": "Brooklyn Nets",
+      "subtext": "Founded 1976 \u2022 Eastern Conf",
+      "value": 50,
+      "display_value": "50 Years Old (Est. 1976)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Nets"
+    },
+    {
+      "name": "Indiana Pacers",
+      "subtext": "Founded 1976 \u2022 Eastern Conf",
+      "value": 50,
+      "display_value": "50 Years Old (Est. 1976)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Central",
+      "team": "Pacers"
+    },
+    {
+      "name": "Dallas Mavericks",
+      "subtext": "Founded 1980 \u2022 Western Conf",
+      "value": 46,
+      "display_value": "46 Years Old (Est. 1980)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Mavericks"
+    },
+    {
+      "name": "Miami Heat",
+      "subtext": "Founded 1988 \u2022 Eastern Conf",
+      "value": 38,
+      "display_value": "38 Years Old (Est. 1988)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Heat"
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "subtext": "Founded 1989 \u2022 Western Conf",
+      "value": 37,
+      "display_value": "37 Years Old (Est. 1989)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Northwest",
+      "team": "Timberwolves"
+    },
+    {
+      "name": "Orlando Magic",
+      "subtext": "Founded 1989 \u2022 Eastern Conf",
+      "value": 37,
+      "display_value": "37 Years Old (Est. 1989)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "team": "Magic"
+    },
+    {
+      "name": "Toronto Raptors",
+      "subtext": "Founded 1995 \u2022 Eastern Conf",
+      "value": 31,
+      "display_value": "31 Years Old (Est. 1995)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "team": "Raptors"
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "subtext": "Founded 1995 \u2022 Western Conf",
+      "value": 31,
+      "display_value": "31 Years Old (Est. 1995)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Grizzlies"
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "subtext": "Founded 2002 \u2022 Western Conf",
+      "value": 24,
+      "display_value": "24 Years Old (Est. 2002)",
+      "image_url": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
+      "conference": "Western",
+      "division": "Southwest",
+      "team": "Pelicans"
+    }
+  ]
+}

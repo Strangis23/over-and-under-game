@@ -1,0 +1,381 @@
+[gd_scene load_steps=7 format=3 uid="uid://c5e3f1h8j0k4m"]
+
+[ext_resource type="Script" path="res://scripts/FilterModal.gd" id="1_fm"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_modal_bg"]
+bg_color = Color(0.0784314, 0.0980392, 0.14902, 0.980392)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.235294, 0.337255, 0.501961, 0.901961)
+corner_radius_top_left = 20
+corner_radius_top_right = 20
+corner_radius_bottom_right = 20
+corner_radius_bottom_left = 20
+shadow_color = Color(0, 0, 0, 0.705882)
+shadow_size = 20
+shadow_offset = Vector2(0, 6)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_chip"]
+content_margin_left = 12.0
+content_margin_top = 8.0
+content_margin_right = 12.0
+content_margin_bottom = 8.0
+bg_color = Color(0.137255, 0.172549, 0.247059, 0.901961)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.27451, 0.352941, 0.490196, 0.784314)
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_reset"]
+content_margin_left = 16.0
+content_margin_top = 10.0
+content_margin_right = 16.0
+content_margin_bottom = 10.0
+bg_color = Color(0.180392, 0.219608, 0.298039, 0.901961)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.352941, 0.411765, 0.529412, 0.8)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_btn_apply"]
+content_margin_left = 16.0
+content_margin_top = 10.0
+content_margin_right = 16.0
+content_margin_bottom = 10.0
+bg_color = Color(0, 0.666667, 0.866667, 0.95)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.6, 0.9, 1, 0.9)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+shadow_color = Color(0, 0.5, 0.7, 0.4)
+shadow_size = 8
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_close"]
+content_margin_left = 8.0
+content_margin_top = 6.0
+content_margin_right = 8.0
+content_margin_bottom = 6.0
+bg_color = Color(0.2, 0.24, 0.32, 0.8)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[node name="FilterModal" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 0
+script = ExtResource("1_fm")
+
+[node name="Dimmer" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.705882)
+
+[node name="Center" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="PanelContainer" parent="Center"]
+custom_minimum_size = Vector2(620, 720)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_modal_bg")
+
+[node name="Margin" type="MarginContainer" parent="Center/Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 24
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 24
+theme_override_constants/margin_bottom = 20
+
+[node name="VBox" type="VBoxContainer" parent="Center/Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="Header" type="HBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+
+[node name="TitleBox" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Header"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 2
+
+[node name="Title" type="Label" parent="Center/Panel/Margin/VBox/Header/TitleBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_font_sizes/font_size = 22
+text = "FILTER MATCHUPS"
+
+[node name="Subtitle" type="Label" parent="Center/Panel/Margin/VBox/Header/TitleBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.658824, 0.745098, 0.878431, 0.901961)
+theme_override_font_sizes/font_size = 13
+text = "Filter duels by Team, Position, Era, or Status"
+
+[node name="CloseBtn" type="Button" parent="Center/Panel/Margin/VBox/Header"]
+custom_minimum_size = Vector2(36, 36)
+layout_mode = 2
+size_flags_vertical = 0
+theme_override_colors/font_color = Color(0.8, 0.85, 0.95, 1)
+theme_override_font_sizes/font_size = 16
+theme_override_styles/normal = SubResource("StyleBoxFlat_close")
+text = "✕"
+
+[node name="Sep1" type="HSeparator" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+
+[node name="Scroll" type="ScrollContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+size_flags_vertical = 3
+horizontal_scroll_mode = 0
+
+[node name="Content" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Scroll"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 16
+
+[node name="PlayerSection" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Scroll/Content"]
+layout_mode = 2
+theme_override_constants/separation = 14
+
+[node name="PosHeader" type="Label" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0.8, 1, 1)
+theme_override_font_sizes/font_size = 14
+text = "POSITION"
+
+[node name="PosContainer" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="PosAll" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/PosContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "All Positions"
+metadata/filter_value = "All"
+
+[node name="PosGuard" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/PosContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "Guards"
+metadata/filter_value = "Guard"
+
+[node name="PosForward" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/PosContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "Forwards"
+metadata/filter_value = "Forward"
+
+[node name="PosCenter" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/PosContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "Centers"
+metadata/filter_value = "Center"
+
+[node name="DecHeader" type="Label" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0.8, 1, 1)
+theme_override_font_sizes/font_size = 14
+text = "ERA / DECADE"
+
+[node name="DecadeContainer" type="HFlowContainer" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+layout_mode = 2
+theme_override_constants/h_separation = 8
+theme_override_constants/v_separation = 8
+
+[node name="DecAll" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/DecadeContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "All Eras"
+metadata/filter_value = "All"
+
+[node name="Dec2020" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/DecadeContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "2020s (Current)"
+metadata/filter_value = "2020s"
+
+[node name="Dec2010" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/DecadeContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "2010s"
+metadata/filter_value = "2010s"
+
+[node name="Dec2000" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/DecadeContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "2000s"
+metadata/filter_value = "2000s"
+
+[node name="Dec1990" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/DecadeContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "1990s"
+metadata/filter_value = "1990s"
+
+[node name="DecPrior" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/DecadeContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "80s & Prior"
+metadata/filter_value = "1980s & Prior"
+
+[node name="StatusHeader" type="Label" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0.8, 1, 1)
+theme_override_font_sizes/font_size = 14
+text = "PLAYER STATUS"
+
+[node name="StatusContainer" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="StAll" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/StatusContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "All Players"
+metadata/filter_value = "All"
+
+[node name="StActive" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/StatusContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "Active Only"
+metadata/filter_value = "Active Only"
+
+[node name="StRetired" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection/StatusContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "Legends Only"
+metadata/filter_value = "Legends Only"
+
+[node name="TeamHeader" type="Label" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0.8, 1, 1)
+theme_override_font_sizes/font_size = 14
+text = "SPECIFIC TEAM"
+
+[node name="TeamDropdown" type="OptionButton" parent="Center/Panel/Margin/VBox/Scroll/Content/PlayerSection"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+theme_override_font_sizes/font_size = 14
+
+[node name="TeamSection" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Scroll/Content"]
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 14
+
+[node name="ConfHeader" type="Label" parent="Center/Panel/Margin/VBox/Scroll/Content/TeamSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0.8, 1, 1)
+theme_override_font_sizes/font_size = 14
+text = "CONFERENCE"
+
+[node name="ConfContainer" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Scroll/Content/TeamSection"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="ConfAll" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/TeamSection/ConfContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "All Conferences"
+metadata/filter_value = "All"
+
+[node name="ConfEast" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/TeamSection/ConfContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "Eastern Conference"
+metadata/filter_value = "Eastern"
+
+[node name="ConfWest" type="Button" parent="Center/Panel/Margin/VBox/Scroll/Content/TeamSection/ConfContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_chip")
+text = "Western Conference"
+metadata/filter_value = "Western"
+
+[node name="Sep2" type="HSeparator" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+
+[node name="Footer" type="VBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="MatchCountLabel" type="Label" parent="Center/Panel/Margin/VBox/Footer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.3, 0.95, 0.5, 1)
+theme_override_font_sizes/font_size = 14
+text = "✅ 200 matching candidates ready for duels"
+horizontal_alignment = 1
+
+[node name="BtnBox" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Footer"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="ResetBtn" type="Button" parent="Center/Panel/Margin/VBox/Footer/BtnBox"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(0.8, 0.85, 0.95, 1)
+theme_override_font_sizes/font_size = 15
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_reset")
+text = "Reset All"
+
+[node name="ApplyBtn" type="Button" parent="Center/Panel/Margin/VBox/Footer/BtnBox"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_font_sizes/font_size = 15
+theme_override_styles/normal = SubResource("StyleBoxFlat_btn_apply")
+text = "Apply Filters"

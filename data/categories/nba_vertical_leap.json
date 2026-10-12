@@ -1,0 +1,2914 @@
+{
+  "id": "nba_vertical_leap",
+  "title": "Combine Max Vertical Leap",
+  "group": "physical",
+  "group_label": "Physical Attributes",
+  "filter_type": "player",
+  "prompt": "Who recorded the HIGHER Max Vertical Leap?",
+  "unit": "in",
+  "value_format": "{value}\" Vertical",
+  "icon": "res://assets/icons/flame.png",
+  "theme_color": "#FFD700",
+  "items": [
+    {
+      "name": "Keon Johnson",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 48.0,
+      "display_value": "48.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Kenny Gregory",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 45.5,
+      "display_value": "45.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12152.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "Hamidou Diallo",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 44.5,
+      "display_value": "44.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628977.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Jericho Sims",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 44.5,
+      "display_value": "44.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Shane Larkin",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 44.0,
+      "display_value": "44.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203499.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2017
+    },
+    {
+      "name": "Pat Connaughton",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 44.0,
+      "display_value": "44.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626192.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2015,
+      "to_year": 2023
+    },
+    {
+      "name": "Kay Felder",
+      "subtext": "Forward \u2022 Draft Combine 2016",
+      "value": 44.0,
+      "display_value": "44.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627770.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2016,
+      "to_year": 2016
+    },
+    {
+      "name": "Cassius Stanley",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 44.0,
+      "display_value": "44.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630199.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2020,
+      "to_year": 2021
+    },
+    {
+      "name": "Tim Bowers",
+      "subtext": "Forward \u2022 Draft Combine 2004",
+      "value": 43.5,
+      "display_value": "43.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12174.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2004,
+      "to_year": 2004
+    },
+    {
+      "name": "Nate Robinson",
+      "subtext": "Forward \u2022 Draft Combine 2004",
+      "value": 43.5,
+      "display_value": "43.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101126.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2015
+    },
+    {
+      "name": "Markel Brown",
+      "subtext": "Forward \u2022 Draft Combine 2014",
+      "value": 43.5,
+      "display_value": "43.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203900.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2014,
+      "to_year": 2014
+    },
+    {
+      "name": "Demetrius Jackson",
+      "subtext": "Forward \u2022 Draft Combine 2016",
+      "value": 43.5,
+      "display_value": "43.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627743.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2016,
+      "to_year": 2018
+    },
+    {
+      "name": "Tyler Bey",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 43.5,
+      "display_value": "43.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630189.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2020,
+      "to_year": 2020
+    },
+    {
+      "name": "Matt Santangelo",
+      "subtext": "Forward \u2022 Draft Combine 2000",
+      "value": 43.0,
+      "display_value": "43.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12024.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2000,
+      "to_year": 2000
+    },
+    {
+      "name": "Jamario Moon",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 43.0,
+      "display_value": "43.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200081.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "Justin Anderson",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 43.0,
+      "display_value": "43.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626147.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2015,
+      "to_year": 2021
+    },
+    {
+      "name": "Keifer Sykes",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 43.0,
+      "display_value": "43.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626208.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2021,
+      "to_year": 2021
+    },
+    {
+      "name": "Marcus Thornton",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 43.0,
+      "display_value": "43.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626194.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2015,
+      "to_year": 2015
+    },
+    {
+      "name": "Jalen Lecque",
+      "subtext": "Forward \u2022 Draft Combine 2019",
+      "value": 43.0,
+      "display_value": "43.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629665.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2019,
+      "to_year": 2020
+    },
+    {
+      "name": "Julian Phillips",
+      "subtext": "Forward \u2022 Draft Combine 2023",
+      "value": 43.0,
+      "display_value": "43.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641763.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2023,
+      "to_year": 2023
+    },
+    {
+      "name": "Speedy Claxton",
+      "subtext": "Forward \u2022 Draft Combine 2000",
+      "value": 42.5,
+      "display_value": "42.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2049.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2008
+    },
+    {
+      "name": "Alex Scales",
+      "subtext": "Forward \u2022 Draft Combine 2000",
+      "value": 42.5,
+      "display_value": "42.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2637.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2005
+    },
+    {
+      "name": "Jordan Bone",
+      "subtext": "Forward \u2022 Draft Combine 2019",
+      "value": 42.5,
+      "display_value": "42.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629648.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2019,
+      "to_year": 2019
+    },
+    {
+      "name": "Jalen Harris",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 42.5,
+      "display_value": "42.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630223.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2020,
+      "to_year": 2020
+    },
+    {
+      "name": "Yves Pons",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 42.5,
+      "display_value": "42.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630582.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2021,
+      "to_year": 2021
+    },
+    {
+      "name": "Jordan Farmar",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200770.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2016
+    },
+    {
+      "name": "Patrick Ewing Jr.",
+      "subtext": "Forward \u2022 Draft Combine 2008",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201607.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2010,
+      "to_year": 2010
+    },
+    {
+      "name": "Josh Selby",
+      "subtext": "Forward \u2022 Draft Combine 2011",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202729.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2012
+    },
+    {
+      "name": "Iman Shumpert",
+      "subtext": "Forward \u2022 Draft Combine 2011",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202697.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2020
+    },
+    {
+      "name": "Ben McLemore",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203463.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2021
+    },
+    {
+      "name": "Victor Oladipo",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203506.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2013
+    },
+    {
+      "name": "Frank Jackson",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628402.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2017
+    },
+    {
+      "name": "Donte DiVincenzo",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Josh Okogie",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Scottie Lewis",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630575.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2021,
+      "to_year": 2021
+    },
+    {
+      "name": "Joe Wieskamp",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630580.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Mojave King",
+      "subtext": "Forward \u2022 Draft Combine 2023",
+      "value": 42.0,
+      "display_value": "42.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631340.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2023,
+      "to_year": 2023
+    },
+    {
+      "name": "Cookie Belcher",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12034.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "Ronald Dupree",
+      "subtext": "Forward \u2022 Draft Combine 2003",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2648.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2003
+    },
+    {
+      "name": "Dwayne Mitchell",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201383.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2006
+    },
+    {
+      "name": "Darius Johnson-Odom",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203130.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2013
+    },
+    {
+      "name": "Peyton Siva",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203491.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2013
+    },
+    {
+      "name": "Nick Johnson",
+      "subtext": "Forward \u2022 Draft Combine 2014",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203910.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2014,
+      "to_year": 2014
+    },
+    {
+      "name": "Zach LaVine",
+      "subtext": "Forward \u2022 Draft Combine 2014",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2014,
+      "to_year": 2014
+    },
+    {
+      "name": "Glenn Robinson III",
+      "subtext": "Forward \u2022 Draft Combine 2014",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203922.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2014,
+      "to_year": 2020
+    },
+    {
+      "name": "Devin Robinson",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628421.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2017
+    },
+    {
+      "name": "Trevon Duval",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628979.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2018,
+      "to_year": 2018
+    },
+    {
+      "name": "Anfernee Simons",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Zhaire Smith",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629015.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2018,
+      "to_year": 2019
+    },
+    {
+      "name": "Jaylen Hands",
+      "subtext": "Forward \u2022 Draft Combine 2019",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628986.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2019,
+      "to_year": 2019
+    },
+    {
+      "name": "Ochai Agbaji",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Jaden Springer",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Kennedy Chandler",
+      "subtext": "Forward \u2022 Draft Combine 2022",
+      "value": 41.5,
+      "display_value": "41.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631113.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2022,
+      "to_year": 2022
+    },
+    {
+      "name": "Horace Jenkins",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2798.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "DeMarcus Minor",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12161.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "Troy Bell",
+      "subtext": "Forward \u2022 Draft Combine 2003",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2559.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2003
+    },
+    {
+      "name": "Doug Wrenn",
+      "subtext": "Forward \u2022 Draft Combine 2003",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12103.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2003
+    },
+    {
+      "name": "Ronnie Brewer",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200758.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2013
+    },
+    {
+      "name": "Bobby Brown",
+      "subtext": "Forward \u2022 Draft Combine 2007",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201628.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2017
+    },
+    {
+      "name": "Al Thornton",
+      "subtext": "Forward \u2022 Draft Combine 2007",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201154.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2007,
+      "to_year": 2010
+    },
+    {
+      "name": "O.J. Mayo",
+      "subtext": "Forward \u2022 Draft Combine 2008",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201564.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2015
+    },
+    {
+      "name": "Bryce Taylor",
+      "subtext": "Forward \u2022 Draft Combine 2008",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12272.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2008
+    },
+    {
+      "name": "Michael Carter-Williams",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203487.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2013
+    },
+    {
+      "name": "Ryan Boatright",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626207.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2015,
+      "to_year": 2015
+    },
+    {
+      "name": "Jaron Blossomgame",
+      "subtext": "Forward \u2022 Draft Combine 2016",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628417.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2016,
+      "to_year": 2016
+    },
+    {
+      "name": "Frank Mason III",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628412.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2020
+    },
+    {
+      "name": "Udoka Azubuike",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Lamar Stevens",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630205.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "AJ Lawson",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630639.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Kendall Brown",
+      "subtext": "Forward \u2022 Draft Combine 2022",
+      "value": 41.0,
+      "display_value": "41.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631112.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pacers",
+      "team_full": "Indiana Pacers",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2022,
+      "to_year": 2023
+    },
+    {
+      "name": "Michael Hicks",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12154.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "Matt Barnes",
+      "subtext": "Forward \u2022 Draft Combine 2002",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2440.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2002,
+      "to_year": 2016
+    },
+    {
+      "name": "Derrick Zimmerman",
+      "subtext": "Forward \u2022 Draft Combine 2003",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2583.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2005
+    },
+    {
+      "name": "Will Bynum",
+      "subtext": "Forward \u2022 Draft Combine 2005",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101198.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2014
+    },
+    {
+      "name": "Rudy Gay",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2006,
+      "to_year": 2023
+    },
+    {
+      "name": "Brandon Roy",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200750.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2012
+    },
+    {
+      "name": "Mike Conley",
+      "subtext": "Forward \u2022 Draft Combine 2007",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2007,
+      "to_year": 2023
+    },
+    {
+      "name": "Nick Young",
+      "subtext": "Forward \u2022 Draft Combine 2007",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201156.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2007,
+      "to_year": 2018
+    },
+    {
+      "name": "Travis Leslie",
+      "subtext": "Forward \u2022 Draft Combine 2011",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202727.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2017
+    },
+    {
+      "name": "Miles Plumlee",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203101.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2018
+    },
+    {
+      "name": "Marquis Teague",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203104.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2017
+    },
+    {
+      "name": "Isaiah Canaan",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203477.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2018
+    },
+    {
+      "name": "CJ Leslie",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203466.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2013
+    },
+    {
+      "name": "Glen Rice",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203318.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2014
+    },
+    {
+      "name": "Adonis Thomas",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203519.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2013
+    },
+    {
+      "name": "Norman Powell",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626181.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2015,
+      "to_year": 2023
+    },
+    {
+      "name": "Joel Bolomboy",
+      "subtext": "Forward \u2022 Draft Combine 2016",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627762.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2016,
+      "to_year": 2016
+    },
+    {
+      "name": "Rawle Alkins",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628959.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2018,
+      "to_year": 2018
+    },
+    {
+      "name": "Donovan Mitchell",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2017,
+      "to_year": 2023
+    },
+    {
+      "name": "Semi Ojeleye",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628400.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2021
+    },
+    {
+      "name": "Grayson Allen",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Melvin Frazier",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628982.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2018,
+      "to_year": 2018
+    },
+    {
+      "name": "Brandon Clarke",
+      "subtext": "Forward \u2022 Draft Combine 2019",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2019,
+      "to_year": 2023
+    },
+    {
+      "name": "Jared Harper",
+      "subtext": "Forward \u2022 Draft Combine 2019",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629607.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pelicans",
+      "team_full": "New Orleans Pelicans",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2019,
+      "to_year": 2021
+    },
+    {
+      "name": "Tremont Waters",
+      "subtext": "Forward \u2022 Draft Combine 2019",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629682.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2019,
+      "to_year": 2021
+    },
+    {
+      "name": "Devon Dotson",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629653.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2020,
+      "to_year": 2020
+    },
+    {
+      "name": "Olivier-Maxence Prosper",
+      "subtext": "Forward \u2022 Draft Combine 2023",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641765.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2023,
+      "to_year": 2023
+    },
+    {
+      "name": "Cam Whitmore",
+      "subtext": "Forward \u2022 Draft Combine 2023",
+      "value": 40.5,
+      "display_value": "40.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641715.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2023,
+      "to_year": 2023
+    },
+    {
+      "name": "Jason Gardner",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/-1.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "Sean Lampley",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2253.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2002,
+      "to_year": 2003
+    },
+    {
+      "name": "Will Blalock",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200807.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2006
+    },
+    {
+      "name": "Eric Gordon",
+      "subtext": "Forward \u2022 Draft Combine 2008",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Clippers",
+      "team_full": "Los Angeles Clippers",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2022
+    },
+    {
+      "name": "Derrick Rose",
+      "subtext": "Forward \u2022 Draft Combine 2008",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201565.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2008
+    },
+    {
+      "name": "Deron Washington",
+      "subtext": "Forward \u2022 Draft Combine 2008",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201622.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2008
+    },
+    {
+      "name": "Jonny Flynn",
+      "subtext": "Forward \u2022 Draft Combine 2009",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201938.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2009,
+      "to_year": 2009
+    },
+    {
+      "name": "Terrico White",
+      "subtext": "Forward \u2022 Draft Combine 2010",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202358.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2010,
+      "to_year": 2010
+    },
+    {
+      "name": "Isaiah Thomas",
+      "subtext": "Forward \u2022 Draft Combine 2011",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202738.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2021
+    },
+    {
+      "name": "Marcus Denmon",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203134.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2012
+    },
+    {
+      "name": "Tony Mitchell",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203183.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2012
+    },
+    {
+      "name": "Jeff Taylor",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203106.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2016
+    },
+    {
+      "name": "Ray McCallum",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203492.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2013,
+      "to_year": 2015
+    },
+    {
+      "name": "Cleanthony Early",
+      "subtext": "Forward \u2022 Draft Combine 2014",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203921.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2014,
+      "to_year": 2014
+    },
+    {
+      "name": "J.P. Tokoto",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626160.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2015,
+      "to_year": 2015
+    },
+    {
+      "name": "Allonzo Trier",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629019.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2018,
+      "to_year": 2019
+    },
+    {
+      "name": "Lonnie Walker",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Christian Braun",
+      "subtext": "Forward \u2022 Draft Combine 2022",
+      "value": 40.0,
+      "display_value": "40.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631128.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2022,
+      "to_year": 2022
+    },
+    {
+      "name": "SirValiant Brown",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12031.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "Jason Richardson",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2202.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2014
+    },
+    {
+      "name": "T.J. Ford",
+      "subtext": "Forward \u2022 Draft Combine 2003",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2551.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2003
+    },
+    {
+      "name": "Dahntay Jones",
+      "subtext": "Forward \u2022 Draft Combine 2003",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2563.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2016
+    },
+    {
+      "name": "Josh Smith",
+      "subtext": "Forward \u2022 Draft Combine 2004",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2746.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2004,
+      "to_year": 2017
+    },
+    {
+      "name": "Mike Bell",
+      "subtext": "Forward \u2022 Draft Combine 2005",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12105.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2005
+    },
+    {
+      "name": "Tyrus Thomas",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200748.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2014
+    },
+    {
+      "name": "Aaron Brooks",
+      "subtext": "Forward \u2022 Draft Combine 2007",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201166.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2007,
+      "to_year": 2017
+    },
+    {
+      "name": "Kemba Walker",
+      "subtext": "Forward \u2022 Draft Combine 2011",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202689.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2022
+    },
+    {
+      "name": "Harrison Barnes",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2012
+    },
+    {
+      "name": "Orlando Johnson",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203111.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2012,
+      "to_year": 2012
+    },
+    {
+      "name": "Damian Lillard",
+      "subtext": "Forward \u2022 Draft Combine 2012",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Trail Blazers",
+      "team_full": "Portland Trail Blazers",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2012,
+      "to_year": 2023
+    },
+    {
+      "name": "Brandon Paul",
+      "subtext": "Forward \u2022 Draft Combine 2013",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203464.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2017
+    },
+    {
+      "name": "Thanasis Antetokounmpo",
+      "subtext": "Forward \u2022 Draft Combine 2014",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203648.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bucks",
+      "team_full": "Milwaukee Bucks",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2015,
+      "to_year": 2023
+    },
+    {
+      "name": "Deonte Burton",
+      "subtext": "Forward \u2022 Draft Combine 2014",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203907.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2014,
+      "to_year": 2014
+    },
+    {
+      "name": "Michael Qualls",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626180.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2015,
+      "to_year": 2015
+    },
+    {
+      "name": "Chasson Randle",
+      "subtext": "Forward \u2022 Draft Combine 2015",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626184.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2016,
+      "to_year": 2020
+    },
+    {
+      "name": "Jake Layman",
+      "subtext": "Forward \u2022 Draft Combine 2016",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627774.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2016,
+      "to_year": 2016
+    },
+    {
+      "name": "Marcus Paige",
+      "subtext": "Forward \u2022 Draft Combine 2016",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627779.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2017,
+      "to_year": 2017
+    },
+    {
+      "name": "Cameron Oliver",
+      "subtext": "Forward \u2022 Draft Combine 2017",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628419.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2020,
+      "to_year": 2021
+    },
+    {
+      "name": "Landry Shamet",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Wizards",
+      "team_full": "Washington Wizards",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Gary Trent",
+      "subtext": "Forward \u2022 Draft Combine 2018",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2018,
+      "to_year": 2023
+    },
+    {
+      "name": "Josh Green",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2020,
+      "to_year": 2023
+    },
+    {
+      "name": "Grant Riller",
+      "subtext": "Forward \u2022 Draft Combine 2020",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630203.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hornets",
+      "team_full": "Charlotte Hornets",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2020,
+      "to_year": 2020
+    },
+    {
+      "name": "Scottie Barnes",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Raptors",
+      "team_full": "Toronto Raptors",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Terrence Shannon Jr.",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630545.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2021,
+      "to_year": 2021
+    },
+    {
+      "name": "Ziaire Williams",
+      "subtext": "Forward \u2022 Draft Combine 2021",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2021,
+      "to_year": 2023
+    },
+    {
+      "name": "Andre Jackson Jr.",
+      "subtext": "Forward \u2022 Draft Combine 2023",
+      "value": 39.5,
+      "display_value": "39.5\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641748.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2023,
+      "to_year": 2023
+    },
+    {
+      "name": "Ryan Carroll",
+      "subtext": "Forward \u2022 Draft Combine 2001",
+      "value": 39.0,
+      "display_value": "39.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12032.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2001
+    },
+    {
+      "name": "George Williams",
+      "subtext": "Forward \u2022 Draft Combine 2002",
+      "value": 39.0,
+      "display_value": "39.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2465.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2002,
+      "to_year": 2002
+    },
+    {
+      "name": "Gerald Green",
+      "subtext": "Forward \u2022 Draft Combine 2005",
+      "value": 39.0,
+      "display_value": "39.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101123.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2018
+    },
+    {
+      "name": "Ronnie Price",
+      "subtext": "Forward \u2022 Draft Combine 2005",
+      "value": 39.0,
+      "display_value": "39.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101179.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2005,
+      "to_year": 2016
+    },
+    {
+      "name": "Solomon Jones",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 39.0,
+      "display_value": "39.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200780.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2013
+    },
+    {
+      "name": "Chris McCray",
+      "subtext": "Forward \u2022 Draft Combine 2006",
+      "value": 39.0,
+      "display_value": "39.0\" Vertical",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200840.png",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2006,
+      "to_year": 2006
+    }
+  ]
+}

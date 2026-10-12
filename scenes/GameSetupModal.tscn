@@ -1,0 +1,320 @@
+[gd_scene load_steps=10 format=3 uid="uid://b5m3x9q2r1t4p"]
+
+[ext_resource type="Script" path="res://scripts/GameSetupModal.gd" id="1_setup"]
+[ext_resource type="Texture2D" path="res://assets/icons/play_icon.png" id="2_play"]
+[ext_resource type="Texture2D" path="res://assets/icons/filter_icon.png" id="3_filter"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_panel"]
+bg_color = Color(0.08, 0.1, 0.16, 0.98)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.25, 0.38, 0.6, 0.8)
+corner_radius_top_left = 22
+corner_radius_top_right = 22
+corner_radius_bottom_right = 22
+corner_radius_bottom_left = 22
+shadow_color = Color(0, 0, 0, 0.6)
+shadow_size = 18
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_close"]
+bg_color = Color(0.18, 0.22, 0.32, 0.8)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_opt_normal"]
+bg_color = Color(0.13, 0.16, 0.24, 0.95)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.24, 0.3, 0.44, 0.7)
+corner_radius_top_left = 14
+corner_radius_top_right = 14
+corner_radius_bottom_right = 14
+corner_radius_bottom_left = 14
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_filter_btn"]
+bg_color = Color(0.12, 0.22, 0.36, 0.9)
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color(0.25, 0.6, 0.9, 0.8)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_start_btn"]
+bg_color = Color(0.1, 0.75, 0.38, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.4, 1, 0.6, 0.9)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+shadow_color = Color(0.1, 0.75, 0.38, 0.4)
+shadow_size = 8
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_cancel_btn"]
+bg_color = Color(0.15, 0.18, 0.26, 1)
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+
+[node name="GameSetupModal" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_setup")
+
+[node name="Overlay" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.8)
+
+[node name="Center" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="PanelContainer" parent="Center"]
+custom_minimum_size = Vector2(640, 780)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_panel")
+
+[node name="Margin" type="MarginContainer" parent="Center/Panel"]
+layout_mode = 2
+theme_override_constants/margin_left = 24
+theme_override_constants/margin_top = 24
+theme_override_constants/margin_right = 24
+theme_override_constants/margin_bottom = 24
+
+[node name="VBox" type="VBoxContainer" parent="Center/Panel/Margin"]
+layout_mode = 2
+theme_override_constants/separation = 18
+
+[node name="Header" type="HBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="TitleBox" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Header"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 4
+
+[node name="CatTitle" type="Label" parent="Center/Panel/Margin/VBox/Header/TitleBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_font_sizes/font_size = 22
+text = "NBA Player Height"
+
+[node name="CatPrompt" type="Label" parent="Center/Panel/Margin/VBox/Header/TitleBox"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.65, 0.75, 0.9, 1)
+theme_override_font_sizes/font_size = 13
+text = "WHO IS TALLER (FEET & INCHES)?"
+
+[node name="CloseBtn" type="Button" parent="Center/Panel/Margin/VBox/Header"]
+custom_minimum_size = Vector2(42, 42)
+layout_mode = 2
+theme_override_font_sizes/font_size = 18
+theme_override_styles/normal = SubResource("StyleBoxFlat_close")
+text = "✕"
+
+[node name="Content" type="VBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/separation = 16
+
+[node name="DiffSection" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Content"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label" type="Label" parent="Center/Panel/Margin/VBox/Content/DiffSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.7, 0.25, 1)
+theme_override_font_sizes/font_size = 14
+text = "🎯 DIFFICULTY TIER"
+
+[node name="Desc" type="Label" parent="Center/Panel/Margin/VBox/Content/DiffSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.75, 0.65, 1)
+theme_override_font_sizes/font_size = 12
+text = "Rookie: Top 30% (Superstars & Legends) • All-Star: Top 60% • Hall of Fame: 100%"
+
+[node name="DiffBox" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Content/DiffSection"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="DiffEasy" type="Button" parent="Center/Panel/Margin/VBox/Content/DiffSection/DiffBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_opt_normal")
+text = "🟢 Rookie (30%)"
+
+[node name="DiffMedium" type="Button" parent="Center/Panel/Margin/VBox/Content/DiffSection/DiffBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_opt_normal")
+text = "🟡 All-Star (60%)"
+
+[node name="DiffHard" type="Button" parent="Center/Panel/Margin/VBox/Content/DiffSection/DiffBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_opt_normal")
+text = "🔴 Hall of Fame"
+
+[node name="LivesSection" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Content"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label" type="Label" parent="Center/Panel/Margin/VBox/Content/LivesSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.45, 0.15, 1)
+theme_override_font_sizes/font_size = 14
+text = "🏀 BASKETBALLS (LIVES)"
+
+[node name="Desc" type="Label" parent="Center/Panel/Margin/VBox/Content/LivesSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.85, 0.75, 0.65, 1)
+theme_override_font_sizes/font_size = 12
+text = "Misses / turnovers allowed before fouling out:"
+
+[node name="LivesBox" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Content/LivesSection"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Lives1" type="Button" parent="Center/Panel/Margin/VBox/Content/LivesSection/LivesBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_opt_normal")
+text = "🏀 1 Ball"
+
+[node name="Lives3" type="Button" parent="Center/Panel/Margin/VBox/Content/LivesSection/LivesBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_opt_normal")
+text = "🏀 3 Balls"
+
+[node name="Lives5" type="Button" parent="Center/Panel/Margin/VBox/Content/LivesSection/LivesBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 13
+theme_override_styles/normal = SubResource("StyleBoxFlat_opt_normal")
+text = "🏀 5 Balls"
+
+[node name="LivesFree" type="Button" parent="Center/Panel/Margin/VBox/Content/LivesSection/LivesBox"]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 12
+theme_override_styles/normal = SubResource("StyleBoxFlat_opt_normal")
+text = "♾️ Practice"
+
+[node name="FreePlayNote" type="Label" parent="Center/Panel/Margin/VBox/Content/LivesSection"]
+visible = false
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.75, 0.25, 1)
+theme_override_font_sizes/font_size = 12
+text = "⚠️ Free Practice allows endless play. High scores will NOT be recorded in the Record Book."
+
+[node name="FilterSection" type="VBoxContainer" parent="Center/Panel/Margin/VBox/Content"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label" type="Label" parent="Center/Panel/Margin/VBox/Content/FilterSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.4, 0.85, 1, 1)
+theme_override_font_sizes/font_size = 14
+text = "🔍 PRE-GAME FILTERS"
+
+[node name="FilterRow" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Content/FilterSection"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="FilterBtn" type="Button" parent="Center/Panel/Margin/VBox/Content/FilterSection/FilterRow"]
+custom_minimum_size = Vector2(0, 46)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 14
+theme_override_styles/normal = SubResource("StyleBoxFlat_filter_btn")
+text = "⚙️ Scout & Filter Contenders..."
+icon = ExtResource("3_filter")
+expand_icon = true
+
+[node name="ResetFilterBtn" type="Button" parent="Center/Panel/Margin/VBox/Content/FilterSection/FilterRow"]
+visible = false
+custom_minimum_size = Vector2(80, 46)
+layout_mode = 2
+theme_override_font_sizes/font_size = 13
+text = "✕ Reset"
+
+[node name="FilterSummary" type="Label" parent="Center/Panel/Margin/VBox/Content/FilterSection"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.65, 0.72, 0.85, 1)
+theme_override_font_sizes/font_size = 13
+text = "🎯 All Contenders (no filters applied)"
+
+[node name="Footer" type="VBoxContainer" parent="Center/Panel/Margin/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="PoolStatusLabel" type="Label" parent="Center/Panel/Margin/VBox/Footer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.3, 0.95, 0.5, 1)
+theme_override_font_sizes/font_size = 14
+text = "⚔️ Pool: 42 contenders ready (Top 30% of 140 matching)"
+horizontal_alignment = 1
+
+[node name="BtnRow" type="HBoxContainer" parent="Center/Panel/Margin/VBox/Footer"]
+layout_mode = 2
+theme_override_constants/separation = 14
+
+[node name="CancelBtn" type="Button" parent="Center/Panel/Margin/VBox/Footer/BtnRow"]
+custom_minimum_size = Vector2(0, 56)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 16
+theme_override_styles/normal = SubResource("StyleBoxFlat_cancel_btn")
+text = "CANCEL"
+
+[node name="StartBtn" type="Button" parent="Center/Panel/Margin/VBox/Footer/BtnRow"]
+custom_minimum_size = Vector2(0, 56)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_stretch_ratio = 1.6
+theme_override_font_sizes/font_size = 18
+theme_override_styles/normal = SubResource("StyleBoxFlat_start_btn")
+text = "🏀 TIP-OFF ▶"
+icon = ExtResource("2_play")
+expand_icon = true
