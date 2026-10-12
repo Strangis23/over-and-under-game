@@ -27,7 +27,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630702.png"
     },
     {
       "name": "Blake Wesley",
@@ -46,7 +47,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631104.png"
     },
     {
       "name": "J.D. Davison",
@@ -65,7 +67,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631120.png"
     },
     {
       "name": "Andrew Nembhard",
@@ -85,7 +88,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629614.png"
     },
     {
       "name": "Paolo Banchero",
@@ -104,7 +108,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631094.png"
     },
     {
       "name": "Ochai Agbaji",
@@ -123,7 +128,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630534.png"
     },
     {
       "name": "Dalen Terry",
@@ -142,7 +148,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631207.png"
     },
     {
       "name": "Wendell Moore Jr.",
@@ -161,7 +168,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631111.png"
     },
     {
       "name": "Vince Williams Jr.",
@@ -180,7 +188,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631246.png"
     },
     {
       "name": "Jake LaRavia",
@@ -199,7 +208,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631222.png"
     },
     {
       "name": "Chet Holmgren",
@@ -219,7 +229,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631096.png"
     },
     {
       "name": "Trevor Keels",
@@ -238,7 +249,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631211.png"
     },
     {
       "name": "Tyrese Martin",
@@ -257,7 +269,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631213.png"
     },
     {
       "name": "Jalen Duren",
@@ -276,7 +289,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631105.png"
     },
     {
       "name": "AJ Griffin",
@@ -295,7 +309,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631100.png"
     },
     {
       "name": "Kendall Brown",
@@ -314,7 +329,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631112.png"
     },
     {
       "name": "Jaden Ivey",
@@ -333,7 +349,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631093.png"
     },
     {
       "name": "David Roddy",
@@ -352,7 +369,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631223.png"
     },
     {
       "name": "MarJon Beauchamp",
@@ -371,7 +389,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630699.png"
     },
     {
       "name": "Jabari Smith Jr.",
@@ -390,7 +409,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631095.png"
     },
     {
       "name": "Walker Kessler",
@@ -409,7 +429,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631117.png"
     },
     {
       "name": "Bennedict Mathurin",
@@ -429,7 +450,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631097.png"
     },
     {
       "name": "Isaiah Mobley",
@@ -448,7 +470,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630600.png"
     },
     {
       "name": "Peyton Watson",
@@ -467,7 +490,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631212.png"
     },
     {
       "name": "Shaedon Sharpe",
@@ -486,7 +510,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631101.png"
     },
     {
       "name": "E.J. Liddell",
@@ -505,7 +530,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630604.png"
     },
     {
       "name": "TyTy Washington Jr.",
@@ -524,7 +550,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631102.png"
     },
     {
       "name": "Ryan Rollins",
@@ -543,7 +570,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631157.png"
     },
     {
       "name": "Patrick Baldwin Jr.",
@@ -562,7 +590,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631116.png"
     },
     {
       "name": "Jaylin Williams",
@@ -581,7 +610,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631119.png"
     },
     {
       "name": "Mark Williams",
@@ -600,7 +630,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631109.png"
     },
     {
       "name": "Bryce McGowens",
@@ -619,7 +650,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631121.png"
     },
     {
       "name": "Jabari Walker",
@@ -638,7 +670,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631133.png"
     },
     {
       "name": "Jalen Williams",
@@ -658,7 +691,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631114.png"
     },
     {
       "name": "Jeremy Sochan",
@@ -677,7 +711,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631110.png"
     },
     {
       "name": "Malaki Branham",
@@ -696,7 +731,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631103.png"
     },
     {
       "name": "Ousmane Dieng",
@@ -715,7 +751,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631172.png"
     },
     {
       "name": "Tari Eason",
@@ -734,7 +771,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631106.png"
     },
     {
       "name": "Keegan Murray",
@@ -753,7 +791,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631099.png"
     },
     {
       "name": "Tre Mann",
@@ -772,7 +811,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630544.png"
     },
     {
       "name": "Ziaire Williams",
@@ -791,7 +831,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630533.png"
     },
     {
       "name": "Santi Aldama",
@@ -811,7 +852,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630583.png"
     },
     {
       "name": "Jalen Suggs",
@@ -830,7 +872,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630591.png"
     },
     {
       "name": "Bones Hyland",
@@ -849,7 +892,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630538.png"
     },
     {
       "name": "Jalen Green",
@@ -868,7 +912,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630224.png"
     },
     {
       "name": "Jason Preston",
@@ -887,7 +932,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630554.png"
     },
     {
       "name": "Moses Moody",
@@ -906,7 +952,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630541.png"
     },
     {
       "name": "Jericho Sims",
@@ -925,7 +972,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630579.png"
     },
     {
       "name": "Day'Ron Sharpe",
@@ -944,7 +992,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630549.png"
     },
     {
       "name": "Cam Thomas",
@@ -963,7 +1012,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630560.png"
     },
     {
       "name": "Scottie Barnes",
@@ -982,7 +1032,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630567.png"
     },
     {
       "name": "James Bouknight",
@@ -1001,7 +1052,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630547.png"
     },
     {
       "name": "Cade Cunningham",
@@ -1020,7 +1072,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630595.png"
     },
     {
       "name": "Chris Duarte",
@@ -1039,7 +1092,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630537.png"
     },
     {
       "name": "Josh Christopher",
@@ -1058,7 +1112,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630528.png"
     },
     {
       "name": "Davion Mitchell",
@@ -1077,7 +1132,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630558.png"
     },
     {
       "name": "Evan Mobley",
@@ -1096,7 +1152,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630596.png"
     },
     {
       "name": "Aaron Wiggins",
@@ -1115,7 +1172,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630598.png"
     },
     {
       "name": "JT Thor",
@@ -1134,7 +1192,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630550.png"
     },
     {
       "name": "Trey Murphy III",
@@ -1153,7 +1212,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630530.png"
     },
     {
       "name": "Kessler Edwards",
@@ -1172,7 +1232,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630556.png"
     },
     {
       "name": "Franz Wagner",
@@ -1191,7 +1252,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630532.png"
     },
     {
       "name": "Herbert Jones",
@@ -1210,7 +1272,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630529.png"
     },
     {
       "name": "Joe Wieskamp",
@@ -1230,7 +1293,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630580.png"
     },
     {
       "name": "Dalano Banton",
@@ -1249,7 +1313,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630625.png"
     },
     {
       "name": "Charles Bassey",
@@ -1269,7 +1334,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629646.png"
     },
     {
       "name": "Luka Garza",
@@ -1288,7 +1354,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630568.png"
     },
     {
       "name": "Neemias Queta",
@@ -1307,7 +1374,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629674.png"
     },
     {
       "name": "Corey Kispert",
@@ -1326,7 +1394,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630557.png"
     },
     {
       "name": "Josh Giddey",
@@ -1345,7 +1414,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630581.png"
     },
     {
       "name": "Jaden Springer",
@@ -1364,7 +1434,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630531.png"
     },
     {
       "name": "Miles McBride",
@@ -1383,7 +1454,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630540.png"
     },
     {
       "name": "Brandon Boston Jr.",
@@ -1402,7 +1474,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630527.png"
     },
     {
       "name": "Sandro Mamukelashvili",
@@ -1422,7 +1495,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630572.png"
     },
     {
       "name": "Jeremiah Robinson-Earl",
@@ -1441,7 +1515,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630526.png"
     },
     {
       "name": "Quentin Grimes",
@@ -1460,7 +1535,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629656.png"
     },
     {
       "name": "Isaiah Livers",
@@ -1479,7 +1555,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630587.png"
     },
     {
       "name": "Keon Johnson",
@@ -1498,7 +1575,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630553.png"
     },
     {
       "name": "Obi Toppin",
@@ -1517,7 +1595,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630167.png"
     },
     {
       "name": "Desmond Bane",
@@ -1536,7 +1615,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630217.png"
     },
     {
       "name": "Malachi Flynn",
@@ -1555,7 +1635,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630201.png"
     },
     {
       "name": "Deni Avdija",
@@ -1574,7 +1655,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630166.png"
     },
     {
       "name": "Immanuel Quickley",
@@ -1593,7 +1675,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630193.png"
     },
     {
       "name": "Devin Vassell",
@@ -1613,7 +1696,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630170.png"
     },
     {
       "name": "Theo Maledon",
@@ -1632,7 +1716,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630177.png"
     },
     {
       "name": "Anthony Edwards",
@@ -1651,7 +1736,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630162.png"
     },
     {
       "name": "Vernon Carey Jr.",
@@ -1670,7 +1756,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630176.png"
     },
     {
       "name": "Josh Green",
@@ -1689,7 +1776,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630182.png"
     },
     {
       "name": "Vit Krejci",
@@ -1708,7 +1796,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630249.png"
     },
     {
       "name": "James Wiseman",
@@ -1727,7 +1816,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630164.png"
     },
     {
       "name": "Jordan Nwora",
@@ -1746,7 +1836,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629670.png"
     },
     {
       "name": "Aleksej Pokusevski",
@@ -1765,7 +1856,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630197.png"
     },
     {
       "name": "Killian Hayes",
@@ -1784,7 +1876,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630165.png"
     },
     {
       "name": "Precious Achiuwa",
@@ -1803,7 +1896,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630173.png"
     },
     {
       "name": "Patrick Williams",
@@ -1822,7 +1916,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630172.png"
     },
     {
       "name": "Sam Merrill",
@@ -1841,7 +1936,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630241.png"
     },
     {
       "name": "Kira Lewis Jr.",
@@ -1860,7 +1956,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630184.png"
     },
     {
       "name": "Marko Simonovic",
@@ -1879,7 +1976,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630250.png"
     },
     {
       "name": "Aaron Nesmith",
@@ -1899,7 +1997,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630174.png"
     },
     {
       "name": "LaMelo Ball",
@@ -1918,7 +2017,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630163.png"
     },
     {
       "name": "Isaiah Stewart",
@@ -1938,7 +2038,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630191.png"
     },
     {
       "name": "Payton Pritchard",
@@ -1957,7 +2058,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630202.png"
     },
     {
       "name": "Zeke Nnaji",
@@ -1977,7 +2079,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630192.png"
     },
     {
       "name": "Tyrese Haliburton",
@@ -1996,7 +2099,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630169.png"
     },
     {
       "name": "Kenyon Martin Jr.",
@@ -2015,7 +2119,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630231.png"
     },
     {
       "name": "Paul Reed",
@@ -2034,7 +2139,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630194.png"
     },
     {
       "name": "Jalen Smith",
@@ -2054,7 +2160,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630188.png"
     },
     {
       "name": "Jaden McDaniels",
@@ -2073,7 +2180,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630183.png"
     },
     {
       "name": "Cole Anthony",
@@ -2092,7 +2200,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630175.png"
     },
     {
       "name": "Saddiq Bey",
@@ -2111,7 +2220,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630180.png"
     },
     {
       "name": "Tyrese Maxey",
@@ -2130,7 +2240,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630178.png"
     },
     {
       "name": "Nick Richards",
@@ -2149,7 +2260,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630208.png"
     },
     {
       "name": "Isaac Okoro",
@@ -2169,7 +2281,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630171.png"
     },
     {
       "name": "Udoka Azubuike",
@@ -2189,7 +2302,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628962.png"
     },
     {
       "name": "Xavier Tillman",
@@ -2208,7 +2322,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630214.png"
     },
     {
       "name": "RJ Barrett",
@@ -2229,7 +2344,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629628.png"
     },
     {
       "name": "Bol Bol",
@@ -2250,7 +2366,8 @@
       ],
       "status": "Retired",
       "from_year": 2019,
-      "to_year": 2022
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_1629626.png"
     },
     {
       "name": "De'Andre Hunter",
@@ -2271,7 +2388,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629631.png"
     },
     {
       "name": "Coby White",
@@ -2291,7 +2409,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629632.png"
     },
     {
       "name": "Bruno Fernando",
@@ -2312,7 +2431,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628981.png"
     },
     {
       "name": "Cody Martin",
@@ -2332,7 +2452,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628998.png"
     },
     {
       "name": "Luka Samanic",
@@ -2352,7 +2473,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629677.png"
     },
     {
       "name": "Ty Jerome",
@@ -2373,7 +2495,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629660.png"
     },
     {
       "name": "Goga Bitadze",
@@ -2394,7 +2517,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629048.png"
     },
     {
       "name": "Cam Reddish",
@@ -2415,7 +2539,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629629.png"
     },
     {
       "name": "Jordan Poole",
@@ -2435,7 +2560,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629673.png"
     },
     {
       "name": "Brandon Clarke",
@@ -2455,7 +2581,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629634.png"
     },
     {
       "name": "Zion Williamson",
@@ -2475,7 +2602,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629627.png"
     },
     {
       "name": "Matisse Thybulle",
@@ -2496,7 +2624,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629680.png"
     },
     {
       "name": "Grant Williams",
@@ -2516,7 +2645,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629684.png"
     },
     {
       "name": "Cameron Johnson",
@@ -2536,7 +2666,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629661.png"
     },
     {
       "name": "Rui Hachimura",
@@ -2556,7 +2687,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629060.png"
     },
     {
       "name": "Romeo Langford",
@@ -2577,7 +2709,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629641.png"
     },
     {
       "name": "Darius Bazley",
@@ -2597,7 +2730,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629647.png"
     },
     {
       "name": "Daniel Gafford",
@@ -2618,7 +2752,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629655.png"
     },
     {
       "name": "Admiral Schofield",
@@ -2638,7 +2773,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629678.png"
     },
     {
       "name": "Mfiondu Kabengele",
@@ -2658,7 +2794,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629662.png"
     },
     {
       "name": "Keldon Johnson",
@@ -2679,7 +2816,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629640.png"
     },
     {
       "name": "Kevin Porter Jr.",
@@ -2700,7 +2838,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629645.png"
     },
     {
       "name": "Chuma Okeke",
@@ -2719,7 +2858,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629643.png"
     },
     {
       "name": "Dylan Windler",
@@ -2740,7 +2880,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629685.png"
     },
     {
       "name": "Isaiah Roby",
@@ -2760,7 +2901,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629676.png"
     },
     {
       "name": "P.J. Washington",
@@ -2780,7 +2922,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629023.png"
     },
     {
       "name": "Jalen McDaniels",
@@ -2801,7 +2944,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629667.png"
     },
     {
       "name": "Nic Claxton",
@@ -2821,7 +2965,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629651.png"
     },
     {
       "name": "Josh Okogie",
@@ -2841,7 +2986,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629006.png"
     },
     {
       "name": "Moritz Wagner",
@@ -2862,7 +3008,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629021.png"
     },
     {
       "name": "Mitchell Robinson",
@@ -2883,7 +3030,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629011.png"
     },
     {
       "name": "Alize Johnson",
@@ -2903,7 +3051,8 @@
       ],
       "status": "Retired",
       "from_year": 2018,
-      "to_year": 2022
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_1628993.png"
     },
     {
       "name": "Jevon Carter",
@@ -2923,7 +3072,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628975.png"
     },
     {
       "name": "Wendell Carter Jr.",
@@ -2944,7 +3094,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628976.png"
     },
     {
       "name": "Michael Porter Jr.",
@@ -2964,7 +3115,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629008.png"
     },
     {
       "name": "Donte DiVincenzo",
@@ -2984,7 +3136,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628978.png"
     },
     {
       "name": "Jaren Jackson Jr.",
@@ -3005,7 +3158,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628991.png"
     },
     {
       "name": "Miles Bridges",
@@ -3025,7 +3179,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628970.png"
     },
     {
       "name": "Shake Milton",
@@ -3046,7 +3201,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629003.png"
     },
     {
       "name": "Trae Young",
@@ -3066,7 +3222,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629027.png"
     },
     {
       "name": "Mikal Bridges",
@@ -3087,7 +3244,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628969.png"
     },
     {
       "name": "Chimezie Metu",
@@ -3108,7 +3266,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629002.png"
     },
     {
       "name": "Robert Williams III",
@@ -3129,7 +3288,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629057.png"
     },
     {
       "name": "Grayson Allen",
@@ -3149,7 +3309,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628960.png"
     },
     {
       "name": "Anfernee Simons",
@@ -3169,7 +3330,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629014.png"
     },
     {
       "name": "Collin Sexton",
@@ -3189,7 +3351,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629012.png"
     },
     {
       "name": "De'Anthony Melton",
@@ -3209,7 +3372,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629001.png"
     },
     {
       "name": "Luka Doncic",
@@ -3230,7 +3394,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/luka_doncic.png"
     },
     {
       "name": "Lonnie Walker IV",
@@ -3251,7 +3416,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629022.png"
     },
     {
       "name": "Hamidou Diallo",
@@ -3271,7 +3437,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628977.png"
     },
     {
       "name": "Svi Mykhailiuk",
@@ -3292,7 +3459,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629004.png"
     },
     {
       "name": "Deandre Ayton",
@@ -3312,7 +3480,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629028.png"
     },
     {
       "name": "Kevin Knox II",
@@ -3332,7 +3501,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628995.png"
     },
     {
       "name": "Gary Trent Jr.",
@@ -3353,7 +3523,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629018.png"
     },
     {
       "name": "Marvin Bagley III",
@@ -3373,7 +3544,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628963.png"
     },
     {
       "name": "Keita Bates-Diop",
@@ -3393,7 +3565,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628966.png"
     },
     {
       "name": "Jarred Vanderbilt",
@@ -3413,7 +3586,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629020.png"
     },
     {
       "name": "Landry Shamet",
@@ -3433,7 +3607,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629013.png"
     },
     {
       "name": "Edmond Sumner",
@@ -3453,7 +3628,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628410.png"
     },
     {
       "name": "Semi Ojeleye",
@@ -3473,7 +3649,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1628400.png"
     },
     {
       "name": "Josh Jackson",
@@ -3494,7 +3671,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1628367.png"
     },
     {
       "name": "O.G. Anunoby",
@@ -3514,7 +3692,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628384.png"
     },
     {
       "name": "Frank Ntilikina",
@@ -3534,7 +3713,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628373.png"
     },
     {
       "name": "D.J. Wilson",
@@ -3554,7 +3734,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1628391.png"
     },
     {
       "name": "Sterling Brown",
@@ -3575,7 +3756,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2022
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_1628425.png"
     },
     {
       "name": "Dennis Smith Jr.",
@@ -3595,7 +3777,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628372.png"
     },
     {
       "name": "Derrick White",
@@ -3615,7 +3798,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628401.png"
     },
     {
       "name": "Jonathan Isaac",
@@ -3635,7 +3819,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628371.png"
     },
     {
       "name": "Thomas Bryant",
@@ -3656,7 +3841,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628418.png"
     },
     {
       "name": "Frank Mason III",
@@ -3676,7 +3862,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1628412.png"
     },
     {
       "name": "Lauri Markkanen",
@@ -3697,7 +3884,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628374.png"
     },
     {
       "name": "Isaiah Hartenstein",
@@ -3718,7 +3906,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628392.png"
     },
     {
       "name": "Donovan Mitchell",
@@ -3738,7 +3927,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628378.png"
     },
     {
       "name": "Sindarius Thornwell",
@@ -3758,7 +3948,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1628414.png"
     },
     {
       "name": "Jordan Bell",
@@ -3778,7 +3969,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1628395.png"
     },
     {
       "name": "Monte Morris",
@@ -3798,7 +3990,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628420.png"
     },
     {
       "name": "John Collins",
@@ -3819,7 +4012,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628381.png"
     },
     {
       "name": "Zach Collins",
@@ -3840,7 +4034,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628380.png"
     },
     {
       "name": "De'Aaron Fox",
@@ -3860,7 +4055,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628368.png"
     },
     {
       "name": "Lonzo Ball",
@@ -3880,7 +4076,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628366.png"
     },
     {
       "name": "Markelle Fultz",
@@ -3900,7 +4097,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628365.png"
     },
     {
       "name": "Luke Kennard",
@@ -3920,7 +4118,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628379.png"
     },
     {
       "name": "Josh Hart",
@@ -3940,7 +4139,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628404.png"
     }
   ]
 }

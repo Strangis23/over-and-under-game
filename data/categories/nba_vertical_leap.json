@@ -27,7 +27,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630553.png"
     },
     {
       "name": "Kenny Gregory",
@@ -46,7 +47,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_12152.png"
     },
     {
       "name": "Hamidou Diallo",
@@ -66,7 +68,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628977.png"
     },
     {
       "name": "Jericho Sims",
@@ -85,7 +88,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630579.png"
     },
     {
       "name": "Shane Larkin",
@@ -104,7 +108,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_203499.png"
     },
     {
       "name": "Pat Connaughton",
@@ -124,7 +129,8 @@
       ],
       "status": "Active",
       "from_year": 2015,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1626192.png"
     },
     {
       "name": "Kay Felder",
@@ -143,7 +149,8 @@
       ],
       "status": "Retired",
       "from_year": 2016,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_1627770.png"
     },
     {
       "name": "Cassius Stanley",
@@ -162,7 +169,8 @@
       ],
       "status": "Retired",
       "from_year": 2020,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1630199.png"
     },
     {
       "name": "Tim Bowers",
@@ -181,7 +189,8 @@
       ],
       "status": "Retired",
       "from_year": 2004,
-      "to_year": 2004
+      "to_year": 2004,
+      "image": "res://assets/images/nba/p_12174.png"
     },
     {
       "name": "Nate Robinson",
@@ -201,7 +210,8 @@
       ],
       "status": "Retired",
       "from_year": 2005,
-      "to_year": 2015
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_101126.png"
     },
     {
       "name": "Markel Brown",
@@ -220,7 +230,8 @@
       ],
       "status": "Retired",
       "from_year": 2014,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_203900.png"
     },
     {
       "name": "Demetrius Jackson",
@@ -239,7 +250,8 @@
       ],
       "status": "Retired",
       "from_year": 2016,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_1627743.png"
     },
     {
       "name": "Tyler Bey",
@@ -258,7 +270,8 @@
       ],
       "status": "Retired",
       "from_year": 2020,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1630189.png"
     },
     {
       "name": "Matt Santangelo",
@@ -277,7 +290,8 @@
       ],
       "status": "Retired",
       "from_year": 2000,
-      "to_year": 2000
+      "to_year": 2000,
+      "image": "res://assets/images/nba/p_12024.png"
     },
     {
       "name": "Jamario Moon",
@@ -296,7 +310,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_200081.png"
     },
     {
       "name": "Justin Anderson",
@@ -316,7 +331,8 @@
       ],
       "status": "Retired",
       "from_year": 2015,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1626147.png"
     },
     {
       "name": "Keifer Sykes",
@@ -335,7 +351,8 @@
       ],
       "status": "Retired",
       "from_year": 2021,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1626208.png"
     },
     {
       "name": "Marcus Thornton",
@@ -354,7 +371,8 @@
       ],
       "status": "Retired",
       "from_year": 2015,
-      "to_year": 2015
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_1626194.png"
     },
     {
       "name": "Jalen Lecque",
@@ -374,7 +392,8 @@
       ],
       "status": "Retired",
       "from_year": 2019,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1629665.png"
     },
     {
       "name": "Julian Phillips",
@@ -393,7 +412,8 @@
       ],
       "status": "Retired",
       "from_year": 2023,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1641763.png"
     },
     {
       "name": "Speedy Claxton",
@@ -412,7 +432,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2008
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_2049.png"
     },
     {
       "name": "Alex Scales",
@@ -431,7 +452,8 @@
       ],
       "status": "Retired",
       "from_year": 2005,
-      "to_year": 2005
+      "to_year": 2005,
+      "image": "res://assets/images/nba/p_2637.png"
     },
     {
       "name": "Jordan Bone",
@@ -450,7 +472,8 @@
       ],
       "status": "Retired",
       "from_year": 2019,
-      "to_year": 2019
+      "to_year": 2019,
+      "image": "res://assets/images/nba/p_1629648.png"
     },
     {
       "name": "Jalen Harris",
@@ -469,7 +492,8 @@
       ],
       "status": "Retired",
       "from_year": 2020,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1630223.png"
     },
     {
       "name": "Yves Pons",
@@ -488,7 +512,8 @@
       ],
       "status": "Retired",
       "from_year": 2021,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1630582.png"
     },
     {
       "name": "Jordan Farmar",
@@ -508,7 +533,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_200770.png"
     },
     {
       "name": "Patrick Ewing Jr.",
@@ -527,7 +553,8 @@
       ],
       "status": "Retired",
       "from_year": 2010,
-      "to_year": 2010
+      "to_year": 2010,
+      "image": "res://assets/images/nba/p_201607.png"
     },
     {
       "name": "Josh Selby",
@@ -546,7 +573,8 @@
       ],
       "status": "Retired",
       "from_year": 2011,
-      "to_year": 2012
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_202729.png"
     },
     {
       "name": "Iman Shumpert",
@@ -566,7 +594,8 @@
       ],
       "status": "Retired",
       "from_year": 2011,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_202697.png"
     },
     {
       "name": "Ben McLemore",
@@ -586,7 +615,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_203463.png"
     },
     {
       "name": "Victor Oladipo",
@@ -605,7 +635,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_203506.png"
     },
     {
       "name": "Frank Jackson",
@@ -624,7 +655,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_1628402.png"
     },
     {
       "name": "Donte DiVincenzo",
@@ -644,7 +676,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628978.png"
     },
     {
       "name": "Josh Okogie",
@@ -664,7 +697,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629006.png"
     },
     {
       "name": "Scottie Lewis",
@@ -683,7 +717,8 @@
       ],
       "status": "Retired",
       "from_year": 2021,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1630575.png"
     },
     {
       "name": "Joe Wieskamp",
@@ -702,7 +737,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630580.png"
     },
     {
       "name": "Mojave King",
@@ -721,7 +757,8 @@
       ],
       "status": "Retired",
       "from_year": 2023,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631340.png"
     },
     {
       "name": "Cookie Belcher",
@@ -740,7 +777,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_12034.png"
     },
     {
       "name": "Ronald Dupree",
@@ -759,7 +797,8 @@
       ],
       "status": "Retired",
       "from_year": 2003,
-      "to_year": 2003
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_2648.png"
     },
     {
       "name": "Dwayne Mitchell",
@@ -778,7 +817,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2006
+      "to_year": 2006,
+      "image": "res://assets/images/nba/p_201383.png"
     },
     {
       "name": "Darius Johnson-Odom",
@@ -797,7 +837,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_203130.png"
     },
     {
       "name": "Peyton Siva",
@@ -816,7 +857,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_203491.png"
     },
     {
       "name": "Nick Johnson",
@@ -835,7 +877,8 @@
       ],
       "status": "Retired",
       "from_year": 2014,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_203910.png"
     },
     {
       "name": "Zach LaVine",
@@ -854,7 +897,8 @@
       ],
       "status": "Retired",
       "from_year": 2014,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_203897.png"
     },
     {
       "name": "Glenn Robinson III",
@@ -874,7 +918,8 @@
       ],
       "status": "Retired",
       "from_year": 2014,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_203922.png"
     },
     {
       "name": "Devin Robinson",
@@ -893,7 +938,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_1628421.png"
     },
     {
       "name": "Trevon Duval",
@@ -912,7 +958,8 @@
       ],
       "status": "Retired",
       "from_year": 2018,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_1628979.png"
     },
     {
       "name": "Anfernee Simons",
@@ -932,7 +979,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629014.png"
     },
     {
       "name": "Zhaire Smith",
@@ -951,7 +999,8 @@
       ],
       "status": "Retired",
       "from_year": 2018,
-      "to_year": 2019
+      "to_year": 2019,
+      "image": "res://assets/images/nba/p_1629015.png"
     },
     {
       "name": "Jaylen Hands",
@@ -970,7 +1019,8 @@
       ],
       "status": "Retired",
       "from_year": 2019,
-      "to_year": 2019
+      "to_year": 2019,
+      "image": "res://assets/images/nba/p_1628986.png"
     },
     {
       "name": "Ochai Agbaji",
@@ -989,7 +1039,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630534.png"
     },
     {
       "name": "Jaden Springer",
@@ -1008,7 +1059,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630531.png"
     },
     {
       "name": "Kennedy Chandler",
@@ -1027,7 +1079,8 @@
       ],
       "status": "Retired",
       "from_year": 2022,
-      "to_year": 2022
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_1631113.png"
     },
     {
       "name": "Horace Jenkins",
@@ -1046,7 +1099,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_2798.png"
     },
     {
       "name": "DeMarcus Minor",
@@ -1065,7 +1119,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_12161.png"
     },
     {
       "name": "Troy Bell",
@@ -1084,7 +1139,8 @@
       ],
       "status": "Retired",
       "from_year": 2003,
-      "to_year": 2003
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_2559.png"
     },
     {
       "name": "Doug Wrenn",
@@ -1103,7 +1159,8 @@
       ],
       "status": "Retired",
       "from_year": 2003,
-      "to_year": 2003
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_12103.png"
     },
     {
       "name": "Ronnie Brewer",
@@ -1123,7 +1180,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_200758.png"
     },
     {
       "name": "Bobby Brown",
@@ -1143,7 +1201,8 @@
       ],
       "status": "Retired",
       "from_year": 2008,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_201628.png"
     },
     {
       "name": "Al Thornton",
@@ -1163,7 +1222,8 @@
       ],
       "status": "Retired",
       "from_year": 2007,
-      "to_year": 2010
+      "to_year": 2010,
+      "image": "res://assets/images/nba/p_201154.png"
     },
     {
       "name": "O.J. Mayo",
@@ -1183,7 +1243,8 @@
       ],
       "status": "Retired",
       "from_year": 2008,
-      "to_year": 2015
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_201564.png"
     },
     {
       "name": "Bryce Taylor",
@@ -1202,7 +1263,8 @@
       ],
       "status": "Retired",
       "from_year": 2008,
-      "to_year": 2008
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_12272.png"
     },
     {
       "name": "Michael Carter-Williams",
@@ -1221,7 +1283,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_203487.png"
     },
     {
       "name": "Ryan Boatright",
@@ -1240,7 +1303,8 @@
       ],
       "status": "Retired",
       "from_year": 2015,
-      "to_year": 2015
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_1626207.png"
     },
     {
       "name": "Jaron Blossomgame",
@@ -1259,7 +1323,8 @@
       ],
       "status": "Retired",
       "from_year": 2016,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_1628417.png"
     },
     {
       "name": "Frank Mason III",
@@ -1279,7 +1344,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1628412.png"
     },
     {
       "name": "Udoka Azubuike",
@@ -1298,7 +1364,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628962.png"
     },
     {
       "name": "Lamar Stevens",
@@ -1317,7 +1384,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630205.png"
     },
     {
       "name": "AJ Lawson",
@@ -1336,7 +1404,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630639.png"
     },
     {
       "name": "Kendall Brown",
@@ -1355,7 +1424,8 @@
       ],
       "status": "Active",
       "from_year": 2022,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1631112.png"
     },
     {
       "name": "Michael Hicks",
@@ -1374,7 +1444,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_12154.png"
     },
     {
       "name": "Matt Barnes",
@@ -1394,7 +1465,8 @@
       ],
       "status": "Retired",
       "from_year": 2002,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_2440.png"
     },
     {
       "name": "Derrick Zimmerman",
@@ -1413,7 +1485,8 @@
       ],
       "status": "Retired",
       "from_year": 2005,
-      "to_year": 2005
+      "to_year": 2005,
+      "image": "res://assets/images/nba/p_2583.png"
     },
     {
       "name": "Will Bynum",
@@ -1433,7 +1506,8 @@
       ],
       "status": "Retired",
       "from_year": 2005,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_101198.png"
     },
     {
       "name": "Rudy Gay",
@@ -1454,7 +1528,8 @@
       ],
       "status": "Active",
       "from_year": 2006,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_200752.png"
     },
     {
       "name": "Brandon Roy",
@@ -1474,7 +1549,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2012
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_200750.png"
     },
     {
       "name": "Mike Conley",
@@ -1495,7 +1571,8 @@
       ],
       "status": "Active",
       "from_year": 2007,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_201144.png"
     },
     {
       "name": "Nick Young",
@@ -1515,7 +1592,8 @@
       ],
       "status": "Retired",
       "from_year": 2007,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_201156.png"
     },
     {
       "name": "Travis Leslie",
@@ -1534,7 +1612,8 @@
       ],
       "status": "Retired",
       "from_year": 2011,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_202727.png"
     },
     {
       "name": "Miles Plumlee",
@@ -1553,7 +1632,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_203101.png"
     },
     {
       "name": "Marquis Teague",
@@ -1572,7 +1652,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_203104.png"
     },
     {
       "name": "Isaiah Canaan",
@@ -1591,7 +1672,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_203477.png"
     },
     {
       "name": "CJ Leslie",
@@ -1610,7 +1692,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_203466.png"
     },
     {
       "name": "Glen Rice",
@@ -1629,7 +1712,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_779.png"
     },
     {
       "name": "Adonis Thomas",
@@ -1648,7 +1732,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_203519.png"
     },
     {
       "name": "Norman Powell",
@@ -1668,7 +1753,8 @@
       ],
       "status": "Active",
       "from_year": 2015,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1626181.png"
     },
     {
       "name": "Joel Bolomboy",
@@ -1687,7 +1773,8 @@
       ],
       "status": "Retired",
       "from_year": 2016,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_1627762.png"
     },
     {
       "name": "Rawle Alkins",
@@ -1706,7 +1793,8 @@
       ],
       "status": "Retired",
       "from_year": 2018,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_1628959.png"
     },
     {
       "name": "Donovan Mitchell",
@@ -1726,7 +1814,8 @@
       ],
       "status": "Active",
       "from_year": 2017,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628378.png"
     },
     {
       "name": "Semi Ojeleye",
@@ -1746,7 +1835,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1628400.png"
     },
     {
       "name": "Grayson Allen",
@@ -1766,7 +1856,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1628960.png"
     },
     {
       "name": "Melvin Frazier",
@@ -1785,7 +1876,8 @@
       ],
       "status": "Retired",
       "from_year": 2018,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_1628982.png"
     },
     {
       "name": "Brandon Clarke",
@@ -1805,7 +1897,8 @@
       ],
       "status": "Active",
       "from_year": 2019,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629634.png"
     },
     {
       "name": "Jared Harper",
@@ -1825,7 +1918,8 @@
       ],
       "status": "Retired",
       "from_year": 2019,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1629607.png"
     },
     {
       "name": "Tremont Waters",
@@ -1845,7 +1939,8 @@
       ],
       "status": "Retired",
       "from_year": 2019,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1629682.png"
     },
     {
       "name": "Devon Dotson",
@@ -1864,7 +1959,8 @@
       ],
       "status": "Retired",
       "from_year": 2020,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1629653.png"
     },
     {
       "name": "Olivier-Maxence Prosper",
@@ -1883,7 +1979,8 @@
       ],
       "status": "Retired",
       "from_year": 2023,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1641765.png"
     },
     {
       "name": "Cam Whitmore",
@@ -1902,7 +1999,8 @@
       ],
       "status": "Retired",
       "from_year": 2023,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1641715.png"
     },
     {
       "name": "Jason Gardner",
@@ -1921,7 +2019,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/jason_gardner.png"
     },
     {
       "name": "Sean Lampley",
@@ -1940,7 +2039,8 @@
       ],
       "status": "Retired",
       "from_year": 2002,
-      "to_year": 2003
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_2253.png"
     },
     {
       "name": "Will Blalock",
@@ -1959,7 +2059,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2006
+      "to_year": 2006,
+      "image": "res://assets/images/nba/p_200807.png"
     },
     {
       "name": "Eric Gordon",
@@ -1980,7 +2081,8 @@
       ],
       "status": "Retired",
       "from_year": 2008,
-      "to_year": 2022
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_201569.png"
     },
     {
       "name": "Derrick Rose",
@@ -1999,7 +2101,8 @@
       ],
       "status": "Retired",
       "from_year": 2008,
-      "to_year": 2008
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_201565.png"
     },
     {
       "name": "Deron Washington",
@@ -2018,7 +2121,8 @@
       ],
       "status": "Retired",
       "from_year": 2008,
-      "to_year": 2008
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_201622.png"
     },
     {
       "name": "Jonny Flynn",
@@ -2037,7 +2141,8 @@
       ],
       "status": "Retired",
       "from_year": 2009,
-      "to_year": 2009
+      "to_year": 2009,
+      "image": "res://assets/images/nba/p_201938.png"
     },
     {
       "name": "Terrico White",
@@ -2056,7 +2161,8 @@
       ],
       "status": "Retired",
       "from_year": 2010,
-      "to_year": 2010
+      "to_year": 2010,
+      "image": "res://assets/images/nba/p_202358.png"
     },
     {
       "name": "Isaiah Thomas",
@@ -2076,7 +2182,8 @@
       ],
       "status": "Retired",
       "from_year": 2011,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_202738.png"
     },
     {
       "name": "Marcus Denmon",
@@ -2095,7 +2202,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2012
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_203134.png"
     },
     {
       "name": "Tony Mitchell",
@@ -2114,7 +2222,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2012
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_203183.png"
     },
     {
       "name": "Jeff Taylor",
@@ -2133,7 +2242,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_203106.png"
     },
     {
       "name": "Ray McCallum",
@@ -2152,7 +2262,8 @@
       ],
       "status": "Retired",
       "from_year": 2013,
-      "to_year": 2015
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_203492.png"
     },
     {
       "name": "Cleanthony Early",
@@ -2171,7 +2282,8 @@
       ],
       "status": "Retired",
       "from_year": 2014,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_203921.png"
     },
     {
       "name": "J.P. Tokoto",
@@ -2190,7 +2302,8 @@
       ],
       "status": "Retired",
       "from_year": 2015,
-      "to_year": 2015
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_1626160.png"
     },
     {
       "name": "Allonzo Trier",
@@ -2209,7 +2322,8 @@
       ],
       "status": "Retired",
       "from_year": 2018,
-      "to_year": 2019
+      "to_year": 2019,
+      "image": "res://assets/images/nba/p_1629019.png"
     },
     {
       "name": "Lonnie Walker",
@@ -2229,7 +2343,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629022.png"
     },
     {
       "name": "Christian Braun",
@@ -2248,7 +2363,8 @@
       ],
       "status": "Retired",
       "from_year": 2022,
-      "to_year": 2022
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_1631128.png"
     },
     {
       "name": "SirValiant Brown",
@@ -2267,7 +2383,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_12031.png"
     },
     {
       "name": "Jason Richardson",
@@ -2287,7 +2404,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_2202.png"
     },
     {
       "name": "T.J. Ford",
@@ -2306,7 +2424,8 @@
       ],
       "status": "Retired",
       "from_year": 2003,
-      "to_year": 2003
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_2551.png"
     },
     {
       "name": "Dahntay Jones",
@@ -2326,7 +2445,8 @@
       ],
       "status": "Retired",
       "from_year": 2003,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_2563.png"
     },
     {
       "name": "Josh Smith",
@@ -2346,7 +2466,8 @@
       ],
       "status": "Retired",
       "from_year": 2004,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_2746.png"
     },
     {
       "name": "Mike Bell",
@@ -2365,7 +2486,8 @@
       ],
       "status": "Retired",
       "from_year": 2005,
-      "to_year": 2005
+      "to_year": 2005,
+      "image": "res://assets/images/nba/p_12105.png"
     },
     {
       "name": "Tyrus Thomas",
@@ -2385,7 +2507,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_200748.png"
     },
     {
       "name": "Aaron Brooks",
@@ -2405,7 +2528,8 @@
       ],
       "status": "Retired",
       "from_year": 2007,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_201166.png"
     },
     {
       "name": "Kemba Walker",
@@ -2425,7 +2549,8 @@
       ],
       "status": "Retired",
       "from_year": 2011,
-      "to_year": 2022
+      "to_year": 2022,
+      "image": "res://assets/images/nba/p_202689.png"
     },
     {
       "name": "Harrison Barnes",
@@ -2444,7 +2569,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2012
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_203084.png"
     },
     {
       "name": "Orlando Johnson",
@@ -2463,7 +2589,8 @@
       ],
       "status": "Retired",
       "from_year": 2012,
-      "to_year": 2012
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_203111.png"
     },
     {
       "name": "Damian Lillard",
@@ -2483,7 +2610,8 @@
       ],
       "status": "Active",
       "from_year": 2012,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/damian_lillard.png"
     },
     {
       "name": "Brandon Paul",
@@ -2502,7 +2630,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_203464.png"
     },
     {
       "name": "Thanasis Antetokounmpo",
@@ -2522,7 +2651,8 @@
       ],
       "status": "Active",
       "from_year": 2015,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_203648.png"
     },
     {
       "name": "Deonte Burton",
@@ -2541,7 +2671,8 @@
       ],
       "status": "Retired",
       "from_year": 2014,
-      "to_year": 2014
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_203907.png"
     },
     {
       "name": "Michael Qualls",
@@ -2560,7 +2691,8 @@
       ],
       "status": "Retired",
       "from_year": 2015,
-      "to_year": 2015
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_1626180.png"
     },
     {
       "name": "Chasson Randle",
@@ -2580,7 +2712,8 @@
       ],
       "status": "Retired",
       "from_year": 2016,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1626184.png"
     },
     {
       "name": "Jake Layman",
@@ -2599,7 +2732,8 @@
       ],
       "status": "Retired",
       "from_year": 2016,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_1627774.png"
     },
     {
       "name": "Marcus Paige",
@@ -2618,7 +2752,8 @@
       ],
       "status": "Retired",
       "from_year": 2017,
-      "to_year": 2017
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_1627779.png"
     },
     {
       "name": "Cameron Oliver",
@@ -2637,7 +2772,8 @@
       ],
       "status": "Retired",
       "from_year": 2020,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1628419.png"
     },
     {
       "name": "Landry Shamet",
@@ -2657,7 +2793,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629013.png"
     },
     {
       "name": "Gary Trent",
@@ -2677,7 +2814,8 @@
       ],
       "status": "Active",
       "from_year": 2018,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1629018.png"
     },
     {
       "name": "Josh Green",
@@ -2696,7 +2834,8 @@
       ],
       "status": "Active",
       "from_year": 2020,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630182.png"
     },
     {
       "name": "Grant Riller",
@@ -2715,7 +2854,8 @@
       ],
       "status": "Retired",
       "from_year": 2020,
-      "to_year": 2020
+      "to_year": 2020,
+      "image": "res://assets/images/nba/p_1630203.png"
     },
     {
       "name": "Scottie Barnes",
@@ -2734,7 +2874,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630567.png"
     },
     {
       "name": "Terrence Shannon Jr.",
@@ -2753,7 +2894,8 @@
       ],
       "status": "Retired",
       "from_year": 2021,
-      "to_year": 2021
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_1630545.png"
     },
     {
       "name": "Ziaire Williams",
@@ -2772,7 +2914,8 @@
       ],
       "status": "Active",
       "from_year": 2021,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1630533.png"
     },
     {
       "name": "Andre Jackson Jr.",
@@ -2791,7 +2934,8 @@
       ],
       "status": "Retired",
       "from_year": 2023,
-      "to_year": 2023
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_1641748.png"
     },
     {
       "name": "Ryan Carroll",
@@ -2810,7 +2954,8 @@
       ],
       "status": "Retired",
       "from_year": 2001,
-      "to_year": 2001
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_12032.png"
     },
     {
       "name": "George Williams",
@@ -2829,7 +2974,8 @@
       ],
       "status": "Retired",
       "from_year": 2002,
-      "to_year": 2002
+      "to_year": 2002,
+      "image": "res://assets/images/nba/p_2465.png"
     },
     {
       "name": "Gerald Green",
@@ -2849,7 +2995,8 @@
       ],
       "status": "Retired",
       "from_year": 2005,
-      "to_year": 2018
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_101123.png"
     },
     {
       "name": "Ronnie Price",
@@ -2869,7 +3016,8 @@
       ],
       "status": "Retired",
       "from_year": 2005,
-      "to_year": 2016
+      "to_year": 2016,
+      "image": "res://assets/images/nba/p_101179.png"
     },
     {
       "name": "Solomon Jones",
@@ -2889,7 +3037,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2013
+      "to_year": 2013,
+      "image": "res://assets/images/nba/p_200780.png"
     },
     {
       "name": "Chris McCray",
@@ -2908,7 +3057,8 @@
       ],
       "status": "Retired",
       "from_year": 2006,
-      "to_year": 2006
+      "to_year": 2006,
+      "image": "res://assets/images/nba/p_200840.png"
     }
   ]
 }

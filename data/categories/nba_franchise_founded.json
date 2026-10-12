@@ -18,7 +18,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Atlantic",
-      "team": "Celtics"
+      "team": "Celtics",
+      "image": "res://assets/images/nba/team_1610612738.png"
     },
     {
       "name": "Golden State Warriors",
@@ -28,7 +29,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg",
       "conference": "Western",
       "division": "Pacific",
-      "team": "Warriors"
+      "team": "Warriors",
+      "image": "res://assets/images/nba/team_1610612744.png"
     },
     {
       "name": "New York Knicks",
@@ -38,7 +40,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Atlantic",
-      "team": "Knicks"
+      "team": "Knicks",
+      "image": "res://assets/images/nba/team_1610612752.png"
     },
     {
       "name": "Los Angeles Lakers",
@@ -48,7 +51,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
       "conference": "Western",
       "division": "Pacific",
-      "team": "Lakers"
+      "team": "Lakers",
+      "image": "res://assets/images/nba/team_1610612747.png"
     },
     {
       "name": "Sacramento Kings",
@@ -58,7 +62,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
       "conference": "Western",
       "division": "Pacific",
-      "team": "Kings"
+      "team": "Kings",
+      "image": "res://assets/images/nba/team_1610612758.png"
     },
     {
       "name": "Detroit Pistons",
@@ -68,7 +73,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Central",
-      "team": "Pistons"
+      "team": "Pistons",
+      "image": "res://assets/images/nba/team_1610612765.png"
     },
     {
       "name": "Atlanta Hawks",
@@ -78,7 +84,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Southeast",
-      "team": "Hawks"
+      "team": "Hawks",
+      "image": "res://assets/images/nba/team_1610612737.png"
     },
     {
       "name": "Philadelphia 76ers",
@@ -88,7 +95,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Atlantic",
-      "team": "76ers"
+      "team": "76ers",
+      "image": "res://assets/images/nba/team_1610612755.png"
     },
     {
       "name": "Chicago Bulls",
@@ -98,7 +106,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Central",
-      "team": "Bulls"
+      "team": "Bulls",
+      "image": "res://assets/images/nba/team_1610612741.png"
     },
     {
       "name": "Houston Rockets",
@@ -108,7 +117,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
       "conference": "Western",
       "division": "Southwest",
-      "team": "Rockets"
+      "team": "Rockets",
+      "image": "res://assets/images/nba/team_1610612745.png"
     },
     {
       "name": "Oklahoma City Thunder",
@@ -118,7 +128,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
       "conference": "Western",
       "division": "Northwest",
-      "team": "Thunder"
+      "team": "Thunder",
+      "image": "res://assets/images/nba/team_1610612760.png"
     },
     {
       "name": "Milwaukee Bucks",
@@ -128,7 +139,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Central",
-      "team": "Bucks"
+      "team": "Bucks",
+      "image": "res://assets/images/nba/team_1610612749.png"
     },
     {
       "name": "Phoenix Suns",
@@ -138,7 +150,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
       "conference": "Western",
       "division": "Pacific",
-      "team": "Suns"
+      "team": "Suns",
+      "image": "res://assets/images/nba/team_1610612756.png"
     },
     {
       "name": "Cleveland Cavaliers",
@@ -148,7 +161,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Central",
-      "team": "Cavaliers"
+      "team": "Cavaliers",
+      "image": "res://assets/images/nba/team_1610612739.png"
     },
     {
       "name": "Los Angeles Clippers",
@@ -158,7 +172,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
       "conference": "Western",
       "division": "Pacific",
-      "team": "Clippers"
+      "team": "Clippers",
+      "image": "res://assets/images/nba/team_1610612746.png"
     },
     {
       "name": "Portland Trail Blazers",
@@ -168,7 +183,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
       "conference": "Western",
       "division": "Northwest",
-      "team": "Trail Blazers"
+      "team": "Trail Blazers",
+      "image": "res://assets/images/nba/team_1610612757.png"
     },
     {
       "name": "Utah Jazz",
@@ -178,7 +194,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
       "conference": "Western",
       "division": "Northwest",
-      "team": "Jazz"
+      "team": "Jazz",
+      "image": "res://assets/images/nba/team_1610612762.png"
     },
     {
       "name": "Denver Nuggets",
@@ -188,7 +205,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
       "conference": "Western",
       "division": "Northwest",
-      "team": "Nuggets"
+      "team": "Nuggets",
+      "image": "res://assets/images/nba/team_1610612743.png"
     },
     {
       "name": "Brooklyn Nets",
@@ -198,7 +216,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Atlantic",
-      "team": "Nets"
+      "team": "Nets",
+      "image": "res://assets/images/nba/team_1610612751.png"
     },
     {
       "name": "Indiana Pacers",
@@ -208,7 +227,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Central",
-      "team": "Pacers"
+      "team": "Pacers",
+      "image": "res://assets/images/nba/team_1610612754.png"
     },
     {
       "name": "Dallas Mavericks",
@@ -218,7 +238,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
       "conference": "Western",
       "division": "Southwest",
-      "team": "Mavericks"
+      "team": "Mavericks",
+      "image": "res://assets/images/nba/team_1610612742.png"
     },
     {
       "name": "Miami Heat",
@@ -228,7 +249,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Southeast",
-      "team": "Heat"
+      "team": "Heat",
+      "image": "res://assets/images/nba/team_1610612748.png"
     },
     {
       "name": "Minnesota Timberwolves",
@@ -238,7 +260,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
       "conference": "Western",
       "division": "Northwest",
-      "team": "Timberwolves"
+      "team": "Timberwolves",
+      "image": "res://assets/images/nba/team_1610612750.png"
     },
     {
       "name": "Orlando Magic",
@@ -248,7 +271,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Southeast",
-      "team": "Magic"
+      "team": "Magic",
+      "image": "res://assets/images/nba/team_1610612753.png"
     },
     {
       "name": "Toronto Raptors",
@@ -258,7 +282,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
       "conference": "Eastern",
       "division": "Atlantic",
-      "team": "Raptors"
+      "team": "Raptors",
+      "image": "res://assets/images/nba/team_1610612761.png"
     },
     {
       "name": "Memphis Grizzlies",
@@ -268,7 +293,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
       "conference": "Western",
       "division": "Southwest",
-      "team": "Grizzlies"
+      "team": "Grizzlies",
+      "image": "res://assets/images/nba/team_1610612763.png"
     },
     {
       "name": "New Orleans Pelicans",
@@ -278,7 +304,8 @@
       "image_url": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
       "conference": "Western",
       "division": "Southwest",
-      "team": "Pelicans"
+      "team": "Pelicans",
+      "image": "res://assets/images/nba/team_1610612740.png"
     }
   ]
 }

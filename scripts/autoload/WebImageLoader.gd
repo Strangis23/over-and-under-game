@@ -25,9 +25,18 @@ func prefetch_items(items: Array) -> void:
 
 func prefetch_item(item: Dictionary) -> void:
 	var item_name: String = item.get("name", "")
-	if item_name.is_empty():
+	if item_name.is_empty() or memory_cache.has(item_name):
 		return
-	if memory_cache.has(item_name) or active_downloads.has(item_name) or queue_names.has(item_name):
+
+	# Instant local pre-cache
+	var local_path = _resolve_local_image_path(item)
+	if not local_path.is_empty() and ResourceLoader.exists(local_path):
+		var local_tex = load(local_path)
+		if local_tex:
+			memory_cache[item_name] = local_tex
+			return
+
+	if active_downloads.has(item_name) or queue_names.has(item_name):
 		return
 	
 	queue_names[item_name] = true
@@ -47,18 +56,16 @@ func load_image_for_item(item: Dictionary, target_rect: TextureRect) -> void:
 		target_rect.texture = memory_cache[item_name]
 		return
 
-	# 2. Local fallback if exists while waiting for web image
-	var local_path: String = item.get("image", "")
+	# 2. Local bundled asset resolution (0ms latency, zero network)
+	var local_path = _resolve_local_image_path(item)
 	if not local_path.is_empty() and ResourceLoader.exists(local_path):
 		var local_tex = load(local_path)
 		if local_tex:
+			memory_cache[item_name] = local_tex
 			target_rect.texture = local_tex
-		else:
-			target_rect.texture = null
-	else:
-		target_rect.texture = null
+			return
 
-	# 3. Register target_rect as listener
+	# 3. Register target_rect as listener for web fallback
 	if not listeners.has(item_name):
 		listeners[item_name] = []
 	if not listeners[item_name].has(target_rect):
@@ -81,6 +88,41 @@ func load_image_for_item(item: Dictionary, target_rect: TextureRect) -> void:
 		prefetch_queue.push_front(item)
 
 	_pump_queue()
+
+func _resolve_local_image_path(item: Dictionary) -> String:
+	var explicit_path: String = item.get("image", "")
+	if not explicit_path.is_empty() and ResourceLoader.exists(explicit_path):
+		return explicit_path
+
+	var item_name: String = item.get("name", "")
+	var url: String = item.get("image_url", "")
+	var clean_name: String = item_name.to_lower().replace(" ", "_").replace(".", "").replace("-", "_").replace("'", "")
+
+	# Check named asset
+	var name_cand = "res://assets/images/nba/%s.png" % clean_name
+	if ResourceLoader.exists(name_cand):
+		return name_cand
+
+	# Check player headshot by ID (e.g., .../1717.png -> p_1717.png)
+	if url.ends_with(".png"):
+		var fname = url.get_file()
+		var pid = fname.get_basename()
+		var p_cand = "res://assets/images/nba/p_%s.png" % pid
+		if ResourceLoader.exists(p_cand):
+			return p_cand
+
+	# Check team logo by ID (e.g., .../nba/1610612738/... -> team_1610612738.png)
+	if "/nba/" in url:
+		var parts = url.split("/")
+		for i in range(parts.size()):
+			if parts[i] == "nba" and i + 1 < parts.size():
+				var tid = parts[i + 1]
+				var t_cand = "res://assets/images/nba/team_%s.png" % tid
+				if ResourceLoader.exists(t_cand):
+					return t_cand
+
+	return ""
+
 
 func _pump_queue() -> void:
 	while current_active_count < MAX_CONCURRENT and not prefetch_queue.is_empty():
