@@ -24,7 +24,7 @@ WIKI_HEADERS = {
 
 os.makedirs(ASSETS_DIR, exist_ok=True)
 
-def process_image(img_bytes, dest_path, target_size=(360, 450)):
+def process_image(img_bytes, dest_path, target_size=(280, 350)):
     try:
         im = Image.open(io.BytesIO(img_bytes))
         if im.mode != "RGBA":
@@ -50,13 +50,13 @@ def process_image(img_bytes, dest_path, target_size=(360, 450)):
             im_cropped = im_resized.crop((0, y_offset, target_size[0], y_offset + target_size[1]))
 
         # Optimize WebP output
-        im_cropped.save(dest_path, "WEBP", quality=82, method=6)
+        im_cropped.save(dest_path, "WEBP", quality=80, method=6)
         return True
     except Exception as e:
         print(f"Error processing image for {dest_path}: {e}")
         return False
 
-def generate_fallback_avatar(name, team, dest_path, target_size=(360, 450)):
+def generate_fallback_avatar(name, team, dest_path, target_size=(280, 350)):
     try:
         # Create a handsome dark basketball-styled card
         im = Image.new("RGBA", target_size, (18, 22, 32, 255))
