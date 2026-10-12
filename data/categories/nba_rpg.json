@@ -1,0 +1,1018 @@
+{
+  "id": "nba_rpg",
+  "title": "Career Rebounds Per Game (RPG)",
+  "group": "career",
+  "group_label": "Career & Stats",
+  "filter_type": "player",
+  "prompt": "Who has the HIGHER Career Rebounds Per Game?",
+  "unit": "RPG",
+  "value_format": "{value} RPG",
+  "icon": "res://assets/icons/trophy.png",
+  "theme_color": "#2EC4B6",
+  "items": [
+    {
+      "name": "Wilt Chamberlain",
+      "subtext": "Center \u2022 Warriors",
+      "value": 22.9,
+      "display_value": "22.90 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1959,
+      "to_year": 1972,
+      "image": "res://assets/images/nba/wilt_chamberlain.webp"
+    },
+    {
+      "name": "Bill Russell",
+      "subtext": "Center \u2022 Celtics",
+      "value": 22.5,
+      "display_value": "22.50 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1956,
+      "to_year": 1968,
+      "image": "res://assets/images/nba/p_78049.webp"
+    },
+    {
+      "name": "Kareem Abdul-Jabbar",
+      "subtext": "Center \u2022 Lakers",
+      "value": 11.2,
+      "display_value": "11.20 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1969,
+      "to_year": 1988,
+      "image": "res://assets/images/nba/kareem_abdul_jabbar.webp"
+    },
+    {
+      "name": "Elvin Hayes",
+      "subtext": "Forward \u2022 Bullets",
+      "value": 12.5,
+      "display_value": "12.50 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/p_76979.webp"
+    },
+    {
+      "name": "Moses Malone",
+      "subtext": "Center \u2022 Rockets",
+      "value": 12.2,
+      "display_value": "12.20 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1994,
+      "image": "res://assets/images/nba/p_77449.webp"
+    },
+    {
+      "name": "Tim Duncan",
+      "subtext": "Forward \u2022 Spurs",
+      "value": 10.8,
+      "display_value": "10.80 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1997,
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_1495.webp"
+    },
+    {
+      "name": "Karl Malone",
+      "subtext": "Forward \u2022 Jazz",
+      "value": 10.1,
+      "display_value": "10.10 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Jazz",
+      "team_full": "Utah Jazz",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1985,
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_252.webp"
+    },
+    {
+      "name": "Robert Parish",
+      "subtext": "Center \u2022 Celtics",
+      "value": 9.1,
+      "display_value": "9.10 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1976,
+      "to_year": 1996,
+      "image": "res://assets/images/nba/p_305.webp"
+    },
+    {
+      "name": "Kevin Garnett",
+      "subtext": "Forward \u2022 Timberwolves",
+      "value": 10.0,
+      "display_value": "10.00 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1995,
+      "to_year": 2015,
+      "image": "res://assets/images/nba/p_708.webp"
+    },
+    {
+      "name": "Dwight Howard",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 11.8,
+      "display_value": "11.80 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2004,
+      "to_year": 2021,
+      "image": "res://assets/images/nba/p_2730.webp"
+    },
+    {
+      "name": "Nate Thurmond",
+      "subtext": "Center \u2022 Warriors",
+      "value": 15.0,
+      "display_value": "15.00 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Warriors",
+      "team_full": "Golden State Warriors",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1963,
+      "to_year": 1976,
+      "image": "res://assets/images/nba/p_600001.webp"
+    },
+    {
+      "name": "Walt Bellamy",
+      "subtext": "Center \u2022 Hawks",
+      "value": 13.7,
+      "display_value": "13.70 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1961,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/p_76144.webp"
+    },
+    {
+      "name": "Wes Unseld",
+      "subtext": "Center \u2022 Bullets",
+      "value": 14.0,
+      "display_value": "14.00 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Bullets",
+      "team_full": "Bullets",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1968,
+      "to_year": 1980,
+      "image": "res://assets/images/nba/p_78392.webp"
+    },
+    {
+      "name": "Hakeem Olajuwon",
+      "subtext": "Center \u2022 Rockets",
+      "value": 11.1,
+      "display_value": "11.10 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1984,
+      "to_year": 2002,
+      "image": "res://assets/images/nba/hakeem_olajuwon.webp"
+    },
+    {
+      "name": "Shaquille O'Neal",
+      "subtext": "Center \u2022 Lakers",
+      "value": 10.9,
+      "display_value": "10.90 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1992,
+      "to_year": 2010,
+      "image": "res://assets/images/nba/shaquille_oneal.webp"
+    },
+    {
+      "name": "Buck Williams",
+      "subtext": "Forward \u2022 Nets",
+      "value": 10.0,
+      "display_value": "10.00 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Nets",
+      "team_full": "Brooklyn Nets",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1981,
+      "to_year": 1997,
+      "image": "res://assets/images/nba/p_433.webp"
+    },
+    {
+      "name": "Jerry Lucas",
+      "subtext": "Forward \u2022 Royals",
+      "value": 15.6,
+      "display_value": "15.60 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Royals",
+      "team_full": "Royals",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1963,
+      "to_year": 1973,
+      "image": "res://assets/images/nba/p_77418.webp"
+    },
+    {
+      "name": "Bob Pettit",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 16.2,
+      "display_value": "16.20 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1954,
+      "to_year": 1964,
+      "image": "res://assets/images/nba/p_77847.webp"
+    },
+    {
+      "name": "Charles Barkley",
+      "subtext": "Forward \u2022 76ers",
+      "value": 11.7,
+      "display_value": "11.70 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1984,
+      "to_year": 1999,
+      "image": "res://assets/images/nba/p_787.webp"
+    },
+    {
+      "name": "Dikembe Mutombo",
+      "subtext": "Center \u2022 Nuggets",
+      "value": 10.3,
+      "display_value": "10.30 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1991,
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_87.webp"
+    },
+    {
+      "name": "Paul Silas",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 9.9,
+      "display_value": "9.90 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1964,
+      "to_year": 1979,
+      "image": "res://assets/images/nba/p_78151.webp"
+    },
+    {
+      "name": "Charles Oakley",
+      "subtext": "Forward \u2022 Knicks",
+      "value": 9.5,
+      "display_value": "9.50 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1985,
+      "to_year": 2003,
+      "image": "res://assets/images/nba/p_891.webp"
+    },
+    {
+      "name": "LeBron James",
+      "subtext": "Forward \u2022 Cavaliers",
+      "value": 7.5,
+      "display_value": "7.50 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Cavaliers",
+      "team_full": "Cleveland Cavaliers",
+      "decades": [
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2003,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/lebron_james.webp"
+    },
+    {
+      "name": "Dennis Rodman",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 13.1,
+      "display_value": "13.10 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1986,
+      "to_year": 1999,
+      "image": "res://assets/images/nba/p_23.webp"
+    },
+    {
+      "name": "Kevin Willis",
+      "subtext": "Forward \u2022 Hawks",
+      "value": 8.4,
+      "display_value": "8.40 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Hawks",
+      "team_full": "Atlanta Hawks",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1984,
+      "to_year": 2006,
+      "image": "res://assets/images/nba/p_788.webp"
+    },
+    {
+      "name": "Patrick Ewing",
+      "subtext": "Center \u2022 Knicks",
+      "value": 9.8,
+      "display_value": "9.80 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1985,
+      "to_year": 2001,
+      "image": "res://assets/images/nba/p_121.webp"
+    },
+    {
+      "name": "Andre Drummond",
+      "subtext": "Forward \u2022 Bulls",
+      "value": 11.9,
+      "display_value": "11.90 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Bulls",
+      "team_full": "Chicago Bulls",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2012,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_203083.webp"
+    },
+    {
+      "name": "Dirk Nowitzki",
+      "subtext": "Forward \u2022 Mavericks",
+      "value": 7.6,
+      "display_value": "7.60 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Mavericks",
+      "team_full": "Dallas Mavericks",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1998,
+      "to_year": 2018,
+      "image": "res://assets/images/nba/p_1717.webp"
+    },
+    {
+      "name": "Elgin Baylor",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 13.5,
+      "display_value": "13.50 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1958,
+      "to_year": 1971,
+      "image": "res://assets/images/nba/p_76127.webp"
+    },
+    {
+      "name": "Pau Gasol",
+      "subtext": "Forward \u2022 Grizzlies",
+      "value": 9.2,
+      "display_value": "9.20 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2019,
+      "image": "res://assets/images/nba/pau_gasol.webp"
+    },
+    {
+      "name": "Dolph Schayes",
+      "subtext": "Forward \u2022 76ers",
+      "value": 12.1,
+      "display_value": "12.10 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1949,
+      "to_year": 1963,
+      "image": "res://assets/images/nba/p_78076.webp"
+    },
+    {
+      "name": "Bill Bridges",
+      "subtext": "Forward \u2022 Lakers",
+      "value": 11.9,
+      "display_value": "11.90 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Lakers",
+      "team_full": "Los Angeles Lakers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1971,
+      "to_year": 1975,
+      "image": "res://assets/images/nba/bill_bridges.webp"
+    },
+    {
+      "name": "DeAndre Jordan",
+      "subtext": "Forward \u2022 NBA",
+      "value": 9.7,
+      "display_value": "9.70 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_201599.webp"
+    },
+    {
+      "name": "Jack Sikma",
+      "subtext": "Center \u2022 SuperSonics",
+      "value": 9.8,
+      "display_value": "9.80 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "SuperSonics",
+      "team_full": "Seattle SuperSonics",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1977,
+      "to_year": 1991,
+      "image": "res://assets/images/nba/team_1610612760.webp"
+    },
+    {
+      "name": "Nikola Vu\u010devi\u0107",
+      "subtext": "Center \u2022 Magic",
+      "value": 10.3,
+      "display_value": "10.30 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Magic",
+      "team_full": "Orlando Magic",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Retired",
+      "from_year": 2011,
+      "to_year": 2026,
+      "image": "res://assets/images/nba/nikola_vu\u010devi\u0107.webp"
+    },
+    {
+      "name": "Rudy Gobert",
+      "subtext": "Forward \u2022 Timberwolves",
+      "value": 11.7,
+      "display_value": "11.70 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Timberwolves",
+      "team_full": "Minnesota Timberwolves",
+      "decades": [
+        "2010s",
+        "2020s"
+      ],
+      "status": "Active",
+      "from_year": 2013,
+      "to_year": 2023,
+      "image": "res://assets/images/nba/p_203497.webp"
+    },
+    {
+      "name": "David Robinson",
+      "subtext": "Center \u2022 Spurs",
+      "value": 10.6,
+      "display_value": "10.60 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Spurs",
+      "team_full": "San Antonio Spurs",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1989,
+      "to_year": 2002,
+      "image": "res://assets/images/nba/p_764.webp"
+    },
+    {
+      "name": "Ben Wallace",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 9.6,
+      "display_value": "9.60 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1996,
+      "to_year": 2011,
+      "image": "res://assets/images/nba/p_1112.webp"
+    },
+    {
+      "name": "Tyson Chandler",
+      "subtext": "Center \u2022 Knicks",
+      "value": 9.0,
+      "display_value": "9.00 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Knicks",
+      "team_full": "New York Knicks",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2019,
+      "image": "res://assets/images/nba/p_2199.webp"
+    },
+    {
+      "name": "Dave Cowens",
+      "subtext": "Center \u2022 Celtics",
+      "value": 13.6,
+      "display_value": "13.60 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Celtics",
+      "team_full": "Boston Celtics",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1982,
+      "image": "res://assets/images/nba/p_76462.webp"
+    },
+    {
+      "name": "Bill Laimbeer",
+      "subtext": "Center \u2022 Pistons",
+      "value": 9.7,
+      "display_value": "9.70 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior",
+        "1990s"
+      ],
+      "status": "Retired",
+      "from_year": 1980,
+      "to_year": 1993,
+      "image": "res://assets/images/nba/p_100263.webp"
+    },
+    {
+      "name": "Otis Thorpe",
+      "subtext": "Forward \u2022 Rockets",
+      "value": 8.3,
+      "display_value": "8.30 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Rockets",
+      "team_full": "Houston Rockets",
+      "decades": [
+        "1980s & Prior",
+        "1990s",
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 1984,
+      "to_year": 2000,
+      "image": "res://assets/images/nba/p_901.webp"
+    },
+    {
+      "name": "Zach Randolph",
+      "subtext": "Forward \u2022 Grizzlies",
+      "value": 9.2,
+      "display_value": "9.20 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Grizzlies",
+      "team_full": "Memphis Grizzlies",
+      "decades": [
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 2001,
+      "to_year": 2017,
+      "image": "res://assets/images/nba/p_2216.webp"
+    },
+    {
+      "name": "Shawn Marion",
+      "subtext": "Guard \u2022 Suns",
+      "value": 8.7,
+      "display_value": "8.70 RPG",
+      "position": "Guard",
+      "positions": [
+        "Guard",
+        "Forward"
+      ],
+      "team": "Suns",
+      "team_full": "Phoenix Suns",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1999,
+      "to_year": 2014,
+      "image": "res://assets/images/nba/p_1890.webp"
+    },
+    {
+      "name": "Johnny Kerr",
+      "subtext": "Center \u2022 76ers",
+      "value": 11.2,
+      "display_value": "11.20 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "76ers",
+      "team_full": "Philadelphia 76ers",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1954,
+      "to_year": 1966,
+      "image": "res://assets/images/nba/team_1610612755.webp"
+    },
+    {
+      "name": "Kevin Love",
+      "subtext": "Forward \u2022 NBA",
+      "value": 9.8,
+      "display_value": "9.80 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "NBA",
+      "team_full": "NBA",
+      "decades": [
+        "2000s"
+      ],
+      "status": "Retired",
+      "from_year": 2008,
+      "to_year": 2008,
+      "image": "res://assets/images/nba/p_201567.webp"
+    },
+    {
+      "name": "Bob Lanier",
+      "subtext": "Center \u2022 Pistons",
+      "value": 10.1,
+      "display_value": "10.10 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/p_600005.webp"
+    },
+    {
+      "name": "Sam Lacey",
+      "subtext": "Center \u2022 Kings",
+      "value": 9.7,
+      "display_value": "9.70 RPG",
+      "position": "Center",
+      "positions": [
+        "Center"
+      ],
+      "team": "Kings",
+      "team_full": "Kings",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1970,
+      "to_year": 1983,
+      "image": "res://assets/images/nba/sam_lacey.webp"
+    },
+    {
+      "name": "Dave DeBusschere",
+      "subtext": "Forward \u2022 Pistons",
+      "value": 11.0,
+      "display_value": "11.00 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward"
+      ],
+      "team": "Pistons",
+      "team_full": "Detroit Pistons",
+      "decades": [
+        "1980s & Prior"
+      ],
+      "status": "Retired",
+      "from_year": 1962,
+      "to_year": 1974,
+      "image": "res://assets/images/nba/dave_debusschere.webp"
+    },
+    {
+      "name": "Marcus Camby",
+      "subtext": "Forward \u2022 Nuggets",
+      "value": 9.8,
+      "display_value": "9.80 RPG",
+      "position": "Forward",
+      "positions": [
+        "Forward",
+        "Center"
+      ],
+      "team": "Nuggets",
+      "team_full": "Denver Nuggets",
+      "decades": [
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "status": "Retired",
+      "from_year": 1996,
+      "to_year": 2012,
+      "image": "res://assets/images/nba/p_948.webp"
+    }
+  ]
+}
