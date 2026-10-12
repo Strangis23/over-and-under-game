@@ -7,7 +7,7 @@
   "prompt": "Who benched MORE Reps (185 lbs) at the Combine?",
   "unit": "reps",
   "value_format": "{value} Reps",
-  "icon": "res://assets/icons/trophy.png",
+  "icon": "res://assets/icons/trophy.webp",
   "theme_color": "#32CD32",
   "items": [
     {
@@ -15,7 +15,7 @@
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 27,
       "display_value": "27 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12087.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12087.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -28,14 +28,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12087.png"
+      "image": "res://assets/images/nba/p_12087.webp"
     },
     {
       "name": "Joey Graham",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 26,
       "display_value": "26 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101121.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101121.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -48,14 +48,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_101121.png"
+      "image": "res://assets/images/nba/p_101121.webp"
     },
     {
       "name": "Kenny Adeleke",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 26,
       "display_value": "26 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12123.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12123.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -68,14 +68,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_12123.png"
+      "image": "res://assets/images/nba/p_12123.webp"
     },
     {
       "name": "J.P. Batista",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 26,
       "display_value": "26 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12124.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12124.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -88,14 +88,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_12124.png"
+      "image": "res://assets/images/nba/p_12124.webp"
     },
     {
       "name": "Josh Duncan",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 26,
       "display_value": "26 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12248.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12248.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -108,14 +108,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_12248.png"
+      "image": "res://assets/images/nba/p_12248.webp"
     },
     {
       "name": "Brandon Hunter",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 25,
       "display_value": "25 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2599.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2599.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -128,14 +128,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_2599.png"
+      "image": "res://assets/images/nba/p_2599.webp"
     },
     {
       "name": "Theron Smith",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 25,
       "display_value": "25 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2604.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2604.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -148,14 +148,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_2604.png"
+      "image": "res://assets/images/nba/p_2604.webp"
     },
     {
       "name": "Paul Miller",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 25,
       "display_value": "25 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200859.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200859.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -168,14 +168,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_200859.png"
+      "image": "res://assets/images/nba/p_200859.webp"
     },
     {
       "name": "Shelden Williams",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 25,
       "display_value": "25 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200749.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200749.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -189,14 +189,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_200749.png"
+      "image": "res://assets/images/nba/p_200749.webp"
     },
     {
       "name": "Russell Carter",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 25,
       "display_value": "25 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201469.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201469.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -209,14 +209,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_201469.png"
+      "image": "res://assets/images/nba/p_201469.webp"
     },
     {
       "name": "Justin Love",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 24,
       "display_value": "24 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2090.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2090.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -229,14 +229,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_2090.png"
+      "image": "res://assets/images/nba/p_2090.webp"
     },
     {
       "name": "J.R. Bremer",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 24,
       "display_value": "24 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2452.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2452.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -249,14 +249,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_2452.png"
+      "image": "res://assets/images/nba/p_2452.webp"
     },
     {
       "name": "Chris Burgess",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 24,
       "display_value": "24 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12290.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12290.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -269,14 +269,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_12290.png"
+      "image": "res://assets/images/nba/p_12290.webp"
     },
     {
       "name": "Sam Hoskin",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 24,
       "display_value": "24 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12083.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12083.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -289,14 +289,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12083.png"
+      "image": "res://assets/images/nba/p_12083.webp"
     },
     {
       "name": "Brandon Bowman",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 24,
       "display_value": "24 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200847.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200847.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -309,14 +309,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_200847.png"
+      "image": "res://assets/images/nba/p_200847.webp"
     },
     {
       "name": "Joe Alexander",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 24,
       "display_value": "24 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201570.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201570.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -329,14 +329,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2009,
-      "image": "res://assets/images/nba/p_201570.png"
+      "image": "res://assets/images/nba/p_201570.webp"
     },
     {
       "name": "Nate James",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 23,
       "display_value": "23 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12156.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12156.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -349,14 +349,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12156.png"
+      "image": "res://assets/images/nba/p_12156.webp"
     },
     {
       "name": "Luke Harangody",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 23,
       "display_value": "23 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202376.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202376.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -369,14 +369,14 @@
       "status": "Retired",
       "from_year": 2010,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_202376.png"
+      "image": "res://assets/images/nba/p_202376.webp"
     },
     {
       "name": "Gabe Muoneke",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2508.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2508.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -389,14 +389,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_2508.png"
+      "image": "res://assets/images/nba/p_2508.webp"
     },
     {
       "name": "Maurice Evans",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2230.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2230.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -409,14 +409,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_2230.png"
+      "image": "res://assets/images/nba/p_2230.webp"
     },
     {
       "name": "Udonis Haslem",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2617.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2617.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -431,14 +431,14 @@
       "status": "Active",
       "from_year": 2003,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_2617.png"
+      "image": "res://assets/images/nba/p_2617.webp"
     },
     {
       "name": "Chris Garnett",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12178.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12178.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -451,14 +451,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_12178.png"
+      "image": "res://assets/images/nba/p_12178.webp"
     },
     {
       "name": "Kris Humphries",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2743.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2743.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -472,14 +472,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_2743.png"
+      "image": "res://assets/images/nba/p_2743.webp"
     },
     {
       "name": "Emeka Okafor",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2731.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2731.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -492,14 +492,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_2731.png"
+      "image": "res://assets/images/nba/p_2731.webp"
     },
     {
       "name": "Takais Brown",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12241.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12241.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -512,14 +512,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_12241.png"
+      "image": "res://assets/images/nba/p_12241.webp"
     },
     {
       "name": "Blake Griffin",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201933.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201933.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -532,14 +532,14 @@
       "status": "Retired",
       "from_year": 2009,
       "to_year": 2009,
-      "image": "res://assets/images/nba/p_201933.png"
+      "image": "res://assets/images/nba/p_201933.webp"
     },
     {
       "name": "Trevor Booker",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202344.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202344.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -552,14 +552,14 @@
       "status": "Retired",
       "from_year": 2010,
       "to_year": 2010,
-      "image": "res://assets/images/nba/p_202344.png"
+      "image": "res://assets/images/nba/p_202344.webp"
     },
     {
       "name": "Derrick Caracter",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 22,
       "display_value": "22 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202382.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202382.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -572,14 +572,14 @@
       "status": "Retired",
       "from_year": 2010,
       "to_year": 2010,
-      "image": "res://assets/images/nba/p_202382.png"
+      "image": "res://assets/images/nba/p_202382.webp"
     },
     {
       "name": "Alton Ford",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2228.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2228.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -592,14 +592,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_2228.png"
+      "image": "res://assets/images/nba/p_2228.webp"
     },
     {
       "name": "Uche Nsonwu-Amadi",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12093.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12093.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -612,14 +612,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12093.png"
+      "image": "res://assets/images/nba/p_12093.webp"
     },
     {
       "name": "Ike Diogu",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101113.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101113.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -633,14 +633,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_101113.png"
+      "image": "res://assets/images/nba/p_101113.webp"
     },
     {
       "name": "Coleman Collins",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12207.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12207.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -653,14 +653,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12207.png"
+      "image": "res://assets/images/nba/p_12207.webp"
     },
     {
       "name": "Carl Landry",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201171.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201171.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -673,14 +673,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_201171.png"
+      "image": "res://assets/images/nba/p_201171.webp"
     },
     {
       "name": "DJ Strawberry",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201199.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201199.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -693,14 +693,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_201199.png"
+      "image": "res://assets/images/nba/p_201199.webp"
     },
     {
       "name": "Anthony Tolliver",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201229.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201229.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -715,14 +715,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2020,
-      "image": "res://assets/images/nba/p_201229.png"
+      "image": "res://assets/images/nba/p_201229.webp"
     },
     {
       "name": "Stanley Burrell",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201868.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201868.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -735,14 +735,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_201868.png"
+      "image": "res://assets/images/nba/p_201868.webp"
     },
     {
       "name": "Trevor Mbakwe",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 21,
       "display_value": "21 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203522.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203522.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -755,14 +755,14 @@
       "status": "Retired",
       "from_year": 2013,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_203522.png"
+      "image": "res://assets/images/nba/p_203522.webp"
     },
     {
       "name": "A.J. Granger",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12137.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12137.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -775,14 +775,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_12137.png"
+      "image": "res://assets/images/nba/p_12137.webp"
     },
     {
       "name": "Kenyon Jones",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12143.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12143.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -795,14 +795,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_12143.png"
+      "image": "res://assets/images/nba/p_12143.webp"
     },
     {
       "name": "Dan McClintock",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2082.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2082.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -815,14 +815,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_2082.png"
+      "image": "res://assets/images/nba/p_2082.webp"
     },
     {
       "name": "Chris Wilcox",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2404.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2404.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -836,14 +836,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_2404.png"
+      "image": "res://assets/images/nba/p_2404.webp"
     },
     {
       "name": "Matt Bonner",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2588.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2588.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -856,14 +856,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_2588.png"
+      "image": "res://assets/images/nba/p_2588.webp"
     },
     {
       "name": "Wesley Wilson",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12102.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12102.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -876,14 +876,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12102.png"
+      "image": "res://assets/images/nba/p_12102.webp"
     },
     {
       "name": "Charles Hayes",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101236.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101236.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -896,14 +896,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_101236.png"
+      "image": "res://assets/images/nba/p_101236.webp"
     },
     {
       "name": "Eric Hicks",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12190.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12190.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -916,14 +916,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_12190.png"
+      "image": "res://assets/images/nba/p_12190.webp"
     },
     {
       "name": "David Noel",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200786.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200786.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -936,14 +936,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_200786.png"
+      "image": "res://assets/images/nba/p_200786.webp"
     },
     {
       "name": "Rashaun Freeman",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12211.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12211.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -956,14 +956,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12211.png"
+      "image": "res://assets/images/nba/p_12211.webp"
     },
     {
       "name": "Al Horford",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201143.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -976,14 +976,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_201143.png"
+      "image": "res://assets/images/nba/p_201143.webp"
     },
     {
       "name": "Rashad Jones-Jennings",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12220.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12220.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -996,14 +996,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12220.png"
+      "image": "res://assets/images/nba/p_12220.webp"
     },
     {
       "name": "DeVon Hardin",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201614.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201614.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1016,14 +1016,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_201614.png"
+      "image": "res://assets/images/nba/p_201614.webp"
     },
     {
       "name": "Derrick Brown",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201974.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201974.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1037,14 +1037,14 @@
       "status": "Retired",
       "from_year": 2009,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_201974.png"
+      "image": "res://assets/images/nba/p_201974.webp"
     },
     {
       "name": "Gani Lawal",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202371.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202371.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1057,14 +1057,14 @@
       "status": "Retired",
       "from_year": 2010,
       "to_year": 2010,
-      "image": "res://assets/images/nba/p_202371.png"
+      "image": "res://assets/images/nba/p_202371.webp"
     },
     {
       "name": "Jae Crowder",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203109.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203109.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1078,14 +1078,14 @@
       "status": "Active",
       "from_year": 2012,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_203109.png"
+      "image": "res://assets/images/nba/p_203109.webp"
     },
     {
       "name": "Grant Williams",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 20,
       "display_value": "20 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1099,14 +1099,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629684.png"
+      "image": "res://assets/images/nba/p_1629684.webp"
     },
     {
       "name": "Schea Cotton",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12134.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12134.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1119,14 +1119,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_12134.png"
+      "image": "res://assets/images/nba/p_12134.webp"
     },
     {
       "name": "Damone Thornton",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12170.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12170.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1139,14 +1139,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12170.png"
+      "image": "res://assets/images/nba/p_12170.webp"
     },
     {
       "name": "Brent Wright",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12040.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12040.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1159,14 +1159,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12040.png"
+      "image": "res://assets/images/nba/p_12040.webp"
     },
     {
       "name": "Kris Lang",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12051.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12051.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1179,14 +1179,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_12051.png"
+      "image": "res://assets/images/nba/p_12051.webp"
     },
     {
       "name": "Kirk Snyder",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2745.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2745.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1199,14 +1199,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_2745.png"
+      "image": "res://assets/images/nba/p_2745.webp"
     },
     {
       "name": "Channing Frye",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101112.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101112.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1219,14 +1219,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_101112.png"
+      "image": "res://assets/images/nba/p_101112.webp"
     },
     {
       "name": "Ronnie Brewer",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200758.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200758.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1240,14 +1240,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_200758.png"
+      "image": "res://assets/images/nba/p_200758.webp"
     },
     {
       "name": "Pops Mensah-Bonsu",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200822.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200822.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1260,14 +1260,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_200822.png"
+      "image": "res://assets/images/nba/p_200822.webp"
     },
     {
       "name": "Joah Tucker",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12200.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12200.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1280,14 +1280,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_12200.png"
+      "image": "res://assets/images/nba/p_12200.webp"
     },
     {
       "name": "Ryvon Covile",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12208.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12208.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1300,14 +1300,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12208.png"
+      "image": "res://assets/images/nba/p_12208.webp"
     },
     {
       "name": "Justin Doellman",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12209.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12209.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1320,14 +1320,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12209.png"
+      "image": "res://assets/images/nba/p_12209.webp"
     },
     {
       "name": "Antanas Kavaliauskas",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12221.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12221.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1340,14 +1340,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12221.png"
+      "image": "res://assets/images/nba/p_12221.webp"
     },
     {
       "name": "Marko Lekic",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12222.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12222.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1360,14 +1360,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12222.png"
+      "image": "res://assets/images/nba/p_12222.webp"
     },
     {
       "name": "Michael Beasley",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201563.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201563.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1381,14 +1381,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_201563.png"
+      "image": "res://assets/images/nba/p_201563.webp"
     },
     {
       "name": "Joey Dorsey",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201595.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201595.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1402,14 +1402,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_201595.png"
+      "image": "res://assets/images/nba/p_201595.webp"
     },
     {
       "name": "DeMarcus Nelson",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201634.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201634.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1422,14 +1422,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_201634.png"
+      "image": "res://assets/images/nba/p_201634.webp"
     },
     {
       "name": "Dominique Jones",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202346.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202346.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1442,14 +1442,14 @@
       "status": "Retired",
       "from_year": 2010,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_202346.png"
+      "image": "res://assets/images/nba/p_202346.webp"
     },
     {
       "name": "Justin Harper",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202712.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202712.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1462,14 +1462,14 @@
       "status": "Retired",
       "from_year": 2011,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_202712.png"
+      "image": "res://assets/images/nba/p_202712.webp"
     },
     {
       "name": "Derrick Williams",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202682.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202682.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1482,14 +1482,14 @@
       "status": "Retired",
       "from_year": 2011,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_202682.png"
+      "image": "res://assets/images/nba/p_202682.webp"
     },
     {
       "name": "JaMychal Green",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203254.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203254.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1502,14 +1502,14 @@
       "status": "Retired",
       "from_year": 2012,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_203254.png"
+      "image": "res://assets/images/nba/p_203254.webp"
     },
     {
       "name": "Meyers Leonard",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203086.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203086.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1523,14 +1523,14 @@
       "status": "Active",
       "from_year": 2012,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_203086.png"
+      "image": "res://assets/images/nba/p_203086.webp"
     },
     {
       "name": "Olivier Hanlan",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626152.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626152.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1543,14 +1543,14 @@
       "status": "Retired",
       "from_year": 2015,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_1626152.png"
+      "image": "res://assets/images/nba/p_1626152.webp"
     },
     {
       "name": "Jarell Martin",
       "subtext": "Forward \u2022 Draft Combine 2015",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626185.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626185.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1563,14 +1563,14 @@
       "status": "Retired",
       "from_year": 2015,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_1626185.png"
+      "image": "res://assets/images/nba/p_1626185.webp"
     },
     {
       "name": "Semi Ojeleye",
       "subtext": "Forward \u2022 Draft Combine 2017",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628400.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628400.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1584,14 +1584,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_1628400.png"
+      "image": "res://assets/images/nba/p_1628400.webp"
     },
     {
       "name": "Miye Oni",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 19,
       "display_value": "19 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629671.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629671.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1605,14 +1605,14 @@
       "status": "Retired",
       "from_year": 2019,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_1629671.png"
+      "image": "res://assets/images/nba/p_1629671.webp"
     },
     {
       "name": "Caswell Cyrus",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12017.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12017.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1625,14 +1625,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_12017.png"
+      "image": "res://assets/images/nba/p_12017.webp"
     },
     {
       "name": "Nick Sheppard",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12026.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12026.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1645,14 +1645,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_12026.png"
+      "image": "res://assets/images/nba/p_12026.webp"
     },
     {
       "name": "Anthony Evans",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12039.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12039.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1665,14 +1665,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12039.png"
+      "image": "res://assets/images/nba/p_12039.webp"
     },
     {
       "name": "Darrell Johns",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12157.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12157.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1685,14 +1685,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12157.png"
+      "image": "res://assets/images/nba/p_12157.webp"
     },
     {
       "name": "Michael Wright",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12041.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12041.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1705,14 +1705,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12041.png"
+      "image": "res://assets/images/nba/p_12041.webp"
     },
     {
       "name": "Muhammed Lasege",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12052.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12052.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1725,14 +1725,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_12052.png"
+      "image": "res://assets/images/nba/p_12052.webp"
     },
     {
       "name": "Donald Little",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12089.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12089.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1745,14 +1745,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12089.png"
+      "image": "res://assets/images/nba/p_12089.webp"
     },
     {
       "name": "Brandon Bass",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101138.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101138.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1766,14 +1766,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_101138.png"
+      "image": "res://assets/images/nba/p_101138.webp"
     },
     {
       "name": "Andre Brown",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2810.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2810.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1786,14 +1786,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_2810.png"
+      "image": "res://assets/images/nba/p_2810.webp"
     },
     {
       "name": "Lawrence Roberts",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101160.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101160.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1806,14 +1806,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_101160.png"
+      "image": "res://assets/images/nba/p_101160.webp"
     },
     {
       "name": "Pape Sow",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2776.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2776.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1826,14 +1826,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_2776.png"
+      "image": "res://assets/images/nba/p_2776.webp"
     },
     {
       "name": "Marcin Gortat",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101162.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101162.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1846,14 +1846,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_101162.png"
+      "image": "res://assets/images/nba/p_101162.webp"
     },
     {
       "name": "David Simon",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12121.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12121.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1866,14 +1866,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_12121.png"
+      "image": "res://assets/images/nba/p_12121.webp"
     },
     {
       "name": "Trey Johnson",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201234.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201234.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1886,14 +1886,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_201234.png"
+      "image": "res://assets/images/nba/p_201234.webp"
     },
     {
       "name": "Reyshawn Terry",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12232.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12232.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1906,14 +1906,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12232.png"
+      "image": "res://assets/images/nba/p_12232.webp"
     },
     {
       "name": "Kyle Visser",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12234.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12234.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1926,14 +1926,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_12234.png"
+      "image": "res://assets/images/nba/p_12234.webp"
     },
     {
       "name": "Kentrell Gransberry",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201863.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201863.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1946,14 +1946,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_201863.png"
+      "image": "res://assets/images/nba/p_201863.webp"
     },
     {
       "name": "Kevin Love",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201567.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201567.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1966,14 +1966,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_201567.png"
+      "image": "res://assets/images/nba/p_201567.webp"
     },
     {
       "name": "Sean Singletary",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201606.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201606.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1986,14 +1986,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_201606.png"
+      "image": "res://assets/images/nba/p_201606.webp"
     },
     {
       "name": "DeJuan Blair",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201971.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201971.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2007,14 +2007,14 @@
       "status": "Retired",
       "from_year": 2009,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_201971.png"
+      "image": "res://assets/images/nba/p_201971.webp"
     },
     {
       "name": "Dante Cunningham",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201967.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201967.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2028,14 +2028,14 @@
       "status": "Retired",
       "from_year": 2009,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_201967.png"
+      "image": "res://assets/images/nba/p_201967.webp"
     },
     {
       "name": "Tyler Hansbrough",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201946.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201946.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2048,14 +2048,14 @@
       "status": "Retired",
       "from_year": 2009,
       "to_year": 2009,
-      "image": "res://assets/images/nba/p_201946.png"
+      "image": "res://assets/images/nba/p_201946.webp"
     },
     {
       "name": "James Johnson",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201949.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201949.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2068,14 +2068,14 @@
       "status": "Retired",
       "from_year": 2009,
       "to_year": 2009,
-      "image": "res://assets/images/nba/p_201949.png"
+      "image": "res://assets/images/nba/p_201949.webp"
     },
     {
       "name": "Armon Johnson",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202356.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202356.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2088,14 +2088,14 @@
       "status": "Retired",
       "from_year": 2010,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_202356.png"
+      "image": "res://assets/images/nba/p_202356.webp"
     },
     {
       "name": "Iman Shumpert",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202697.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202697.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2109,14 +2109,14 @@
       "status": "Retired",
       "from_year": 2011,
       "to_year": 2020,
-      "image": "res://assets/images/nba/p_202697.png"
+      "image": "res://assets/images/nba/p_202697.webp"
     },
     {
       "name": "Festus Ezeli",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203105.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203105.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2129,14 +2129,14 @@
       "status": "Retired",
       "from_year": 2012,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_203105.png"
+      "image": "res://assets/images/nba/p_203105.webp"
     },
     {
       "name": "Yante Maten",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628999.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628999.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2149,14 +2149,14 @@
       "status": "Retired",
       "from_year": 2018,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_1628999.png"
+      "image": "res://assets/images/nba/p_1628999.webp"
     },
     {
       "name": "Eric Paschall",
       "subtext": "Forward \u2022 Draft Combine 2019",
       "value": 18,
       "display_value": "18 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629672.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629672.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2170,14 +2170,14 @@
       "status": "Retired",
       "from_year": 2019,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_1629672.png"
+      "image": "res://assets/images/nba/p_1629672.webp"
     },
     {
       "name": "Lavor Postell",
       "subtext": "Forward \u2022 Draft Combine 2000",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2068.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2068.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2190,14 +2190,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_2068.png"
+      "image": "res://assets/images/nba/p_2068.webp"
     },
     {
       "name": "Kwame Brown",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2198.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2198.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2211,14 +2211,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_2198.png"
+      "image": "res://assets/images/nba/p_2198.webp"
     },
     {
       "name": "Brendan Haywood",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2217.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2217.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2231,14 +2231,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_2217.png"
+      "image": "res://assets/images/nba/p_2217.webp"
     },
     {
       "name": "Andre Hutson",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12155.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12155.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2251,14 +2251,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12155.png"
+      "image": "res://assets/images/nba/p_12155.webp"
     },
     {
       "name": "Troy Bell",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2559.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2559.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2271,14 +2271,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_2559.png"
+      "image": "res://assets/images/nba/p_2559.webp"
     },
     {
       "name": "Justin Hamilton",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12080.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12080.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2291,14 +2291,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12080.png"
+      "image": "res://assets/images/nba/p_12080.webp"
     },
     {
       "name": "Will McDonald",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12091.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12091.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2311,14 +2311,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12091.png"
+      "image": "res://assets/images/nba/p_12091.webp"
     },
     {
       "name": "Stephane Pelle",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12095.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12095.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2331,14 +2331,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12095.png"
+      "image": "res://assets/images/nba/p_12095.webp"
     },
     {
       "name": "Joe Shipp",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12097.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12097.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2351,14 +2351,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_12097.png"
+      "image": "res://assets/images/nba/p_12097.webp"
     },
     {
       "name": "Tony Allen",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2754.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2754.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2372,14 +2372,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_2754.png"
+      "image": "res://assets/images/nba/p_2754.webp"
     },
     {
       "name": "Dylan Page",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12007.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12007.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2392,14 +2392,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_12007.png"
+      "image": "res://assets/images/nba/p_12007.webp"
     },
     {
       "name": "Rickey Paulding",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12008.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12008.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2412,14 +2412,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_12008.png"
+      "image": "res://assets/images/nba/p_12008.webp"
     },
     {
       "name": "David Lucas",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12114.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12114.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2432,14 +2432,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_12114.png"
+      "image": "res://assets/images/nba/p_12114.webp"
     },
     {
       "name": "Larry O'Bannon",
       "subtext": "Forward \u2022 Draft Combine 2005",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12117.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12117.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2452,14 +2452,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_12117.png"
+      "image": "res://assets/images/nba/p_12117.webp"
     },
     {
       "name": "Nik Caner-Medley",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12126.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12126.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2472,14 +2472,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_12126.png"
+      "image": "res://assets/images/nba/p_12126.webp"
     },
     {
       "name": "Daniel Horton",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200812.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200812.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2492,14 +2492,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_200812.png"
+      "image": "res://assets/images/nba/p_200812.webp"
     },
     {
       "name": "Dwayne Mitchell",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201383.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201383.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2512,14 +2512,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_201383.png"
+      "image": "res://assets/images/nba/p_201383.webp"
     },
     {
       "name": "Curtis Stinson",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201028.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201028.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2532,14 +2532,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_201028.png"
+      "image": "res://assets/images/nba/p_201028.webp"
     },
     {
       "name": "Eric Williams",
       "subtext": "Forward \u2022 Draft Combine 2006",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12203.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12203.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2552,14 +2552,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_12203.png"
+      "image": "res://assets/images/nba/p_12203.webp"
     },
     {
       "name": "Aaron Gray",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201189.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201189.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2573,14 +2573,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_201189.png"
+      "image": "res://assets/images/nba/p_201189.webp"
     },
     {
       "name": "Jeff Green",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2595,14 +2595,14 @@
       "status": "Active",
       "from_year": 2007,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201145.png"
+      "image": "res://assets/images/nba/p_201145.webp"
     },
     {
       "name": "Stephane Lasme",
       "subtext": "Forward \u2022 Draft Combine 2007",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201186.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201186.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2615,14 +2615,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_201186.png"
+      "image": "res://assets/images/nba/p_201186.webp"
     },
     {
       "name": "David Padgett",
       "subtext": "Forward \u2022 Draft Combine 2008",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201624.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201624.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2635,14 +2635,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_201624.png"
+      "image": "res://assets/images/nba/p_201624.webp"
     },
     {
       "name": "James Harden",
       "subtext": "Forward \u2022 Draft Combine 2009",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2657,14 +2657,14 @@
       "status": "Active",
       "from_year": 2009,
       "to_year": 2023,
-      "image": "res://assets/images/nba/james_harden.png"
+      "image": "res://assets/images/nba/james_harden.webp"
     },
     {
       "name": "Patrick Patterson",
       "subtext": "Forward \u2022 Draft Combine 2010",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202335.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202335.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2678,14 +2678,14 @@
       "status": "Retired",
       "from_year": 2010,
       "to_year": 2020,
-      "image": "res://assets/images/nba/p_202335.png"
+      "image": "res://assets/images/nba/p_202335.webp"
     },
     {
       "name": "Malcolm Lee",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202723.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202723.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2698,14 +2698,14 @@
       "status": "Retired",
       "from_year": 2011,
       "to_year": 2014,
-      "image": "res://assets/images/nba/p_202723.png"
+      "image": "res://assets/images/nba/p_202723.webp"
     },
     {
       "name": "Shelvin Mack",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202714.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202714.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2718,14 +2718,14 @@
       "status": "Retired",
       "from_year": 2011,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_202714.png"
+      "image": "res://assets/images/nba/p_202714.webp"
     },
     {
       "name": "Gregory Smith",
       "subtext": "Forward \u2022 Draft Combine 2011",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12442.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12442.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2738,14 +2738,14 @@
       "status": "Retired",
       "from_year": 2011,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_12442.png"
+      "image": "res://assets/images/nba/p_12442.webp"
     },
     {
       "name": "Darius Johnson-Odom",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203130.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203130.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2758,14 +2758,14 @@
       "status": "Retired",
       "from_year": 2012,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_203130.png"
+      "image": "res://assets/images/nba/p_203130.webp"
     },
     {
       "name": "Kevin Jones",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203158.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203158.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2778,14 +2778,14 @@
       "status": "Retired",
       "from_year": 2012,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_203158.png"
+      "image": "res://assets/images/nba/p_203158.webp"
     },
     {
       "name": "Scott Machado",
       "subtext": "Forward \u2022 Draft Combine 2012",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203159.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203159.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2798,14 +2798,14 @@
       "status": "Retired",
       "from_year": 2012,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_203159.png"
+      "image": "res://assets/images/nba/p_203159.webp"
     },
     {
       "name": "Cody Zeller",
       "subtext": "Forward \u2022 Draft Combine 2013",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203469.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203469.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2819,14 +2819,14 @@
       "status": "Active",
       "from_year": 2013,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_203469.png"
+      "image": "res://assets/images/nba/p_203469.webp"
     },
     {
       "name": "Bruce Brown",
       "subtext": "Forward \u2022 Draft Combine 2018",
       "value": 17,
       "display_value": "17 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628971.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628971.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2839,14 +2839,14 @@
       "status": "Retired",
       "from_year": 2018,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_1628971.png"
+      "image": "res://assets/images/nba/p_1628971.webp"
     },
     {
       "name": "Adam Allenspach",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12033.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12033.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2859,14 +2859,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_12033.png"
+      "image": "res://assets/images/nba/p_12033.webp"
     },
     {
       "name": "Eddy Curry",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2201.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2201.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2879,14 +2879,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_2201.png"
+      "image": "res://assets/images/nba/p_2201.webp"
     },
     {
       "name": "Rodney White",
       "subtext": "Forward \u2022 Draft Combine 2001",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2206.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2206.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2899,14 +2899,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_2206.png"
+      "image": "res://assets/images/nba/p_2206.webp"
     },
     {
       "name": "Nene ",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2403.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2403.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2919,14 +2919,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_2403.png"
+      "image": "res://assets/images/nba/p_2403.webp"
     },
     {
       "name": "Teddy Dupay",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12045.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12045.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2939,14 +2939,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_12045.png"
+      "image": "res://assets/images/nba/p_12045.webp"
     },
     {
       "name": "Rolan Roberts",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12061.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12061.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2959,14 +2959,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_12061.png"
+      "image": "res://assets/images/nba/p_12061.webp"
     },
     {
       "name": "Dajuan Wagner",
       "subtext": "Forward \u2022 Draft Combine 2002",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2402.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2402.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2979,14 +2979,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_2402.png"
+      "image": "res://assets/images/nba/p_2402.webp"
     },
     {
       "name": "Travis Hansen",
       "subtext": "Forward \u2022 Draft Combine 2003",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2580.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2580.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2999,14 +2999,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_2580.png"
+      "image": "res://assets/images/nba/p_2580.webp"
     },
     {
       "name": "Brian Boddicker",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12173.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12173.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3019,14 +3019,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_12173.png"
+      "image": "res://assets/images/nba/p_12173.webp"
     },
     {
       "name": "Michel Morandais",
       "subtext": "Forward \u2022 Draft Combine 2004",
       "value": 16,
       "display_value": "16 Reps",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12004.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/12004.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3039,7 +3039,7 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_12004.png"
+      "image": "res://assets/images/nba/p_12004.webp"
     }
   ]
 }

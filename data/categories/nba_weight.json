@@ -7,7 +7,7 @@
   "prompt": "Who is HEAVIER (Weight in LBS)?",
   "unit": "lbs",
   "value_format": "{value} lbs",
-  "icon": "res://assets/icons/trophy.png",
+  "icon": "res://assets/icons/trophy.webp",
   "theme_color": "#FF4500",
   "items": [
     {
@@ -15,7 +15,7 @@
       "subtext": "Forward \u2022 Mavericks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1717.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1717.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -30,14 +30,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_1717.png"
+      "image": "res://assets/images/nba/p_1717.webp"
     },
     {
       "name": "Kevin Garnett",
       "subtext": "Forward \u2022 Timberwolves",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/708.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/708.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -52,14 +52,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_708.png"
+      "image": "res://assets/images/nba/p_708.webp"
     },
     {
       "name": "Robert Parish",
       "subtext": "Center \u2022 Celtics",
       "value": 244.0,
       "display_value": "244 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/305.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/305.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -73,14 +73,14 @@
       "status": "Retired",
       "from_year": 1976,
       "to_year": 1996,
-      "image": "res://assets/images/nba/p_305.png"
+      "image": "res://assets/images/nba/p_305.webp"
     },
     {
       "name": "Karl Malone",
       "subtext": "Forward \u2022 Jazz",
       "value": 259.0,
       "display_value": "259 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/252.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/252.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -95,14 +95,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_252.png"
+      "image": "res://assets/images/nba/p_252.webp"
     },
     {
       "name": "Paul Pierce",
       "subtext": "Forward \u2022 Celtics",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1718.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1718.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -117,14 +117,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_1718.png"
+      "image": "res://assets/images/nba/p_1718.webp"
     },
     {
       "name": "Tim Duncan",
       "subtext": "Forward \u2022 Spurs",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1495.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1495.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -140,14 +140,14 @@
       "status": "Retired",
       "from_year": 1997,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_1495.png"
+      "image": "res://assets/images/nba/p_1495.webp"
     },
     {
       "name": "Kareem Abdul-Jabbar",
       "subtext": "Center \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76003.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76003.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -160,14 +160,14 @@
       "status": "Retired",
       "from_year": 1969,
       "to_year": 1988,
-      "image": "res://assets/images/nba/kareem_abdul_jabbar.png"
+      "image": "res://assets/images/nba/kareem_abdul_jabbar.webp"
     },
     {
       "name": "Kobe Bryant",
       "subtext": "Guard \u2022 Lakers",
       "value": 212.0,
       "display_value": "212 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/977.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/977.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -183,14 +183,14 @@
       "status": "Retired",
       "from_year": 1996,
       "to_year": 2015,
-      "image": "res://assets/images/nba/kobe_bryant.png"
+      "image": "res://assets/images/nba/kobe_bryant.webp"
     },
     {
       "name": "Moses Malone",
       "subtext": "Center \u2022 Rockets",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77449.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77449.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -204,14 +204,14 @@
       "status": "Retired",
       "from_year": 1976,
       "to_year": 1994,
-      "image": "res://assets/images/nba/p_77449.png"
+      "image": "res://assets/images/nba/p_77449.webp"
     },
     {
       "name": "Reggie Miller",
       "subtext": "Guard \u2022 Pacers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/397.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/397.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -226,14 +226,14 @@
       "status": "Retired",
       "from_year": 1987,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_397.png"
+      "image": "res://assets/images/nba/p_397.webp"
     },
     {
       "name": "Shaquille O'Neal",
       "subtext": "Center \u2022 Lakers",
       "value": 325.0,
       "display_value": "325 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/406.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/406.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -248,14 +248,14 @@
       "status": "Retired",
       "from_year": 1992,
       "to_year": 2010,
-      "image": "res://assets/images/nba/shaquille_oneal.png"
+      "image": "res://assets/images/nba/shaquille_oneal.webp"
     },
     {
       "name": "Steve Nash",
       "subtext": "Guard \u2022 Suns",
       "value": 178.0,
       "display_value": "178 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/959.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/959.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -270,14 +270,14 @@
       "status": "Retired",
       "from_year": 1996,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_959.png"
+      "image": "res://assets/images/nba/p_959.webp"
     },
     {
       "name": "John Stockton",
       "subtext": "Guard \u2022 Jazz",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/304.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/304.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -292,14 +292,14 @@
       "status": "Retired",
       "from_year": 1984,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_304.png"
+      "image": "res://assets/images/nba/p_304.webp"
     },
     {
       "name": "Chris Paul",
       "subtext": "Guard \u2022 Wizards",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -314,14 +314,14 @@
       "status": "Active",
       "from_year": 2005,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_101108.png"
+      "image": "res://assets/images/nba/p_101108.webp"
     },
     {
       "name": "Gary Payton",
       "subtext": "Guard \u2022 SuperSonics",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/56.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/56.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -335,14 +335,14 @@
       "status": "Retired",
       "from_year": 1990,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_56.png"
+      "image": "res://assets/images/nba/p_56.webp"
     },
     {
       "name": "Scottie Pippen",
       "subtext": "Guard \u2022 Bulls",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/937.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/937.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -358,14 +358,14 @@
       "status": "Retired",
       "from_year": 1987,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_937.png"
+      "image": "res://assets/images/nba/p_937.webp"
     },
     {
       "name": "Dwyane Wade",
       "subtext": "Guard \u2022 Heat",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2548.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2548.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -379,14 +379,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_2548.png"
+      "image": "res://assets/images/nba/p_2548.webp"
     },
     {
       "name": "Patrick Ewing",
       "subtext": "Center \u2022 Knicks",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/121.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/121.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -401,14 +401,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_121.png"
+      "image": "res://assets/images/nba/p_121.webp"
     },
     {
       "name": "Elvin Hayes",
       "subtext": "Forward \u2022 Bullets",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76979.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76979.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -421,14 +421,14 @@
       "status": "Retired",
       "from_year": 1968,
       "to_year": 1983,
-      "image": "res://assets/images/nba/p_76979.png"
+      "image": "res://assets/images/nba/p_76979.webp"
     },
     {
       "name": "John Havlicek",
       "subtext": "Forward \u2022 Celtics",
       "value": 203.0,
       "display_value": "203 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76970.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76970.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -441,14 +441,14 @@
       "status": "Retired",
       "from_year": 1962,
       "to_year": 1977,
-      "image": "res://assets/images/nba/p_76970.png"
+      "image": "res://assets/images/nba/p_76970.webp"
     },
     {
       "name": "Charles Barkley",
       "subtext": "Forward \u2022 76ers",
       "value": 252.0,
       "display_value": "252 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/787.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/787.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -462,14 +462,14 @@
       "status": "Retired",
       "from_year": 1984,
       "to_year": 1999,
-      "image": "res://assets/images/nba/p_787.png"
+      "image": "res://assets/images/nba/p_787.webp"
     },
     {
       "name": "Hal Greer",
       "subtext": "Guard \u2022 76ers",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76882.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76882.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -482,14 +482,14 @@
       "status": "Retired",
       "from_year": 1958,
       "to_year": 1972,
-      "image": "res://assets/images/nba/p_76882.png"
+      "image": "res://assets/images/nba/p_76882.webp"
     },
     {
       "name": "Russell Westbrook",
       "subtext": "Guard \u2022 Clippers",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -504,14 +504,14 @@
       "status": "Active",
       "from_year": 2008,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201566.png"
+      "image": "res://assets/images/nba/p_201566.webp"
     },
     {
       "name": "Lenny Wilkens",
       "subtext": "Guard \u2022 Hawks",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78530.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78530.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -524,14 +524,14 @@
       "status": "Retired",
       "from_year": 1960,
       "to_year": 1974,
-      "image": "res://assets/images/nba/p_78530.png"
+      "image": "res://assets/images/nba/p_78530.webp"
     },
     {
       "name": "Dolph Schayes",
       "subtext": "Forward \u2022 76ers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78076.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78076.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -544,14 +544,14 @@
       "status": "Retired",
       "from_year": 1949,
       "to_year": 1963,
-      "image": "res://assets/images/nba/p_78076.png"
+      "image": "res://assets/images/nba/p_78076.webp"
     },
     {
       "name": "Kevin Durant",
       "subtext": "Forward \u2022 Suns",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -566,14 +566,14 @@
       "status": "Active",
       "from_year": 2007,
       "to_year": 2023,
-      "image": "res://assets/images/nba/kevin_durant.png"
+      "image": "res://assets/images/nba/kevin_durant.webp"
     },
     {
       "name": "Dominique Wilkins",
       "subtext": "Forward \u2022 Hawks",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1122.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -587,14 +587,14 @@
       "status": "Retired",
       "from_year": 1982,
       "to_year": 1998,
-      "image": "res://assets/images/nba/p_1122.png"
+      "image": "res://assets/images/nba/p_1122.webp"
     },
     {
       "name": "Michael Jordan",
       "subtext": "Guard \u2022 Bulls",
       "value": 216.0,
       "display_value": "216 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/893.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/893.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -609,14 +609,14 @@
       "status": "Retired",
       "from_year": 1984,
       "to_year": 2002,
-      "image": "res://assets/images/nba/michael_jordan.png"
+      "image": "res://assets/images/nba/michael_jordan.webp"
     },
     {
       "name": "Elgin Baylor",
       "subtext": "Forward \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76127.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76127.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -629,14 +629,14 @@
       "status": "Retired",
       "from_year": 1958,
       "to_year": 1971,
-      "image": "res://assets/images/nba/p_76127.png"
+      "image": "res://assets/images/nba/p_76127.webp"
     },
     {
       "name": "Jerry West",
       "subtext": "Guard \u2022 Lakers",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78497.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78497.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -649,14 +649,14 @@
       "status": "Retired",
       "from_year": 1960,
       "to_year": 1973,
-      "image": "res://assets/images/nba/p_78497.png"
+      "image": "res://assets/images/nba/p_78497.webp"
     },
     {
       "name": "Bob McAdoo",
       "subtext": "Center \u2022 Braves",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77498.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77498.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -669,14 +669,14 @@
       "status": "Retired",
       "from_year": 1972,
       "to_year": 1985,
-      "image": "res://assets/images/nba/p_77498.png"
+      "image": "res://assets/images/nba/p_77498.webp"
     },
     {
       "name": "Oscar Robertson",
       "subtext": "Guard \u2022 Royals",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600015.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600015.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -689,14 +689,14 @@
       "status": "Retired",
       "from_year": 1960,
       "to_year": 1973,
-      "image": "res://assets/images/nba/p_600015.png"
+      "image": "res://assets/images/nba/p_600015.webp"
     },
     {
       "name": "Stephen Curry",
       "subtext": "Guard \u2022 Warriors",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -711,14 +711,14 @@
       "status": "Active",
       "from_year": 2009,
       "to_year": 2023,
-      "image": "res://assets/images/nba/stephen_curry.png"
+      "image": "res://assets/images/nba/stephen_curry.webp"
     },
     {
       "name": "David Robinson",
       "subtext": "Center \u2022 Spurs",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/764.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/764.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -733,14 +733,14 @@
       "status": "Retired",
       "from_year": 1989,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_764.png"
+      "image": "res://assets/images/nba/p_764.webp"
     },
     {
       "name": "Nate Thurmond",
       "subtext": "Center \u2022 Warriors",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600001.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600001.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -753,14 +753,14 @@
       "status": "Retired",
       "from_year": 1963,
       "to_year": 1976,
-      "image": "res://assets/images/nba/p_600001.png"
+      "image": "res://assets/images/nba/p_600001.webp"
     },
     {
       "name": "Wilt Chamberlain",
       "subtext": "Center \u2022 Warriors",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76375.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76375.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -773,14 +773,14 @@
       "status": "Retired",
       "from_year": 1959,
       "to_year": 1972,
-      "image": "res://assets/images/nba/wilt_chamberlain.png"
+      "image": "res://assets/images/nba/wilt_chamberlain.webp"
     },
     {
       "name": "James Harden",
       "subtext": "Guard \u2022 76ers",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -795,14 +795,14 @@
       "status": "Active",
       "from_year": 2009,
       "to_year": 2023,
-      "image": "res://assets/images/nba/james_harden.png"
+      "image": "res://assets/images/nba/james_harden.webp"
     },
     {
       "name": "Dennis Rodman",
       "subtext": "Forward \u2022 Pistons",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/23.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/23.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -816,14 +816,14 @@
       "status": "Retired",
       "from_year": 1986,
       "to_year": 1999,
-      "image": "res://assets/images/nba/p_23.png"
+      "image": "res://assets/images/nba/p_23.webp"
     },
     {
       "name": "Kevin McHale",
       "subtext": "Forward \u2022 Celtics",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1450.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1450.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -837,14 +837,14 @@
       "status": "Retired",
       "from_year": 1980,
       "to_year": 1992,
-      "image": "res://assets/images/nba/p_1450.png"
+      "image": "res://assets/images/nba/p_1450.webp"
     },
     {
       "name": "Earl Monroe",
       "subtext": "Guard \u2022 Knicks",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600006.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600006.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -857,14 +857,14 @@
       "status": "Retired",
       "from_year": 1967,
       "to_year": 1979,
-      "image": "res://assets/images/nba/p_600006.png"
+      "image": "res://assets/images/nba/p_600006.webp"
     },
     {
       "name": "Bill Russell",
       "subtext": "Center \u2022 Celtics",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78049.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78049.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -877,14 +877,14 @@
       "status": "Retired",
       "from_year": 1956,
       "to_year": 1968,
-      "image": "res://assets/images/nba/p_78049.png"
+      "image": "res://assets/images/nba/p_78049.webp"
     },
     {
       "name": "Walt Frazier",
       "subtext": "Guard \u2022 Knicks",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76750.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76750.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -897,14 +897,14 @@
       "status": "Retired",
       "from_year": 1967,
       "to_year": 1979,
-      "image": "res://assets/images/nba/p_76750.png"
+      "image": "res://assets/images/nba/p_76750.webp"
     },
     {
       "name": "Isiah Thomas",
       "subtext": "Guard \u2022 Pistons",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78318.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78318.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -918,14 +918,14 @@
       "status": "Retired",
       "from_year": 1981,
       "to_year": 1993,
-      "image": "res://assets/images/nba/p_78318.png"
+      "image": "res://assets/images/nba/p_78318.webp"
     },
     {
       "name": "Wes Unseld",
       "subtext": "Center \u2022 Bullets",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78392.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78392.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -938,14 +938,14 @@
       "status": "Retired",
       "from_year": 1968,
       "to_year": 1980,
-      "image": "res://assets/images/nba/p_78392.png"
+      "image": "res://assets/images/nba/p_78392.webp"
     },
     {
       "name": "Sam Jones",
       "subtext": "Guard \u2022 Celtics",
       "value": 198.0,
       "display_value": "198 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77196.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77196.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -958,14 +958,14 @@
       "status": "Retired",
       "from_year": 1957,
       "to_year": 1968,
-      "image": "res://assets/images/nba/p_77196.png"
+      "image": "res://assets/images/nba/p_77196.webp"
     },
     {
       "name": "James Worthy",
       "subtext": "Forward \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1460.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1460.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -979,14 +979,14 @@
       "status": "Retired",
       "from_year": 1982,
       "to_year": 1993,
-      "image": "res://assets/images/nba/p_1460.png"
+      "image": "res://assets/images/nba/p_1460.webp"
     },
     {
       "name": "Dave Bing",
       "subtext": "Guard \u2022 Pistons",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76166.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76166.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -999,14 +999,14 @@
       "status": "Retired",
       "from_year": 1966,
       "to_year": 1977,
-      "image": "res://assets/images/nba/p_76166.png"
+      "image": "res://assets/images/nba/p_76166.webp"
     },
     {
       "name": "Damian Lillard",
       "subtext": "Guard \u2022 Trail Blazers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1020,14 +1020,14 @@
       "status": "Active",
       "from_year": 2012,
       "to_year": 2023,
-      "image": "res://assets/images/nba/damian_lillard.png"
+      "image": "res://assets/images/nba/damian_lillard.webp"
     },
     {
       "name": "Dave Cowens",
       "subtext": "Center \u2022 Celtics",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76462.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76462.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1040,14 +1040,14 @@
       "status": "Retired",
       "from_year": 1970,
       "to_year": 1982,
-      "image": "res://assets/images/nba/p_76462.png"
+      "image": "res://assets/images/nba/p_76462.webp"
     },
     {
       "name": "Bob Pettit",
       "subtext": "Forward \u2022 Hawks",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77847.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77847.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1060,14 +1060,14 @@
       "status": "Retired",
       "from_year": 1954,
       "to_year": 1964,
-      "image": "res://assets/images/nba/p_77847.png"
+      "image": "res://assets/images/nba/p_77847.webp"
     },
     {
       "name": "Jerry Lucas",
       "subtext": "Forward \u2022 Royals",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77418.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77418.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1080,14 +1080,14 @@
       "status": "Retired",
       "from_year": 1963,
       "to_year": 1973,
-      "image": "res://assets/images/nba/p_77418.png"
+      "image": "res://assets/images/nba/p_77418.webp"
     },
     {
       "name": "Bill Sharman",
       "subtext": "Guard \u2022 Celtics",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78126.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78126.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1100,14 +1100,14 @@
       "status": "Retired",
       "from_year": 1950,
       "to_year": 1960,
-      "image": "res://assets/images/nba/p_78126.png"
+      "image": "res://assets/images/nba/p_78126.webp"
     },
     {
       "name": "Anthony Davis",
       "subtext": "Forward \u2022 Lakers",
       "value": 253.0,
       "display_value": "253 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1122,14 +1122,14 @@
       "status": "Active",
       "from_year": 2012,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_203076.png"
+      "image": "res://assets/images/nba/p_203076.webp"
     },
     {
       "name": "Giannis Antetokounmpo",
       "subtext": "Forward \u2022 Bucks",
       "value": 243.0,
       "display_value": "243 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1143,14 +1143,14 @@
       "status": "Active",
       "from_year": 2013,
       "to_year": 2023,
-      "image": "res://assets/images/nba/giannis_antetokounmpo.png"
+      "image": "res://assets/images/nba/giannis_antetokounmpo.webp"
     },
     {
       "name": "Pete Maravich",
       "subtext": "Guard \u2022 Jazz",
       "value": 197.0,
       "display_value": "197 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77459.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77459.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1163,14 +1163,14 @@
       "status": "Retired",
       "from_year": 1970,
       "to_year": 1979,
-      "image": "res://assets/images/nba/p_77459.png"
+      "image": "res://assets/images/nba/p_77459.webp"
     },
     {
       "name": "Bill Walton",
       "subtext": "Center \u2022 Trail Blazers",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78450.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78450.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1183,14 +1183,14 @@
       "status": "Retired",
       "from_year": 1974,
       "to_year": 1986,
-      "image": "res://assets/images/nba/p_78450.png"
+      "image": "res://assets/images/nba/p_78450.webp"
     },
     {
       "name": "Paul Arizin",
       "subtext": "Forward \u2022 Warriors",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76056.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76056.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1203,14 +1203,14 @@
       "status": "Retired",
       "from_year": 1950,
       "to_year": 1961,
-      "image": "res://assets/images/nba/p_76056.png"
+      "image": "res://assets/images/nba/p_76056.webp"
     },
     {
       "name": "Rick Barry",
       "subtext": "Forward \u2022 Warriors",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600013.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600013.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1223,14 +1223,14 @@
       "status": "Retired",
       "from_year": 1965,
       "to_year": 1979,
-      "image": "res://assets/images/nba/p_600013.png"
+      "image": "res://assets/images/nba/p_600013.webp"
     },
     {
       "name": "George Mikan",
       "subtext": "Center \u2022 Lakers",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600012.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600012.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1243,14 +1243,14 @@
       "status": "Retired",
       "from_year": 1948,
       "to_year": 1955,
-      "image": "res://assets/images/nba/p_600012.png"
+      "image": "res://assets/images/nba/p_600012.webp"
     },
     {
       "name": "Vince Carter",
       "subtext": "Guard \u2022 Raptors",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1713.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1713.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1266,14 +1266,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2019,
-      "image": "res://assets/images/nba/p_1713.png"
+      "image": "res://assets/images/nba/p_1713.webp"
     },
     {
       "name": "Kevin Willis",
       "subtext": "Forward \u2022 Hawks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/788.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/788.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1289,14 +1289,14 @@
       "status": "Retired",
       "from_year": 1984,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_788.png"
+      "image": "res://assets/images/nba/p_788.webp"
     },
     {
       "name": "Tyson Chandler",
       "subtext": "Center \u2022 Knicks",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2199.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2199.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1310,14 +1310,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2019,
-      "image": "res://assets/images/nba/p_2199.png"
+      "image": "res://assets/images/nba/p_2199.webp"
     },
     {
       "name": "Udonis Haslem",
       "subtext": "Forward \u2022 Heat",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2617.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2617.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1332,14 +1332,14 @@
       "status": "Active",
       "from_year": 2003,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_2617.png"
+      "image": "res://assets/images/nba/p_2617.webp"
     },
     {
       "name": "Nazr Mohammed",
       "subtext": "Center \u2022 Bobcats",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1737.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1737.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1354,14 +1354,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_1737.png"
+      "image": "res://assets/images/nba/p_1737.webp"
     },
     {
       "name": "James Edwards",
       "subtext": "Center \u2022 Pacers",
       "value": 252.0,
       "display_value": "252 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/229.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/229.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1375,14 +1375,14 @@
       "status": "Retired",
       "from_year": 1977,
       "to_year": 1995,
-      "image": "res://assets/images/nba/p_229.png"
+      "image": "res://assets/images/nba/p_229.webp"
     },
     {
       "name": "Jerry Stackhouse",
       "subtext": "Forward \u2022 Pistons",
       "value": 218.0,
       "display_value": "218 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/711.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/711.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1397,14 +1397,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_711.png"
+      "image": "res://assets/images/nba/p_711.webp"
     },
     {
       "name": "Jason Terry",
       "subtext": "Guard \u2022 Mavericks",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1891.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1891.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1419,14 +1419,14 @@
       "status": "Retired",
       "from_year": 1999,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_1891.png"
+      "image": "res://assets/images/nba/p_1891.webp"
     },
     {
       "name": "Charles Oakley",
       "subtext": "Forward \u2022 Knicks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/891.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/891.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1441,14 +1441,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_891.png"
+      "image": "res://assets/images/nba/p_891.webp"
     },
     {
       "name": "Dwight Howard",
       "subtext": "Forward \u2022 Lakers",
       "value": 265.0,
       "display_value": "265 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2730.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2730.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1464,14 +1464,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_2730.png"
+      "image": "res://assets/images/nba/p_2730.webp"
     },
     {
       "name": "Tony Parker",
       "subtext": "Guard \u2022 Spurs",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2225.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2225.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1485,14 +1485,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_2225.png"
+      "image": "res://assets/images/nba/p_2225.webp"
     },
     {
       "name": "Andre Iguodala",
       "subtext": "Guard \u2022 Warriors",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2738.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2738.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1508,14 +1508,14 @@
       "status": "Active",
       "from_year": 2004,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_2738.png"
+      "image": "res://assets/images/nba/p_2738.webp"
     },
     {
       "name": "Dikembe Mutombo",
       "subtext": "Center \u2022 Nuggets",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/87.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/87.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1529,14 +1529,14 @@
       "status": "Retired",
       "from_year": 1991,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_87.png"
+      "image": "res://assets/images/nba/p_87.webp"
     },
     {
       "name": "Marcus Camby",
       "subtext": "Forward \u2022 Nuggets",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/948.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/948.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1552,14 +1552,14 @@
       "status": "Retired",
       "from_year": 1996,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_948.png"
+      "image": "res://assets/images/nba/p_948.webp"
     },
     {
       "name": "Jermaine O'Neal",
       "subtext": "Forward \u2022 Pacers",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/979.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/979.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1575,14 +1575,14 @@
       "status": "Retired",
       "from_year": 1996,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_979.png"
+      "image": "res://assets/images/nba/p_979.webp"
     },
     {
       "name": "Andre Miller",
       "subtext": "Guard \u2022 Nuggets",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1889.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1889.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1597,14 +1597,14 @@
       "status": "Retired",
       "from_year": 1999,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_1889.png"
+      "image": "res://assets/images/nba/p_1889.webp"
     },
     {
       "name": "Grant Hill",
       "subtext": "Forward \u2022 Pistons",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/255.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/255.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1619,14 +1619,14 @@
       "status": "Retired",
       "from_year": 1994,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_255.png"
+      "image": "res://assets/images/nba/p_255.webp"
     },
     {
       "name": "Zach Randolph",
       "subtext": "Forward \u2022 Grizzlies",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2216.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2216.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1640,14 +1640,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_2216.png"
+      "image": "res://assets/images/nba/p_2216.webp"
     },
     {
       "name": "Lou Williams",
       "subtext": "Guard \u2022 Hawks",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101150.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101150.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1662,14 +1662,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_101150.png"
+      "image": "res://assets/images/nba/p_101150.webp"
     },
     {
       "name": "Dan Schayes",
       "subtext": "Center \u2022 Nuggets",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/7.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/7.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1683,14 +1683,14 @@
       "status": "Retired",
       "from_year": 1981,
       "to_year": 1998,
-      "image": "res://assets/images/nba/p_7.png"
+      "image": "res://assets/images/nba/p_7.webp"
     },
     {
       "name": "Richard Jefferson",
       "subtext": "Forward \u2022 Nets",
       "value": 233.0,
       "display_value": "233 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2210.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2210.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1704,14 +1704,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_2210.png"
+      "image": "res://assets/images/nba/p_2210.webp"
     },
     {
       "name": "Horace Grant",
       "subtext": "Center \u2022 Bulls",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/270.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/270.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1726,14 +1726,14 @@
       "status": "Retired",
       "from_year": 1987,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_270.png"
+      "image": "res://assets/images/nba/p_270.webp"
     },
     {
       "name": "Herb Williams",
       "subtext": "Center \u2022 Pacers",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1006.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1006.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1747,14 +1747,14 @@
       "status": "Retired",
       "from_year": 1981,
       "to_year": 1998,
-      "image": "res://assets/images/nba/p_1006.png"
+      "image": "res://assets/images/nba/p_1006.webp"
     },
     {
       "name": "Clifford Robinson",
       "subtext": "Forward \u2022 Trail Blazers",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/361.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/361.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1770,14 +1770,14 @@
       "status": "Retired",
       "from_year": 1989,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_361.png"
+      "image": "res://assets/images/nba/p_361.webp"
     },
     {
       "name": "Kyle Korver",
       "subtext": "Guard \u2022 76ers",
       "value": 212.0,
       "display_value": "212 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2594.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2594.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1792,14 +1792,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2019,
-      "image": "res://assets/images/nba/p_2594.png"
+      "image": "res://assets/images/nba/p_2594.webp"
     },
     {
       "name": "Kurt Thomas",
       "subtext": "Forward \u2022 NBA",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/703.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/703.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1814,14 +1814,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_703.png"
+      "image": "res://assets/images/nba/p_703.webp"
     },
     {
       "name": "Rick Mahorn",
       "subtext": "Forward \u2022 Bullets",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/328.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/328.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1835,14 +1835,14 @@
       "status": "Retired",
       "from_year": 1980,
       "to_year": 1998,
-      "image": "res://assets/images/nba/p_328.png"
+      "image": "res://assets/images/nba/p_328.webp"
     },
     {
       "name": "Joe Johnson",
       "subtext": "Guard \u2022 NBA",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2207.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2207.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1858,14 +1858,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_2207.png"
+      "image": "res://assets/images/nba/p_2207.webp"
     },
     {
       "name": "Elton Brand",
       "subtext": "Forward \u2022 Clippers",
       "value": 254.0,
       "display_value": "254 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1882.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1882.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1880,14 +1880,14 @@
       "status": "Retired",
       "from_year": 1999,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_1882.png"
+      "image": "res://assets/images/nba/p_1882.webp"
     },
     {
       "name": "Mike Miller",
       "subtext": "Guard \u2022 Grizzlies",
       "value": 218.0,
       "display_value": "218 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2034.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2034.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1902,14 +1902,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_2034.png"
+      "image": "res://assets/images/nba/p_2034.webp"
     },
     {
       "name": "Tree Rollins",
       "subtext": "Center \u2022 Hawks",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78014.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78014.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1923,14 +1923,14 @@
       "status": "Retired",
       "from_year": 1977,
       "to_year": 1994,
-      "image": "res://assets/images/nba/p_78014.png"
+      "image": "res://assets/images/nba/p_78014.webp"
     },
     {
       "name": "Derek Fisher",
       "subtext": "Guard \u2022 Lakers",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/965.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/965.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1945,14 +1945,14 @@
       "status": "Retired",
       "from_year": 1996,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_965.png"
+      "image": "res://assets/images/nba/p_965.webp"
     },
     {
       "name": "Kyle Lowry",
       "subtext": "Guard \u2022 Heat",
       "value": 196.0,
       "display_value": "196 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1967,14 +1967,14 @@
       "status": "Active",
       "from_year": 2006,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_200768.png"
+      "image": "res://assets/images/nba/p_200768.webp"
     },
     {
       "name": "Zaza Pachulia",
       "subtext": "Center \u2022 Hawks",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2585.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2585.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1988,14 +1988,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_2585.png"
+      "image": "res://assets/images/nba/p_2585.webp"
     },
     {
       "name": "Buck Williams",
       "subtext": "Forward \u2022 Nets",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/433.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/433.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2009,14 +2009,14 @@
       "status": "Retired",
       "from_year": 1981,
       "to_year": 1997,
-      "image": "res://assets/images/nba/p_433.png"
+      "image": "res://assets/images/nba/p_433.webp"
     },
     {
       "name": "Theo Ratliff",
       "subtext": "Center \u2022 76ers",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/689.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/689.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2031,14 +2031,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2010,
-      "image": "res://assets/images/nba/p_689.png"
+      "image": "res://assets/images/nba/p_689.webp"
     },
     {
       "name": "Ben Wallace",
       "subtext": "Forward \u2022 Pistons",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1112.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1112.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2054,14 +2054,14 @@
       "status": "Retired",
       "from_year": 1996,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_1112.png"
+      "image": "res://assets/images/nba/p_1112.webp"
     },
     {
       "name": "Rajon Rondo",
       "subtext": "Guard \u2022 Cavaliers",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200765.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200765.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2076,14 +2076,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_200765.png"
+      "image": "res://assets/images/nba/p_200765.webp"
     },
     {
       "name": "Rod Strickland",
       "subtext": "Guard \u2022 NBA",
       "value": 185.0,
       "display_value": "185 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/393.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/393.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2098,14 +2098,14 @@
       "status": "Retired",
       "from_year": 1988,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_393.png"
+      "image": "res://assets/images/nba/p_393.webp"
     },
     {
       "name": "LaMarcus Aldridge",
       "subtext": "Forward \u2022 Nets",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200746.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200746.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2121,14 +2121,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_200746.png"
+      "image": "res://assets/images/nba/p_200746.webp"
     },
     {
       "name": "Sam Perkins",
       "subtext": "Forward \u2022 Mavericks",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/64.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/64.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2144,14 +2144,14 @@
       "status": "Retired",
       "from_year": 1984,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_64.png"
+      "image": "res://assets/images/nba/p_64.webp"
     },
     {
       "name": "Mark West",
       "subtext": "Center \u2022 NBA",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/770.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/770.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2165,14 +2165,14 @@
       "status": "Retired",
       "from_year": 1983,
       "to_year": 1999,
-      "image": "res://assets/images/nba/p_770.png"
+      "image": "res://assets/images/nba/p_770.webp"
     },
     {
       "name": "Rudy Gay",
       "subtext": "Guard \u2022 Jazz",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2188,14 +2188,14 @@
       "status": "Active",
       "from_year": 2006,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_200752.png"
+      "image": "res://assets/images/nba/p_200752.webp"
     },
     {
       "name": "Joe Smith",
       "subtext": "Forward \u2022 Timberwolves",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/693.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/693.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2211,14 +2211,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2010,
-      "image": "res://assets/images/nba/p_693.png"
+      "image": "res://assets/images/nba/p_693.webp"
     },
     {
       "name": "Vlade Divac",
       "subtext": "Center \u2022 Lakers",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/124.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/124.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2233,14 +2233,14 @@
       "status": "Retired",
       "from_year": 1989,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_124.png"
+      "image": "res://assets/images/nba/p_124.webp"
     },
     {
       "name": "Dale Ellis",
       "subtext": "Guard \u2022 NBA",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/107.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/107.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2254,14 +2254,14 @@
       "status": "Retired",
       "from_year": 1983,
       "to_year": 1999,
-      "image": "res://assets/images/nba/p_107.png"
+      "image": "res://assets/images/nba/p_107.webp"
     },
     {
       "name": "Chris Dudley",
       "subtext": "Center \u2022 Trail Blazers",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2276,14 +2276,14 @@
       "status": "Retired",
       "from_year": 1987,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_201.png"
+      "image": "res://assets/images/nba/p_201.webp"
     },
     {
       "name": "Otis Thorpe",
       "subtext": "Forward \u2022 Rockets",
       "value": 248.0,
       "display_value": "248 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/901.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/901.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2299,14 +2299,14 @@
       "status": "Retired",
       "from_year": 1984,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_901.png"
+      "image": "res://assets/images/nba/p_901.webp"
     },
     {
       "name": "Terry Porter",
       "subtext": "Guard \u2022 Trail Blazers",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/345.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/345.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2321,14 +2321,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_345.png"
+      "image": "res://assets/images/nba/p_345.webp"
     },
     {
       "name": "JR Smith",
       "subtext": "Guard \u2022 Nuggets",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2747.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2747.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2342,14 +2342,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2019,
-      "image": "res://assets/images/nba/p_2747.png"
+      "image": "res://assets/images/nba/p_2747.webp"
     },
     {
       "name": "Lindsey Hunter",
       "subtext": "Guard \u2022 NBA",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/283.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/283.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2363,14 +2363,14 @@
       "status": "Retired",
       "from_year": 1993,
       "to_year": 2009,
-      "image": "res://assets/images/nba/p_283.png"
+      "image": "res://assets/images/nba/p_283.webp"
     },
     {
       "name": "Robert Horry",
       "subtext": "Forward \u2022 Lakers",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/109.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/109.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2385,14 +2385,14 @@
       "status": "Retired",
       "from_year": 1992,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_109.png"
+      "image": "res://assets/images/nba/p_109.webp"
     },
     {
       "name": "Shawn Marion",
       "subtext": "Guard \u2022 Suns",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1890.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1890.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2408,14 +2408,14 @@
       "status": "Retired",
       "from_year": 1999,
       "to_year": 2014,
-      "image": "res://assets/images/nba/p_1890.png"
+      "image": "res://assets/images/nba/p_1890.webp"
     },
     {
       "name": "Alton Lister",
       "subtext": "Forward \u2022 Bucks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/175.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/175.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2430,14 +2430,14 @@
       "status": "Retired",
       "from_year": 1981,
       "to_year": 1997,
-      "image": "res://assets/images/nba/p_175.png"
+      "image": "res://assets/images/nba/p_175.webp"
     },
     {
       "name": "Paul Silas",
       "subtext": "Forward \u2022 Hawks",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78151.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78151.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2450,14 +2450,14 @@
       "status": "Retired",
       "from_year": 1964,
       "to_year": 1979,
-      "image": "res://assets/images/nba/p_78151.png"
+      "image": "res://assets/images/nba/p_78151.webp"
     },
     {
       "name": "Detlef Schrempf",
       "subtext": "Forward \u2022 SuperSonics",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/96.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/96.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2472,14 +2472,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_96.png"
+      "image": "res://assets/images/nba/p_96.webp"
     },
     {
       "name": "A.C. Green",
       "subtext": "Forward \u2022 Lakers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/920.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/920.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2494,14 +2494,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_920.png"
+      "image": "res://assets/images/nba/p_920.webp"
     },
     {
       "name": "Ricky Pierce",
       "subtext": "Guard \u2022 Bucks",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/894.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/894.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2515,14 +2515,14 @@
       "status": "Retired",
       "from_year": 1982,
       "to_year": 1997,
-      "image": "res://assets/images/nba/p_894.png"
+      "image": "res://assets/images/nba/p_894.webp"
     },
     {
       "name": "Antawn Jamison",
       "subtext": "Forward \u2022 NBA",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1712.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1712.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2537,14 +2537,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_1712.png"
+      "image": "res://assets/images/nba/p_1712.webp"
     },
     {
       "name": "Rasheed Wallace",
       "subtext": "Forward \u2022 NBA",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/739.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/739.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2560,14 +2560,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_739.png"
+      "image": "res://assets/images/nba/p_739.webp"
     },
     {
       "name": "Manu Ginobili",
       "subtext": "Guard \u2022 Spurs",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1938.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1938.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2581,14 +2581,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_1938.png"
+      "image": "res://assets/images/nba/p_1938.webp"
     },
     {
       "name": "Dell Curry",
       "subtext": "Guard \u2022 Hornets",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/209.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/209.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2604,14 +2604,14 @@
       "status": "Retired",
       "from_year": 1986,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_209.png"
+      "image": "res://assets/images/nba/p_209.webp"
     },
     {
       "name": "Steve Kerr",
       "subtext": "Guard \u2022 Bulls",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/70.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/70.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2626,14 +2626,14 @@
       "status": "Retired",
       "from_year": 1988,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_70.png"
+      "image": "res://assets/images/nba/p_70.webp"
     },
     {
       "name": "JJ Redick",
       "subtext": "Guard \u2022 76ers",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200755.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200755.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2648,14 +2648,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2020,
-      "image": "res://assets/images/nba/p_200755.png"
+      "image": "res://assets/images/nba/p_200755.webp"
     },
     {
       "name": "Derek Harper",
       "subtext": "Guard \u2022 Mavericks",
       "value": 206.0,
       "display_value": "206 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/157.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/157.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2669,14 +2669,14 @@
       "status": "Retired",
       "from_year": 1983,
       "to_year": 1998,
-      "image": "res://assets/images/nba/p_157.png"
+      "image": "res://assets/images/nba/p_157.webp"
     },
     {
       "name": "Mike Conley",
       "subtext": "Guard \u2022 Timberwolves",
       "value": 175.0,
       "display_value": "175 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2691,14 +2691,14 @@
       "status": "Active",
       "from_year": 2007,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201144.png"
+      "image": "res://assets/images/nba/p_201144.webp"
     },
     {
       "name": "Alonzo Mourning",
       "subtext": "Center \u2022 Heat",
       "value": 261.0,
       "display_value": "261 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/297.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/297.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2712,14 +2712,14 @@
       "status": "Retired",
       "from_year": 1992,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_297.png"
+      "image": "res://assets/images/nba/p_297.webp"
     },
     {
       "name": "Eric Gordon",
       "subtext": "Guard \u2022 Clippers",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2734,14 +2734,14 @@
       "status": "Retired",
       "from_year": 2008,
       "to_year": 2022,
-      "image": "res://assets/images/nba/p_201569.png"
+      "image": "res://assets/images/nba/p_201569.webp"
     },
     {
       "name": "Scott Williams",
       "subtext": "Forward \u2022 NBA",
       "value": 260.0,
       "display_value": "260 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/281.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/281.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2756,14 +2756,14 @@
       "status": "Retired",
       "from_year": 1990,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_281.png"
+      "image": "res://assets/images/nba/p_281.webp"
     },
     {
       "name": "Michael Finley",
       "subtext": "Guard \u2022 Mavericks",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/714.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/714.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2778,14 +2778,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2009,
-      "image": "res://assets/images/nba/p_714.png"
+      "image": "res://assets/images/nba/p_714.webp"
     },
     {
       "name": "CJ Miles",
       "subtext": "Guard \u2022 NBA",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101139.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101139.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2800,14 +2800,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_101139.png"
+      "image": "res://assets/images/nba/p_101139.webp"
     },
     {
       "name": "P.J. Brown",
       "subtext": "Forward \u2022 Hornets",
       "value": 239.0,
       "display_value": "239 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/136.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/136.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2822,14 +2822,14 @@
       "status": "Retired",
       "from_year": 1993,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_136.png"
+      "image": "res://assets/images/nba/p_136.webp"
     },
     {
       "name": "Thaddeus Young",
       "subtext": "Forward \u2022 Raptors",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201152.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201152.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2844,14 +2844,14 @@
       "status": "Active",
       "from_year": 2007,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201152.png"
+      "image": "res://assets/images/nba/p_201152.webp"
     },
     {
       "name": "Tom Chambers",
       "subtext": "Forward \u2022 NBA",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1472.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1472.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2865,14 +2865,14 @@
       "status": "Retired",
       "from_year": 1981,
       "to_year": 1997,
-      "image": "res://assets/images/nba/p_1472.png"
+      "image": "res://assets/images/nba/p_1472.webp"
     },
     {
       "name": "David West",
       "subtext": "Forward \u2022 Hornets",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2561.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2561.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2886,14 +2886,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_2561.png"
+      "image": "res://assets/images/nba/p_2561.webp"
     },
     {
       "name": "Antonio McDyess",
       "subtext": "Forward \u2022 Pistons",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/686.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/686.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2909,14 +2909,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2010,
-      "image": "res://assets/images/nba/p_686.png"
+      "image": "res://assets/images/nba/p_686.webp"
     },
     {
       "name": "Stacey Augmon",
       "subtext": "Guard \u2022 Hawks",
       "value": 213.0,
       "display_value": "213 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/278.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/278.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2931,14 +2931,14 @@
       "status": "Retired",
       "from_year": 1991,
       "to_year": 2005,
-      "image": "res://assets/images/nba/p_278.png"
+      "image": "res://assets/images/nba/p_278.webp"
     },
     {
       "name": "Danny Manning",
       "subtext": "Forward \u2022 NBA",
       "value": 234.0,
       "display_value": "234 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/330.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/330.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2954,14 +2954,14 @@
       "status": "Retired",
       "from_year": 1988,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_330.png"
+      "image": "res://assets/images/nba/p_330.webp"
     },
     {
       "name": "Grant Long",
       "subtext": "Forward \u2022 NBA",
       "value": 240.0,
       "display_value": "240 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/3.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/3.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2976,14 +2976,14 @@
       "status": "Retired",
       "from_year": 1988,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_3.png"
+      "image": "res://assets/images/nba/p_3.webp"
     },
     {
       "name": "Robin Lopez",
       "subtext": "Center \u2022 Cavaliers",
       "value": 281.0,
       "display_value": "281 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201577.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201577.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2998,14 +2998,14 @@
       "status": "Active",
       "from_year": 2008,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201577.png"
+      "image": "res://assets/images/nba/p_201577.webp"
     },
     {
       "name": "Lamar Odom",
       "subtext": "Forward \u2022 Lakers",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1885.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1885.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3020,14 +3020,14 @@
       "status": "Retired",
       "from_year": 1999,
       "to_year": 2013,
-      "image": "res://assets/images/nba/p_1885.png"
+      "image": "res://assets/images/nba/p_1885.webp"
     },
     {
       "name": "Corey Maggette",
       "subtext": "Forward \u2022 Clippers",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1894.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1894.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3042,14 +3042,14 @@
       "status": "Retired",
       "from_year": 1999,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_1894.png"
+      "image": "res://assets/images/nba/p_1894.webp"
     },
     {
       "name": "Doug Christie",
       "subtext": "Guard \u2022 NBA",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/57.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/57.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3064,14 +3064,14 @@
       "status": "Retired",
       "from_year": 1992,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_57.png"
+      "image": "res://assets/images/nba/p_57.webp"
     },
     {
       "name": "Brook Lopez",
       "subtext": "Center \u2022 Bucks",
       "value": 282.0,
       "display_value": "282 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -3086,14 +3086,14 @@
       "status": "Active",
       "from_year": 2008,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201572.png"
+      "image": "res://assets/images/nba/p_201572.webp"
     },
     {
       "name": "JaVale McGee",
       "subtext": "Forward \u2022 Mavericks",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3109,14 +3109,14 @@
       "status": "Active",
       "from_year": 2008,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201580.png"
+      "image": "res://assets/images/nba/p_201580.webp"
     },
     {
       "name": "George Hill",
       "subtext": "Guard \u2022 Pacers",
       "value": 188.0,
       "display_value": "188 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201588.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201588.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3131,14 +3131,14 @@
       "status": "Active",
       "from_year": 2008,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201588.png"
+      "image": "res://assets/images/nba/p_201588.webp"
     },
     {
       "name": "Olden Polynice",
       "subtext": "Forward \u2022 NBA",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/178.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/178.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3154,14 +3154,14 @@
       "status": "Retired",
       "from_year": 1987,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_178.png"
+      "image": "res://assets/images/nba/p_178.webp"
     },
     {
       "name": "Matt Barnes",
       "subtext": "Forward \u2022 Clippers",
       "value": 226.0,
       "display_value": "226 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2440.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2440.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3175,14 +3175,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_2440.png"
+      "image": "res://assets/images/nba/p_2440.webp"
     },
     {
       "name": "Benoit Benjamin",
       "subtext": "Center \u2022 NBA",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/104.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/104.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -3196,14 +3196,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 1999,
-      "image": "res://assets/images/nba/p_104.png"
+      "image": "res://assets/images/nba/p_104.webp"
     },
     {
       "name": "Bo Outlaw",
       "subtext": "Forward \u2022 NBA",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/448.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/448.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3217,14 +3217,14 @@
       "status": "Retired",
       "from_year": 1993,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_448.png"
+      "image": "res://assets/images/nba/p_448.webp"
     },
     {
       "name": "Maurice Cheeks",
       "subtext": "Guard \u2022 76ers",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76385.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76385.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3238,14 +3238,14 @@
       "status": "Retired",
       "from_year": 1978,
       "to_year": 1992,
-      "image": "res://assets/images/nba/p_76385.png"
+      "image": "res://assets/images/nba/p_76385.webp"
     },
     {
       "name": "Richard Hamilton",
       "subtext": "Guard \u2022 Pistons",
       "value": 193.0,
       "display_value": "193 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1888.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1888.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3260,14 +3260,14 @@
       "status": "Retired",
       "from_year": 1999,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_1888.png"
+      "image": "res://assets/images/nba/p_1888.webp"
     },
     {
       "name": "Charles Jones",
       "subtext": "Forward \u2022 Bullets",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/279.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/279.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3282,14 +3282,14 @@
       "status": "Retired",
       "from_year": 1983,
       "to_year": 1997,
-      "image": "res://assets/images/nba/p_279.png"
+      "image": "res://assets/images/nba/p_279.webp"
     },
     {
       "name": "J.J. Barea",
       "subtext": "Guard \u2022 Mavericks",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200826.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200826.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3303,14 +3303,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2019,
-      "image": "res://assets/images/nba/p_200826.png"
+      "image": "res://assets/images/nba/p_200826.webp"
     },
     {
       "name": "Chris Webber",
       "subtext": "Forward \u2022 NBA",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/185.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/185.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3325,14 +3325,14 @@
       "status": "Retired",
       "from_year": 1993,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_185.png"
+      "image": "res://assets/images/nba/p_185.webp"
     },
     {
       "name": "Leandro Barbosa",
       "subtext": "Guard \u2022 Suns",
       "value": 194.0,
       "display_value": "194 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2571.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2571.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3346,14 +3346,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_2571.png"
+      "image": "res://assets/images/nba/p_2571.webp"
     },
     {
       "name": "Dana Barros",
       "subtext": "Guard \u2022 Celtics",
       "value": 165.0,
       "display_value": "165 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/344.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/344.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3368,14 +3368,14 @@
       "status": "Retired",
       "from_year": 1989,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_344.png"
+      "image": "res://assets/images/nba/p_344.webp"
     },
     {
       "name": "Derrick Coleman",
       "subtext": "Forward \u2022 NBA",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/934.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/934.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3389,14 +3389,14 @@
       "status": "Retired",
       "from_year": 1990,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_934.png"
+      "image": "res://assets/images/nba/p_934.webp"
     },
     {
       "name": "Tayshaun Prince",
       "subtext": "Forward \u2022 Pistons",
       "value": 212.0,
       "display_value": "212 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2419.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2419.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3410,14 +3410,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_2419.png"
+      "image": "res://assets/images/nba/p_2419.webp"
     },
     {
       "name": "Jameer Nelson",
       "subtext": "Guard \u2022 Magic",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2749.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2749.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3431,14 +3431,14 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_2749.png"
+      "image": "res://assets/images/nba/p_2749.webp"
     },
     {
       "name": "Amar'e Stoudemire",
       "subtext": "Forward \u2022 Knicks",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2405.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2405.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3453,14 +3453,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_2405.png"
+      "image": "res://assets/images/nba/p_2405.webp"
     },
     {
       "name": "Nick Collison",
       "subtext": "Forward \u2022 Thunder",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2555.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2555.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3475,14 +3475,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2017,
-      "image": "res://assets/images/nba/p_2555.png"
+      "image": "res://assets/images/nba/p_2555.webp"
     },
     {
       "name": "Brad Miller",
       "subtext": "Forward \u2022 Kings",
       "value": 261.0,
       "display_value": "261 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1802.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1802.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3498,14 +3498,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_1802.png"
+      "image": "res://assets/images/nba/p_1802.webp"
     },
     {
       "name": "Jeff Green",
       "subtext": "Forward \u2022 Nuggets",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3520,14 +3520,14 @@
       "status": "Active",
       "from_year": 2007,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201145.png"
+      "image": "res://assets/images/nba/p_201145.webp"
     },
     {
       "name": "David Wingate",
       "subtext": "Guard \u2022 SuperSonics",
       "value": 187.0,
       "display_value": "187 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/766.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/766.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3543,14 +3543,14 @@
       "status": "Retired",
       "from_year": 1986,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_766.png"
+      "image": "res://assets/images/nba/p_766.webp"
     },
     {
       "name": "Walter Davis",
       "subtext": "Guard \u2022 Suns",
       "value": 193.0,
       "display_value": "193 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1453.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1453.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3564,14 +3564,14 @@
       "status": "Retired",
       "from_year": 1977,
       "to_year": 1991,
-      "image": "res://assets/images/nba/p_1453.png"
+      "image": "res://assets/images/nba/p_1453.webp"
     },
     {
       "name": "Eric Piatkowski",
       "subtext": "Guard \u2022 Clippers",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/15.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/15.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3586,14 +3586,14 @@
       "status": "Retired",
       "from_year": 1994,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_15.png"
+      "image": "res://assets/images/nba/p_15.webp"
     },
     {
       "name": "Steven Smith",
       "subtext": "Guard \u2022 Hawks",
       "value": 221.0,
       "display_value": "221 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/120.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/120.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3608,14 +3608,14 @@
       "status": "Retired",
       "from_year": 1991,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_120.png"
+      "image": "res://assets/images/nba/p_120.webp"
     },
     {
       "name": "Ron Harper",
       "subtext": "Guard \u2022 Bulls",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/166.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/166.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3630,14 +3630,14 @@
       "status": "Retired",
       "from_year": 1986,
       "to_year": 2000,
-      "image": "res://assets/images/nba/p_166.png"
+      "image": "res://assets/images/nba/p_166.webp"
     },
     {
       "name": "Boris Diaw",
       "subtext": "Forward \u2022 Spurs",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2564.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2564.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3652,14 +3652,14 @@
       "status": "Retired",
       "from_year": 2003,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_2564.png"
+      "image": "res://assets/images/nba/p_2564.webp"
     },
     {
       "name": "Brian Shaw",
       "subtext": "Guard \u2022 Lakers",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/216.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/216.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3674,14 +3674,14 @@
       "status": "Retired",
       "from_year": 1988,
       "to_year": 2002,
-      "image": "res://assets/images/nba/p_216.png"
+      "image": "res://assets/images/nba/p_216.webp"
     },
     {
       "name": "Brent Barry",
       "subtext": "Guard \u2022 SuperSonics",
       "value": 210.0,
       "display_value": "210 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/699.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/699.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3695,14 +3695,14 @@
       "status": "Retired",
       "from_year": 1995,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_699.png"
+      "image": "res://assets/images/nba/p_699.webp"
     },
     {
       "name": "Thabo Sefolosha",
       "subtext": "Guard \u2022 Thunder",
       "value": 215.0,
       "display_value": "215 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200757.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200757.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3717,14 +3717,14 @@
       "status": "Retired",
       "from_year": 2006,
       "to_year": 2019,
-      "image": "res://assets/images/nba/p_200757.png"
+      "image": "res://assets/images/nba/p_200757.webp"
     },
     {
       "name": "Joe Kleine",
       "subtext": "Center \u2022 NBA",
       "value": 255.0,
       "display_value": "255 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/170.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/170.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -3738,14 +3738,14 @@
       "status": "Retired",
       "from_year": 1985,
       "to_year": 1999,
-      "image": "res://assets/images/nba/p_170.png"
+      "image": "res://assets/images/nba/p_170.webp"
     },
     {
       "name": "Adrian Dantley",
       "subtext": "Forward \u2022 Jazz",
       "value": 208.0,
       "display_value": "208 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76504.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76504.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3759,14 +3759,14 @@
       "status": "Retired",
       "from_year": 1976,
       "to_year": 1990,
-      "image": "res://assets/images/nba/p_76504.png"
+      "image": "res://assets/images/nba/p_76504.webp"
     },
     {
       "name": "Raymond Felton",
       "subtext": "Guard \u2022 Bobcats",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101109.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101109.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3780,14 +3780,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_101109.png"
+      "image": "res://assets/images/nba/p_101109.webp"
     },
     {
       "name": "Hedo Turkoglu",
       "subtext": "Forward \u2022 Magic",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2045.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2045.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3801,14 +3801,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2014,
-      "image": "res://assets/images/nba/p_2045.png"
+      "image": "res://assets/images/nba/p_2045.webp"
     },
     {
       "name": "Jose Calderon",
       "subtext": "Guard \u2022 Raptors",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101181.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101181.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3822,14 +3822,14 @@
       "status": "Retired",
       "from_year": 2005,
       "to_year": 2018,
-      "image": "res://assets/images/nba/p_101181.png"
+      "image": "res://assets/images/nba/p_101181.webp"
     },
     {
       "name": "Chris Andersen",
       "subtext": "Forward \u2022 NBA",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2365.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2365.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3844,14 +3844,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_2365.png"
+      "image": "res://assets/images/nba/p_2365.webp"
     },
     {
       "name": "Gerald Wallace",
       "subtext": "Forward \u2022 Bobcats",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2222.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2222.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3865,14 +3865,14 @@
       "status": "Retired",
       "from_year": 2001,
       "to_year": 2014,
-      "image": "res://assets/images/nba/p_2222.png"
+      "image": "res://assets/images/nba/p_2222.webp"
     },
     {
       "name": "Mike Bibby",
       "subtext": "Guard \u2022 Kings",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1710.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1710.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3887,14 +3887,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_1710.png"
+      "image": "res://assets/images/nba/p_1710.webp"
     },
     {
       "name": "Brad Davis",
       "subtext": "Guard \u2022 Mavericks",
       "value": 180.0,
       "display_value": "180 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76516.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76516.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3908,14 +3908,14 @@
       "status": "Retired",
       "from_year": 1977,
       "to_year": 1991,
-      "image": "res://assets/images/nba/p_76516.png"
+      "image": "res://assets/images/nba/p_76516.webp"
     },
     {
       "name": "Nicolas Batum",
       "subtext": "Guard \u2022 Clippers",
       "value": 230.0,
       "display_value": "230 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3931,14 +3931,14 @@
       "status": "Active",
       "from_year": 2008,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_201587.png"
+      "image": "res://assets/images/nba/p_201587.webp"
     },
     {
       "name": "Derrick McKey",
       "subtext": "Forward \u2022 Pacers",
       "value": 241.0,
       "display_value": "241 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/365.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/365.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3953,14 +3953,14 @@
       "status": "Retired",
       "from_year": 1987,
       "to_year": 2001,
-      "image": "res://assets/images/nba/p_365.png"
+      "image": "res://assets/images/nba/p_365.webp"
     },
     {
       "name": "Alex English",
       "subtext": "Forward \u2022 Nuggets",
       "value": 190.0,
       "display_value": "190 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76673.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/76673.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3974,14 +3974,14 @@
       "status": "Retired",
       "from_year": 1976,
       "to_year": 1990,
-      "image": "res://assets/images/nba/p_76673.png"
+      "image": "res://assets/images/nba/p_76673.webp"
     },
     {
       "name": "LaSalle Thompson",
       "subtext": "Center \u2022 NBA",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/78.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -3995,14 +3995,14 @@
       "status": "Retired",
       "from_year": 1982,
       "to_year": 1996,
-      "image": "res://assets/images/nba/p_78.png"
+      "image": "res://assets/images/nba/p_78.webp"
     },
     {
       "name": "Drew Gooden",
       "subtext": "Forward \u2022 Cavaliers",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2400.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2400.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4016,14 +4016,14 @@
       "status": "Retired",
       "from_year": 2002,
       "to_year": 2015,
-      "image": "res://assets/images/nba/p_2400.png"
+      "image": "res://assets/images/nba/p_2400.webp"
     },
     {
       "name": "Glen Rice",
       "subtext": "Guard \u2022 NBA",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/779.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/779.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -4039,14 +4039,14 @@
       "status": "Retired",
       "from_year": 1989,
       "to_year": 2003,
-      "image": "res://assets/images/nba/p_779.png"
+      "image": "res://assets/images/nba/p_779.webp"
     },
     {
       "name": "David Wesley",
       "subtext": "Guard \u2022 Hornets",
       "value": 203.0,
       "display_value": "203 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/133.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/133.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4060,14 +4060,14 @@
       "status": "Retired",
       "from_year": 1993,
       "to_year": 2006,
-      "image": "res://assets/images/nba/p_133.png"
+      "image": "res://assets/images/nba/p_133.webp"
     },
     {
       "name": "Quentin Richardson",
       "subtext": "Forward \u2022 Clippers",
       "value": 228.0,
       "display_value": "228 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2047.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2047.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4081,14 +4081,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_2047.png"
+      "image": "res://assets/images/nba/p_2047.webp"
     },
     {
       "name": "Clar. Weatherspoon",
       "subtext": "Forward \u2022 76ers",
       "value": 270.0,
       "display_value": "270 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/221.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/221.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4102,14 +4102,14 @@
       "status": "Retired",
       "from_year": 1992,
       "to_year": 2004,
-      "image": "res://assets/images/nba/p_221.png"
+      "image": "res://assets/images/nba/p_221.webp"
     },
     {
       "name": "Bill Laimbeer",
       "subtext": "Center \u2022 Pistons",
       "value": 245.0,
       "display_value": "245 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/100263.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/100263.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -4123,14 +4123,14 @@
       "status": "Retired",
       "from_year": 1980,
       "to_year": 1993,
-      "image": "res://assets/images/nba/p_100263.png"
+      "image": "res://assets/images/nba/p_100263.webp"
     },
     {
       "name": "Peja Stojakovic",
       "subtext": "Forward \u2022 Kings",
       "value": 229.0,
       "display_value": "229 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/978.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/978.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4145,14 +4145,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2010,
-      "image": "res://assets/images/nba/p_978.png"
+      "image": "res://assets/images/nba/p_978.webp"
     },
     {
       "name": "Bernard King",
       "subtext": "Forward \u2022 Bullets",
       "value": 205.0,
       "display_value": "205 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77264.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/77264.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4166,14 +4166,14 @@
       "status": "Retired",
       "from_year": 1977,
       "to_year": 1992,
-      "image": "res://assets/images/nba/p_77264.png"
+      "image": "res://assets/images/nba/p_77264.webp"
     },
     {
       "name": "Mikki Moore",
       "subtext": "Forward \u2022 Pistons",
       "value": 225.0,
       "display_value": "225 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -4189,14 +4189,14 @@
       "status": "Retired",
       "from_year": 1998,
       "to_year": 2011,
-      "image": "res://assets/images/nba/p_1630.png"
+      "image": "res://assets/images/nba/p_1630.webp"
     },
     {
       "name": "Aaron Williams",
       "subtext": "Forward \u2022 NBA",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1425.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1425.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -4211,14 +4211,14 @@
       "status": "Retired",
       "from_year": 1993,
       "to_year": 2007,
-      "image": "res://assets/images/nba/p_1425.png"
+      "image": "res://assets/images/nba/p_1425.webp"
     },
     {
       "name": "Bruce Bowen",
       "subtext": "Forward \u2022 Spurs",
       "value": 200.0,
       "display_value": "200 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1477.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1477.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4232,14 +4232,14 @@
       "status": "Retired",
       "from_year": 1996,
       "to_year": 2008,
-      "image": "res://assets/images/nba/p_1477.png"
+      "image": "res://assets/images/nba/p_1477.webp"
     },
     {
       "name": "Bob Lanier",
       "subtext": "Center \u2022 Pistons",
       "value": 250.0,
       "display_value": "250 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600005.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/600005.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -4252,14 +4252,14 @@
       "status": "Retired",
       "from_year": 1970,
       "to_year": 1983,
-      "image": "res://assets/images/nba/p_600005.png"
+      "image": "res://assets/images/nba/p_600005.webp"
     },
     {
       "name": "Marco Belinelli",
       "subtext": "Guard \u2022 Spurs",
       "value": 220.0,
       "display_value": "220 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201158.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201158.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4273,14 +4273,14 @@
       "status": "Retired",
       "from_year": 2007,
       "to_year": 2019,
-      "image": "res://assets/images/nba/p_201158.png"
+      "image": "res://assets/images/nba/p_201158.webp"
     },
     {
       "name": "Keyon Dooling",
       "subtext": "Guard \u2022 Clippers",
       "value": 195.0,
       "display_value": "195 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2039.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2039.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4294,14 +4294,14 @@
       "status": "Retired",
       "from_year": 2000,
       "to_year": 2012,
-      "image": "res://assets/images/nba/p_2039.png"
+      "image": "res://assets/images/nba/p_2039.webp"
     },
     {
       "name": "Kris Humphries",
       "subtext": "Forward \u2022 Nets",
       "value": 235.0,
       "display_value": "235 lbs",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2743.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2743.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -4315,7 +4315,7 @@
       "status": "Retired",
       "from_year": 2004,
       "to_year": 2016,
-      "image": "res://assets/images/nba/p_2743.png"
+      "image": "res://assets/images/nba/p_2743.webp"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "prompt": "Who had the HIGHER Overall Draft Pick Number (Drafted Later)?",
   "unit": "pick",
   "value_format": "Pick #{value}",
-  "icon": "res://assets/icons/trophy.png",
+  "icon": "res://assets/icons/trophy.webp",
   "theme_color": "#DA70D6",
   "items": [
     {
@@ -15,7 +15,7 @@
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 37,
       "display_value": "Pick #37",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630702.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630702.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -28,14 +28,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630702.png"
+      "image": "res://assets/images/nba/p_1630702.webp"
     },
     {
       "name": "Blake Wesley",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 25,
       "display_value": "Pick #25",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -48,14 +48,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631104.png"
+      "image": "res://assets/images/nba/p_1631104.webp"
     },
     {
       "name": "J.D. Davison",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 53,
       "display_value": "Pick #53",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -68,14 +68,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631120.png"
+      "image": "res://assets/images/nba/p_1631120.webp"
     },
     {
       "name": "Andrew Nembhard",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 31,
       "display_value": "Pick #31",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -89,14 +89,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629614.png"
+      "image": "res://assets/images/nba/p_1629614.webp"
     },
     {
       "name": "Paolo Banchero",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 1,
       "display_value": "Pick #1",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -109,14 +109,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631094.png"
+      "image": "res://assets/images/nba/p_1631094.webp"
     },
     {
       "name": "Ochai Agbaji",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 14,
       "display_value": "Pick #14",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -129,14 +129,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630534.png"
+      "image": "res://assets/images/nba/p_1630534.webp"
     },
     {
       "name": "Dalen Terry",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 18,
       "display_value": "Pick #18",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -149,14 +149,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631207.png"
+      "image": "res://assets/images/nba/p_1631207.webp"
     },
     {
       "name": "Wendell Moore Jr.",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 26,
       "display_value": "Pick #26",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631111.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631111.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -169,14 +169,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631111.png"
+      "image": "res://assets/images/nba/p_1631111.webp"
     },
     {
       "name": "Vince Williams Jr.",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 47,
       "display_value": "Pick #47",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631246.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631246.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -189,14 +189,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631246.png"
+      "image": "res://assets/images/nba/p_1631246.webp"
     },
     {
       "name": "Jake LaRavia",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 19,
       "display_value": "Pick #19",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631222.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631222.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -209,14 +209,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631222.png"
+      "image": "res://assets/images/nba/p_1631222.webp"
     },
     {
       "name": "Chet Holmgren",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 2,
       "display_value": "Pick #2",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -230,14 +230,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631096.png"
+      "image": "res://assets/images/nba/p_1631096.webp"
     },
     {
       "name": "Trevor Keels",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 42,
       "display_value": "Pick #42",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631211.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631211.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -250,14 +250,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631211.png"
+      "image": "res://assets/images/nba/p_1631211.webp"
     },
     {
       "name": "Tyrese Martin",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 51,
       "display_value": "Pick #51",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631213.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631213.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -270,14 +270,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631213.png"
+      "image": "res://assets/images/nba/p_1631213.webp"
     },
     {
       "name": "Jalen Duren",
       "subtext": "Center \u2022 Draft Class 2022",
       "value": 13,
       "display_value": "Pick #13",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -290,14 +290,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631105.png"
+      "image": "res://assets/images/nba/p_1631105.webp"
     },
     {
       "name": "AJ Griffin",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 16,
       "display_value": "Pick #16",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631100.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631100.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -310,14 +310,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631100.png"
+      "image": "res://assets/images/nba/p_1631100.webp"
     },
     {
       "name": "Kendall Brown",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 48,
       "display_value": "Pick #48",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631112.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631112.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -330,14 +330,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631112.png"
+      "image": "res://assets/images/nba/p_1631112.webp"
     },
     {
       "name": "Jaden Ivey",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 5,
       "display_value": "Pick #5",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631093.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631093.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -350,14 +350,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631093.png"
+      "image": "res://assets/images/nba/p_1631093.webp"
     },
     {
       "name": "David Roddy",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 23,
       "display_value": "Pick #23",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631223.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631223.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -370,14 +370,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631223.png"
+      "image": "res://assets/images/nba/p_1631223.webp"
     },
     {
       "name": "MarJon Beauchamp",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 24,
       "display_value": "Pick #24",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -390,14 +390,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630699.png"
+      "image": "res://assets/images/nba/p_1630699.webp"
     },
     {
       "name": "Jabari Smith Jr.",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 3,
       "display_value": "Pick #3",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631095.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631095.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -410,14 +410,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631095.png"
+      "image": "res://assets/images/nba/p_1631095.webp"
     },
     {
       "name": "Walker Kessler",
       "subtext": "Center \u2022 Draft Class 2022",
       "value": 22,
       "display_value": "Pick #22",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -430,14 +430,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631117.png"
+      "image": "res://assets/images/nba/p_1631117.webp"
     },
     {
       "name": "Bennedict Mathurin",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 6,
       "display_value": "Pick #6",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631097.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631097.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -451,14 +451,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631097.png"
+      "image": "res://assets/images/nba/p_1631097.webp"
     },
     {
       "name": "Isaiah Mobley",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 49,
       "display_value": "Pick #49",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630600.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630600.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -471,14 +471,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630600.png"
+      "image": "res://assets/images/nba/p_1630600.webp"
     },
     {
       "name": "Peyton Watson",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 30,
       "display_value": "Pick #30",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -491,14 +491,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631212.png"
+      "image": "res://assets/images/nba/p_1631212.webp"
     },
     {
       "name": "Shaedon Sharpe",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 7,
       "display_value": "Pick #7",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -511,14 +511,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631101.png"
+      "image": "res://assets/images/nba/p_1631101.webp"
     },
     {
       "name": "E.J. Liddell",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 41,
       "display_value": "Pick #41",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630604.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630604.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -531,14 +531,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630604.png"
+      "image": "res://assets/images/nba/p_1630604.webp"
     },
     {
       "name": "TyTy Washington Jr.",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 29,
       "display_value": "Pick #29",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631102.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631102.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -551,14 +551,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631102.png"
+      "image": "res://assets/images/nba/p_1631102.webp"
     },
     {
       "name": "Ryan Rollins",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 44,
       "display_value": "Pick #44",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631157.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631157.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -571,14 +571,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631157.png"
+      "image": "res://assets/images/nba/p_1631157.webp"
     },
     {
       "name": "Patrick Baldwin Jr.",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 28,
       "display_value": "Pick #28",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631116.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631116.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -591,14 +591,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631116.png"
+      "image": "res://assets/images/nba/p_1631116.webp"
     },
     {
       "name": "Jaylin Williams",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 34,
       "display_value": "Pick #34",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631119.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631119.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -611,14 +611,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631119.png"
+      "image": "res://assets/images/nba/p_1631119.webp"
     },
     {
       "name": "Mark Williams",
       "subtext": "Center \u2022 Draft Class 2022",
       "value": 15,
       "display_value": "Pick #15",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -631,14 +631,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631109.png"
+      "image": "res://assets/images/nba/p_1631109.webp"
     },
     {
       "name": "Bryce McGowens",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 40,
       "display_value": "Pick #40",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631121.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631121.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -651,14 +651,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631121.png"
+      "image": "res://assets/images/nba/p_1631121.webp"
     },
     {
       "name": "Jabari Walker",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 57,
       "display_value": "Pick #57",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631133.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631133.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -671,14 +671,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631133.png"
+      "image": "res://assets/images/nba/p_1631133.webp"
     },
     {
       "name": "Jalen Williams",
       "subtext": "Guard \u2022 Draft Class 2022",
       "value": 12,
       "display_value": "Pick #12",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -692,14 +692,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631114.png"
+      "image": "res://assets/images/nba/p_1631114.webp"
     },
     {
       "name": "Jeremy Sochan",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 9,
       "display_value": "Pick #9",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -712,14 +712,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631110.png"
+      "image": "res://assets/images/nba/p_1631110.webp"
     },
     {
       "name": "Malaki Branham",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 20,
       "display_value": "Pick #20",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -732,14 +732,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631103.png"
+      "image": "res://assets/images/nba/p_1631103.webp"
     },
     {
       "name": "Ousmane Dieng",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 11,
       "display_value": "Pick #11",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -752,14 +752,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631172.png"
+      "image": "res://assets/images/nba/p_1631172.webp"
     },
     {
       "name": "Tari Eason",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 17,
       "display_value": "Pick #17",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631106.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631106.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -772,14 +772,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631106.png"
+      "image": "res://assets/images/nba/p_1631106.webp"
     },
     {
       "name": "Keegan Murray",
       "subtext": "Forward \u2022 Draft Class 2022",
       "value": 4,
       "display_value": "Pick #4",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -792,14 +792,14 @@
       "status": "Active",
       "from_year": 2022,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1631099.png"
+      "image": "res://assets/images/nba/p_1631099.webp"
     },
     {
       "name": "Tre Mann",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 18,
       "display_value": "Pick #18",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -812,14 +812,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630544.png"
+      "image": "res://assets/images/nba/p_1630544.webp"
     },
     {
       "name": "Ziaire Williams",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 10,
       "display_value": "Pick #10",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -832,14 +832,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630533.png"
+      "image": "res://assets/images/nba/p_1630533.webp"
     },
     {
       "name": "Santi Aldama",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 30,
       "display_value": "Pick #30",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630583.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630583.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -853,14 +853,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630583.png"
+      "image": "res://assets/images/nba/p_1630583.webp"
     },
     {
       "name": "Jalen Suggs",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 5,
       "display_value": "Pick #5",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -873,14 +873,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630591.png"
+      "image": "res://assets/images/nba/p_1630591.webp"
     },
     {
       "name": "Bones Hyland",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 26,
       "display_value": "Pick #26",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -893,14 +893,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630538.png"
+      "image": "res://assets/images/nba/p_1630538.webp"
     },
     {
       "name": "Jalen Green",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 2,
       "display_value": "Pick #2",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -913,14 +913,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630224.png"
+      "image": "res://assets/images/nba/p_1630224.webp"
     },
     {
       "name": "Jason Preston",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 33,
       "display_value": "Pick #33",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630554.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630554.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -933,14 +933,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630554.png"
+      "image": "res://assets/images/nba/p_1630554.webp"
     },
     {
       "name": "Moses Moody",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 14,
       "display_value": "Pick #14",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630541.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630541.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -953,14 +953,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630541.png"
+      "image": "res://assets/images/nba/p_1630541.webp"
     },
     {
       "name": "Jericho Sims",
       "subtext": "Center \u2022 Draft Class 2021",
       "value": 58,
       "display_value": "Pick #58",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -973,14 +973,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630579.png"
+      "image": "res://assets/images/nba/p_1630579.webp"
     },
     {
       "name": "Day'Ron Sharpe",
       "subtext": "Center \u2022 Draft Class 2021",
       "value": 29,
       "display_value": "Pick #29",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630549.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630549.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -993,14 +993,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630549.png"
+      "image": "res://assets/images/nba/p_1630549.webp"
     },
     {
       "name": "Cam Thomas",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 27,
       "display_value": "Pick #27",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1013,14 +1013,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630560.png"
+      "image": "res://assets/images/nba/p_1630560.webp"
     },
     {
       "name": "Scottie Barnes",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 4,
       "display_value": "Pick #4",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1033,14 +1033,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630567.png"
+      "image": "res://assets/images/nba/p_1630567.webp"
     },
     {
       "name": "James Bouknight",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 11,
       "display_value": "Pick #11",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630547.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630547.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1053,14 +1053,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630547.png"
+      "image": "res://assets/images/nba/p_1630547.webp"
     },
     {
       "name": "Cade Cunningham",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 1,
       "display_value": "Pick #1",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1073,14 +1073,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630595.png"
+      "image": "res://assets/images/nba/p_1630595.webp"
     },
     {
       "name": "Chris Duarte",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 13,
       "display_value": "Pick #13",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630537.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630537.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1093,14 +1093,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630537.png"
+      "image": "res://assets/images/nba/p_1630537.webp"
     },
     {
       "name": "Josh Christopher",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 24,
       "display_value": "Pick #24",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1113,14 +1113,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630528.png"
+      "image": "res://assets/images/nba/p_1630528.webp"
     },
     {
       "name": "Davion Mitchell",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 9,
       "display_value": "Pick #9",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1133,14 +1133,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630558.png"
+      "image": "res://assets/images/nba/p_1630558.webp"
     },
     {
       "name": "Evan Mobley",
       "subtext": "Center \u2022 Draft Class 2021",
       "value": 3,
       "display_value": "Pick #3",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1153,14 +1153,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630596.png"
+      "image": "res://assets/images/nba/p_1630596.webp"
     },
     {
       "name": "Aaron Wiggins",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 55,
       "display_value": "Pick #55",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630598.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630598.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1173,14 +1173,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630598.png"
+      "image": "res://assets/images/nba/p_1630598.webp"
     },
     {
       "name": "JT Thor",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 37,
       "display_value": "Pick #37",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630550.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630550.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1193,14 +1193,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630550.png"
+      "image": "res://assets/images/nba/p_1630550.webp"
     },
     {
       "name": "Trey Murphy III",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 17,
       "display_value": "Pick #17",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630530.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630530.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1213,14 +1213,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630530.png"
+      "image": "res://assets/images/nba/p_1630530.webp"
     },
     {
       "name": "Kessler Edwards",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 44,
       "display_value": "Pick #44",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630556.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630556.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1233,14 +1233,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630556.png"
+      "image": "res://assets/images/nba/p_1630556.webp"
     },
     {
       "name": "Franz Wagner",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 8,
       "display_value": "Pick #8",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1253,14 +1253,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630532.png"
+      "image": "res://assets/images/nba/p_1630532.webp"
     },
     {
       "name": "Herbert Jones",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 35,
       "display_value": "Pick #35",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1273,14 +1273,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630529.png"
+      "image": "res://assets/images/nba/p_1630529.webp"
     },
     {
       "name": "Joe Wieskamp",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 41,
       "display_value": "Pick #41",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630580.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630580.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1294,14 +1294,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630580.png"
+      "image": "res://assets/images/nba/p_1630580.webp"
     },
     {
       "name": "Dalano Banton",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 46,
       "display_value": "Pick #46",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630625.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630625.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1314,14 +1314,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630625.png"
+      "image": "res://assets/images/nba/p_1630625.webp"
     },
     {
       "name": "Charles Bassey",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 53,
       "display_value": "Pick #53",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1335,14 +1335,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629646.png"
+      "image": "res://assets/images/nba/p_1629646.webp"
     },
     {
       "name": "Luka Garza",
       "subtext": "Center \u2022 Draft Class 2021",
       "value": 52,
       "display_value": "Pick #52",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630568.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630568.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1355,14 +1355,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630568.png"
+      "image": "res://assets/images/nba/p_1630568.webp"
     },
     {
       "name": "Neemias Queta",
       "subtext": "Center \u2022 Draft Class 2021",
       "value": 39,
       "display_value": "Pick #39",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1375,14 +1375,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629674.png"
+      "image": "res://assets/images/nba/p_1629674.webp"
     },
     {
       "name": "Corey Kispert",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 15,
       "display_value": "Pick #15",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630557.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630557.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1395,14 +1395,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630557.png"
+      "image": "res://assets/images/nba/p_1630557.webp"
     },
     {
       "name": "Josh Giddey",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 6,
       "display_value": "Pick #6",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1415,14 +1415,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630581.png"
+      "image": "res://assets/images/nba/p_1630581.webp"
     },
     {
       "name": "Jaden Springer",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 28,
       "display_value": "Pick #28",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1435,14 +1435,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630531.png"
+      "image": "res://assets/images/nba/p_1630531.webp"
     },
     {
       "name": "Miles McBride",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 36,
       "display_value": "Pick #36",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1455,14 +1455,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630540.png"
+      "image": "res://assets/images/nba/p_1630540.webp"
     },
     {
       "name": "Brandon Boston Jr.",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 51,
       "display_value": "Pick #51",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1475,14 +1475,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630527.png"
+      "image": "res://assets/images/nba/p_1630527.webp"
     },
     {
       "name": "Sandro Mamukelashvili",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 54,
       "display_value": "Pick #54",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630572.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630572.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -1496,14 +1496,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630572.png"
+      "image": "res://assets/images/nba/p_1630572.webp"
     },
     {
       "name": "Jeremiah Robinson-Earl",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 32,
       "display_value": "Pick #32",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630526.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630526.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1516,14 +1516,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630526.png"
+      "image": "res://assets/images/nba/p_1630526.webp"
     },
     {
       "name": "Quentin Grimes",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 25,
       "display_value": "Pick #25",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629656.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629656.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1536,14 +1536,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629656.png"
+      "image": "res://assets/images/nba/p_1629656.webp"
     },
     {
       "name": "Isaiah Livers",
       "subtext": "Forward \u2022 Draft Class 2021",
       "value": 42,
       "display_value": "Pick #42",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630587.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630587.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1556,14 +1556,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630587.png"
+      "image": "res://assets/images/nba/p_1630587.webp"
     },
     {
       "name": "Keon Johnson",
       "subtext": "Guard \u2022 Draft Class 2021",
       "value": 21,
       "display_value": "Pick #21",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1576,14 +1576,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630553.png"
+      "image": "res://assets/images/nba/p_1630553.webp"
     },
     {
       "name": "Obi Toppin",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 8,
       "display_value": "Pick #8",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1596,14 +1596,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630167.png"
+      "image": "res://assets/images/nba/p_1630167.webp"
     },
     {
       "name": "Desmond Bane",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 30,
       "display_value": "Pick #30",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1616,14 +1616,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630217.png"
+      "image": "res://assets/images/nba/p_1630217.webp"
     },
     {
       "name": "Malachi Flynn",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 29,
       "display_value": "Pick #29",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630201.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630201.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1636,14 +1636,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630201.png"
+      "image": "res://assets/images/nba/p_1630201.webp"
     },
     {
       "name": "Deni Avdija",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 9,
       "display_value": "Pick #9",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1656,14 +1656,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630166.png"
+      "image": "res://assets/images/nba/p_1630166.webp"
     },
     {
       "name": "Immanuel Quickley",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 25,
       "display_value": "Pick #25",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1676,14 +1676,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630193.png"
+      "image": "res://assets/images/nba/p_1630193.webp"
     },
     {
       "name": "Devin Vassell",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 11,
       "display_value": "Pick #11",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1697,14 +1697,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630170.png"
+      "image": "res://assets/images/nba/p_1630170.webp"
     },
     {
       "name": "Theo Maledon",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 34,
       "display_value": "Pick #34",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630177.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630177.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1717,14 +1717,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630177.png"
+      "image": "res://assets/images/nba/p_1630177.webp"
     },
     {
       "name": "Anthony Edwards",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 1,
       "display_value": "Pick #1",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1737,14 +1737,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630162.png"
+      "image": "res://assets/images/nba/p_1630162.webp"
     },
     {
       "name": "Vernon Carey Jr.",
       "subtext": "Center \u2022 Draft Class 2020",
       "value": 32,
       "display_value": "Pick #32",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630176.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630176.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1757,14 +1757,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630176.png"
+      "image": "res://assets/images/nba/p_1630176.webp"
     },
     {
       "name": "Josh Green",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 18,
       "display_value": "Pick #18",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1777,14 +1777,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630182.png"
+      "image": "res://assets/images/nba/p_1630182.webp"
     },
     {
       "name": "Vit Krejci",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 37,
       "display_value": "Pick #37",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630249.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630249.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1797,14 +1797,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630249.png"
+      "image": "res://assets/images/nba/p_1630249.webp"
     },
     {
       "name": "James Wiseman",
       "subtext": "Center \u2022 Draft Class 2020",
       "value": 2,
       "display_value": "Pick #2",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1817,14 +1817,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630164.png"
+      "image": "res://assets/images/nba/p_1630164.webp"
     },
     {
       "name": "Jordan Nwora",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 45,
       "display_value": "Pick #45",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629670.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629670.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1837,14 +1837,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629670.png"
+      "image": "res://assets/images/nba/p_1629670.webp"
     },
     {
       "name": "Aleksej Pokusevski",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 17,
       "display_value": "Pick #17",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630197.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630197.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1857,14 +1857,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630197.png"
+      "image": "res://assets/images/nba/p_1630197.webp"
     },
     {
       "name": "Killian Hayes",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 7,
       "display_value": "Pick #7",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630165.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630165.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1877,14 +1877,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630165.png"
+      "image": "res://assets/images/nba/p_1630165.webp"
     },
     {
       "name": "Precious Achiuwa",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 20,
       "display_value": "Pick #20",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1897,14 +1897,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630173.png"
+      "image": "res://assets/images/nba/p_1630173.webp"
     },
     {
       "name": "Patrick Williams",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 4,
       "display_value": "Pick #4",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630172.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630172.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -1917,14 +1917,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630172.png"
+      "image": "res://assets/images/nba/p_1630172.webp"
     },
     {
       "name": "Sam Merrill",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 60,
       "display_value": "Pick #60",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630241.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630241.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1937,14 +1937,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630241.png"
+      "image": "res://assets/images/nba/p_1630241.webp"
     },
     {
       "name": "Kira Lewis Jr.",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 13,
       "display_value": "Pick #13",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630184.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630184.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -1957,14 +1957,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630184.png"
+      "image": "res://assets/images/nba/p_1630184.webp"
     },
     {
       "name": "Marko Simonovic",
       "subtext": "Center \u2022 Draft Class 2020",
       "value": 44,
       "display_value": "Pick #44",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630250.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630250.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -1977,14 +1977,14 @@
       "status": "Active",
       "from_year": 2021,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630250.png"
+      "image": "res://assets/images/nba/p_1630250.webp"
     },
     {
       "name": "Aaron Nesmith",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 14,
       "display_value": "Pick #14",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630174.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630174.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -1998,14 +1998,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630174.png"
+      "image": "res://assets/images/nba/p_1630174.webp"
     },
     {
       "name": "LaMelo Ball",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 3,
       "display_value": "Pick #3",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2018,14 +2018,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630163.png"
+      "image": "res://assets/images/nba/p_1630163.webp"
     },
     {
       "name": "Isaiah Stewart",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 16,
       "display_value": "Pick #16",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2039,14 +2039,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630191.png"
+      "image": "res://assets/images/nba/p_1630191.webp"
     },
     {
       "name": "Payton Pritchard",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 26,
       "display_value": "Pick #26",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2059,14 +2059,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630202.png"
+      "image": "res://assets/images/nba/p_1630202.webp"
     },
     {
       "name": "Zeke Nnaji",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 22,
       "display_value": "Pick #22",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2080,14 +2080,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630192.png"
+      "image": "res://assets/images/nba/p_1630192.webp"
     },
     {
       "name": "Tyrese Haliburton",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 12,
       "display_value": "Pick #12",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2100,14 +2100,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630169.png"
+      "image": "res://assets/images/nba/p_1630169.webp"
     },
     {
       "name": "Kenyon Martin Jr.",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 52,
       "display_value": "Pick #52",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2120,14 +2120,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630231.png"
+      "image": "res://assets/images/nba/p_1630231.webp"
     },
     {
       "name": "Paul Reed",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 58,
       "display_value": "Pick #58",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630194.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630194.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2140,14 +2140,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630194.png"
+      "image": "res://assets/images/nba/p_1630194.webp"
     },
     {
       "name": "Jalen Smith",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 10,
       "display_value": "Pick #10",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2161,14 +2161,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630188.png"
+      "image": "res://assets/images/nba/p_1630188.webp"
     },
     {
       "name": "Jaden McDaniels",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 28,
       "display_value": "Pick #28",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2181,14 +2181,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630183.png"
+      "image": "res://assets/images/nba/p_1630183.webp"
     },
     {
       "name": "Cole Anthony",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 15,
       "display_value": "Pick #15",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2201,14 +2201,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630175.png"
+      "image": "res://assets/images/nba/p_1630175.webp"
     },
     {
       "name": "Saddiq Bey",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 19,
       "display_value": "Pick #19",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2221,14 +2221,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630180.png"
+      "image": "res://assets/images/nba/p_1630180.webp"
     },
     {
       "name": "Tyrese Maxey",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 21,
       "display_value": "Pick #21",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2241,14 +2241,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630178.png"
+      "image": "res://assets/images/nba/p_1630178.webp"
     },
     {
       "name": "Nick Richards",
       "subtext": "Center \u2022 Draft Class 2020",
       "value": 42,
       "display_value": "Pick #42",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630208.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630208.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2261,14 +2261,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630208.png"
+      "image": "res://assets/images/nba/p_1630208.webp"
     },
     {
       "name": "Isaac Okoro",
       "subtext": "Guard \u2022 Draft Class 2020",
       "value": 5,
       "display_value": "Pick #5",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2282,14 +2282,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630171.png"
+      "image": "res://assets/images/nba/p_1630171.webp"
     },
     {
       "name": "Udoka Azubuike",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 27,
       "display_value": "Pick #27",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2303,14 +2303,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628962.png"
+      "image": "res://assets/images/nba/p_1628962.webp"
     },
     {
       "name": "Xavier Tillman",
       "subtext": "Forward \u2022 Draft Class 2020",
       "value": 35,
       "display_value": "Pick #35",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2323,14 +2323,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1630214.png"
+      "image": "res://assets/images/nba/p_1630214.webp"
     },
     {
       "name": "RJ Barrett",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 3,
       "display_value": "Pick #3",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2345,14 +2345,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629628.png"
+      "image": "res://assets/images/nba/p_1629628.webp"
     },
     {
       "name": "Bol Bol",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 44,
       "display_value": "Pick #44",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2367,14 +2367,14 @@
       "status": "Retired",
       "from_year": 2019,
       "to_year": 2022,
-      "image": "res://assets/images/nba/p_1629626.png"
+      "image": "res://assets/images/nba/p_1629626.webp"
     },
     {
       "name": "De'Andre Hunter",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 4,
       "display_value": "Pick #4",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2389,14 +2389,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629631.png"
+      "image": "res://assets/images/nba/p_1629631.webp"
     },
     {
       "name": "Coby White",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 7,
       "display_value": "Pick #7",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2410,14 +2410,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629632.png"
+      "image": "res://assets/images/nba/p_1629632.webp"
     },
     {
       "name": "Bruno Fernando",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 34,
       "display_value": "Pick #34",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628981.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628981.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2432,14 +2432,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628981.png"
+      "image": "res://assets/images/nba/p_1628981.webp"
     },
     {
       "name": "Cody Martin",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 36,
       "display_value": "Pick #36",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2453,14 +2453,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628998.png"
+      "image": "res://assets/images/nba/p_1628998.webp"
     },
     {
       "name": "Luka Samanic",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 19,
       "display_value": "Pick #19",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629677.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629677.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2474,14 +2474,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629677.png"
+      "image": "res://assets/images/nba/p_1629677.webp"
     },
     {
       "name": "Ty Jerome",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 24,
       "display_value": "Pick #24",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2496,14 +2496,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629660.png"
+      "image": "res://assets/images/nba/p_1629660.webp"
     },
     {
       "name": "Goga Bitadze",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 18,
       "display_value": "Pick #18",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2518,14 +2518,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629048.png"
+      "image": "res://assets/images/nba/p_1629048.webp"
     },
     {
       "name": "Cam Reddish",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 10,
       "display_value": "Pick #10",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629629.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629629.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2540,14 +2540,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629629.png"
+      "image": "res://assets/images/nba/p_1629629.webp"
     },
     {
       "name": "Jordan Poole",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 28,
       "display_value": "Pick #28",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2561,14 +2561,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629673.png"
+      "image": "res://assets/images/nba/p_1629673.webp"
     },
     {
       "name": "Brandon Clarke",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 21,
       "display_value": "Pick #21",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2582,14 +2582,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629634.png"
+      "image": "res://assets/images/nba/p_1629634.webp"
     },
     {
       "name": "Zion Williamson",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 1,
       "display_value": "Pick #1",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2603,14 +2603,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629627.png"
+      "image": "res://assets/images/nba/p_1629627.webp"
     },
     {
       "name": "Matisse Thybulle",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 20,
       "display_value": "Pick #20",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2625,14 +2625,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629680.png"
+      "image": "res://assets/images/nba/p_1629680.webp"
     },
     {
       "name": "Grant Williams",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 22,
       "display_value": "Pick #22",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2646,14 +2646,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629684.png"
+      "image": "res://assets/images/nba/p_1629684.webp"
     },
     {
       "name": "Cameron Johnson",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 11,
       "display_value": "Pick #11",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2667,14 +2667,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629661.png"
+      "image": "res://assets/images/nba/p_1629661.webp"
     },
     {
       "name": "Rui Hachimura",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 9,
       "display_value": "Pick #9",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2688,14 +2688,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629060.png"
+      "image": "res://assets/images/nba/p_1629060.webp"
     },
     {
       "name": "Romeo Langford",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 14,
       "display_value": "Pick #14",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629641.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629641.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2710,14 +2710,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629641.png"
+      "image": "res://assets/images/nba/p_1629641.webp"
     },
     {
       "name": "Darius Bazley",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 23,
       "display_value": "Pick #23",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629647.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629647.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2731,14 +2731,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629647.png"
+      "image": "res://assets/images/nba/p_1629647.webp"
     },
     {
       "name": "Daniel Gafford",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 38,
       "display_value": "Pick #38",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2753,14 +2753,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629655.png"
+      "image": "res://assets/images/nba/p_1629655.webp"
     },
     {
       "name": "Admiral Schofield",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 42,
       "display_value": "Pick #42",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629678.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629678.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2774,14 +2774,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629678.png"
+      "image": "res://assets/images/nba/p_1629678.webp"
     },
     {
       "name": "Mfiondu Kabengele",
       "subtext": "Center \u2022 Draft Class 2019",
       "value": 27,
       "display_value": "Pick #27",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629662.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629662.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2795,14 +2795,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629662.png"
+      "image": "res://assets/images/nba/p_1629662.webp"
     },
     {
       "name": "Keldon Johnson",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 29,
       "display_value": "Pick #29",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2817,14 +2817,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629640.png"
+      "image": "res://assets/images/nba/p_1629640.webp"
     },
     {
       "name": "Kevin Porter Jr.",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 30,
       "display_value": "Pick #30",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2839,14 +2839,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629645.png"
+      "image": "res://assets/images/nba/p_1629645.webp"
     },
     {
       "name": "Chuma Okeke",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 16,
       "display_value": "Pick #16",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2859,14 +2859,14 @@
       "status": "Active",
       "from_year": 2020,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629643.png"
+      "image": "res://assets/images/nba/p_1629643.webp"
     },
     {
       "name": "Dylan Windler",
       "subtext": "Guard \u2022 Draft Class 2019",
       "value": 26,
       "display_value": "Pick #26",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629685.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629685.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -2881,14 +2881,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629685.png"
+      "image": "res://assets/images/nba/p_1629685.webp"
     },
     {
       "name": "Isaiah Roby",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 45,
       "display_value": "Pick #45",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629676.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629676.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2902,14 +2902,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629676.png"
+      "image": "res://assets/images/nba/p_1629676.webp"
     },
     {
       "name": "P.J. Washington",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 12,
       "display_value": "Pick #12",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -2923,14 +2923,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629023.png"
+      "image": "res://assets/images/nba/p_1629023.webp"
     },
     {
       "name": "Jalen McDaniels",
       "subtext": "Forward \u2022 Draft Class 2019",
       "value": 52,
       "display_value": "Pick #52",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629667.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629667.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -2945,14 +2945,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629667.png"
+      "image": "res://assets/images/nba/p_1629667.webp"
     },
     {
       "name": "Nic Claxton",
       "subtext": "Center \u2022 Draft Class 2019",
       "value": 31,
       "display_value": "Pick #31",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -2966,14 +2966,14 @@
       "status": "Active",
       "from_year": 2019,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629651.png"
+      "image": "res://assets/images/nba/p_1629651.webp"
     },
     {
       "name": "Josh Okogie",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 20,
       "display_value": "Pick #20",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -2987,14 +2987,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629006.png"
+      "image": "res://assets/images/nba/p_1629006.webp"
     },
     {
       "name": "Moritz Wagner",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 25,
       "display_value": "Pick #25",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3009,14 +3009,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629021.png"
+      "image": "res://assets/images/nba/p_1629021.webp"
     },
     {
       "name": "Mitchell Robinson",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 36,
       "display_value": "Pick #36",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3031,14 +3031,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629011.png"
+      "image": "res://assets/images/nba/p_1629011.webp"
     },
     {
       "name": "Alize Johnson",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 50,
       "display_value": "Pick #50",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628993.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628993.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3052,14 +3052,14 @@
       "status": "Retired",
       "from_year": 2018,
       "to_year": 2022,
-      "image": "res://assets/images/nba/p_1628993.png"
+      "image": "res://assets/images/nba/p_1628993.webp"
     },
     {
       "name": "Jevon Carter",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 32,
       "display_value": "Pick #32",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628975.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628975.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3073,14 +3073,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628975.png"
+      "image": "res://assets/images/nba/p_1628975.webp"
     },
     {
       "name": "Wendell Carter Jr.",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 7,
       "display_value": "Pick #7",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3095,14 +3095,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628976.png"
+      "image": "res://assets/images/nba/p_1628976.webp"
     },
     {
       "name": "Michael Porter Jr.",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 14,
       "display_value": "Pick #14",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3116,14 +3116,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629008.png"
+      "image": "res://assets/images/nba/p_1629008.webp"
     },
     {
       "name": "Donte DiVincenzo",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 17,
       "display_value": "Pick #17",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3137,14 +3137,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628978.png"
+      "image": "res://assets/images/nba/p_1628978.webp"
     },
     {
       "name": "Jaren Jackson Jr.",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 4,
       "display_value": "Pick #4",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3159,14 +3159,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628991.png"
+      "image": "res://assets/images/nba/p_1628991.webp"
     },
     {
       "name": "Miles Bridges",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 12,
       "display_value": "Pick #12",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628970.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628970.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3180,14 +3180,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628970.png"
+      "image": "res://assets/images/nba/p_1628970.webp"
     },
     {
       "name": "Shake Milton",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 54,
       "display_value": "Pick #54",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629003.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629003.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3202,14 +3202,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629003.png"
+      "image": "res://assets/images/nba/p_1629003.webp"
     },
     {
       "name": "Trae Young",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 5,
       "display_value": "Pick #5",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3223,14 +3223,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629027.png"
+      "image": "res://assets/images/nba/p_1629027.webp"
     },
     {
       "name": "Mikal Bridges",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 10,
       "display_value": "Pick #10",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3245,14 +3245,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628969.png"
+      "image": "res://assets/images/nba/p_1628969.webp"
     },
     {
       "name": "Chimezie Metu",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 49,
       "display_value": "Pick #49",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629002.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629002.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3267,14 +3267,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629002.png"
+      "image": "res://assets/images/nba/p_1629002.webp"
     },
     {
       "name": "Robert Williams III",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 27,
       "display_value": "Pick #27",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3289,14 +3289,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629057.png"
+      "image": "res://assets/images/nba/p_1629057.webp"
     },
     {
       "name": "Grayson Allen",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 21,
       "display_value": "Pick #21",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3310,14 +3310,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628960.png"
+      "image": "res://assets/images/nba/p_1628960.webp"
     },
     {
       "name": "Anfernee Simons",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 24,
       "display_value": "Pick #24",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3331,14 +3331,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629014.png"
+      "image": "res://assets/images/nba/p_1629014.webp"
     },
     {
       "name": "Collin Sexton",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 8,
       "display_value": "Pick #8",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3352,14 +3352,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629012.png"
+      "image": "res://assets/images/nba/p_1629012.webp"
     },
     {
       "name": "De'Anthony Melton",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 46,
       "display_value": "Pick #46",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3373,14 +3373,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629001.png"
+      "image": "res://assets/images/nba/p_1629001.webp"
     },
     {
       "name": "Luka Doncic",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 3,
       "display_value": "Pick #3",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3395,14 +3395,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/luka_doncic.png"
+      "image": "res://assets/images/nba/luka_doncic.webp"
     },
     {
       "name": "Lonnie Walker IV",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 18,
       "display_value": "Pick #18",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3417,14 +3417,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629022.png"
+      "image": "res://assets/images/nba/p_1629022.webp"
     },
     {
       "name": "Hamidou Diallo",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 45,
       "display_value": "Pick #45",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628977.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628977.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3438,14 +3438,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628977.png"
+      "image": "res://assets/images/nba/p_1628977.webp"
     },
     {
       "name": "Svi Mykhailiuk",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 47,
       "display_value": "Pick #47",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3460,14 +3460,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629004.png"
+      "image": "res://assets/images/nba/p_1629004.webp"
     },
     {
       "name": "Deandre Ayton",
       "subtext": "Center \u2022 Draft Class 2018",
       "value": 1,
       "display_value": "Pick #1",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.webp",
       "position": "Center",
       "positions": [
         "Center"
@@ -3481,14 +3481,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629028.png"
+      "image": "res://assets/images/nba/p_1629028.webp"
     },
     {
       "name": "Kevin Knox II",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 9,
       "display_value": "Pick #9",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3502,14 +3502,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628995.png"
+      "image": "res://assets/images/nba/p_1628995.webp"
     },
     {
       "name": "Gary Trent Jr.",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 37,
       "display_value": "Pick #37",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3524,14 +3524,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629018.png"
+      "image": "res://assets/images/nba/p_1629018.webp"
     },
     {
       "name": "Marvin Bagley III",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 2,
       "display_value": "Pick #2",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3545,14 +3545,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628963.png"
+      "image": "res://assets/images/nba/p_1628963.webp"
     },
     {
       "name": "Keita Bates-Diop",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 48,
       "display_value": "Pick #48",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628966.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628966.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3566,14 +3566,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628966.png"
+      "image": "res://assets/images/nba/p_1628966.webp"
     },
     {
       "name": "Jarred Vanderbilt",
       "subtext": "Forward \u2022 Draft Class 2018",
       "value": 41,
       "display_value": "Pick #41",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3587,14 +3587,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629020.png"
+      "image": "res://assets/images/nba/p_1629020.webp"
     },
     {
       "name": "Landry Shamet",
       "subtext": "Guard \u2022 Draft Class 2018",
       "value": 26,
       "display_value": "Pick #26",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3608,14 +3608,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1629013.png"
+      "image": "res://assets/images/nba/p_1629013.webp"
     },
     {
       "name": "Edmond Sumner",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 52,
       "display_value": "Pick #52",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628410.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628410.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3629,14 +3629,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628410.png"
+      "image": "res://assets/images/nba/p_1628410.webp"
     },
     {
       "name": "Semi Ojeleye",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 37,
       "display_value": "Pick #37",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628400.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628400.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3650,14 +3650,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_1628400.png"
+      "image": "res://assets/images/nba/p_1628400.webp"
     },
     {
       "name": "Josh Jackson",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 4,
       "display_value": "Pick #4",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628367.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628367.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3672,14 +3672,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_1628367.png"
+      "image": "res://assets/images/nba/p_1628367.webp"
     },
     {
       "name": "O.G. Anunoby",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 23,
       "display_value": "Pick #23",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3693,14 +3693,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628384.png"
+      "image": "res://assets/images/nba/p_1628384.webp"
     },
     {
       "name": "Frank Ntilikina",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 8,
       "display_value": "Pick #8",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628373.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628373.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3714,14 +3714,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628373.png"
+      "image": "res://assets/images/nba/p_1628373.webp"
     },
     {
       "name": "D.J. Wilson",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 17,
       "display_value": "Pick #17",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628391.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628391.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3735,14 +3735,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_1628391.png"
+      "image": "res://assets/images/nba/p_1628391.webp"
     },
     {
       "name": "Sterling Brown",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 46,
       "display_value": "Pick #46",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628425.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628425.webp",
       "position": "Guard",
       "positions": [
         "Guard",
@@ -3757,14 +3757,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2022,
-      "image": "res://assets/images/nba/p_1628425.png"
+      "image": "res://assets/images/nba/p_1628425.webp"
     },
     {
       "name": "Dennis Smith Jr.",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 9,
       "display_value": "Pick #9",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628372.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628372.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3778,14 +3778,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628372.png"
+      "image": "res://assets/images/nba/p_1628372.webp"
     },
     {
       "name": "Derrick White",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 29,
       "display_value": "Pick #29",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3799,14 +3799,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628401.png"
+      "image": "res://assets/images/nba/p_1628401.webp"
     },
     {
       "name": "Jonathan Isaac",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 6,
       "display_value": "Pick #6",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3820,14 +3820,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628371.png"
+      "image": "res://assets/images/nba/p_1628371.webp"
     },
     {
       "name": "Thomas Bryant",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 42,
       "display_value": "Pick #42",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3842,14 +3842,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628418.png"
+      "image": "res://assets/images/nba/p_1628418.webp"
     },
     {
       "name": "Frank Mason III",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 34,
       "display_value": "Pick #34",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628412.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628412.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3863,14 +3863,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2020,
-      "image": "res://assets/images/nba/p_1628412.png"
+      "image": "res://assets/images/nba/p_1628412.webp"
     },
     {
       "name": "Lauri Markkanen",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 7,
       "display_value": "Pick #7",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3885,14 +3885,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628374.png"
+      "image": "res://assets/images/nba/p_1628374.webp"
     },
     {
       "name": "Isaiah Hartenstein",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 43,
       "display_value": "Pick #43",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -3907,14 +3907,14 @@
       "status": "Active",
       "from_year": 2018,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628392.png"
+      "image": "res://assets/images/nba/p_1628392.webp"
     },
     {
       "name": "Donovan Mitchell",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 13,
       "display_value": "Pick #13",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3928,14 +3928,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628378.png"
+      "image": "res://assets/images/nba/p_1628378.webp"
     },
     {
       "name": "Sindarius Thornwell",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 48,
       "display_value": "Pick #48",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628414.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628414.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3949,14 +3949,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2020,
-      "image": "res://assets/images/nba/p_1628414.png"
+      "image": "res://assets/images/nba/p_1628414.webp"
     },
     {
       "name": "Jordan Bell",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 38,
       "display_value": "Pick #38",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628395.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628395.webp",
       "position": "Forward",
       "positions": [
         "Forward"
@@ -3970,14 +3970,14 @@
       "status": "Retired",
       "from_year": 2017,
       "to_year": 2021,
-      "image": "res://assets/images/nba/p_1628395.png"
+      "image": "res://assets/images/nba/p_1628395.webp"
     },
     {
       "name": "Monte Morris",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 51,
       "display_value": "Pick #51",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -3991,14 +3991,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628420.png"
+      "image": "res://assets/images/nba/p_1628420.webp"
     },
     {
       "name": "John Collins",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 19,
       "display_value": "Pick #19",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -4013,14 +4013,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628381.png"
+      "image": "res://assets/images/nba/p_1628381.webp"
     },
     {
       "name": "Zach Collins",
       "subtext": "Forward \u2022 Draft Class 2017",
       "value": 10,
       "display_value": "Pick #10",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.webp",
       "position": "Forward",
       "positions": [
         "Forward",
@@ -4035,14 +4035,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628380.png"
+      "image": "res://assets/images/nba/p_1628380.webp"
     },
     {
       "name": "De'Aaron Fox",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 5,
       "display_value": "Pick #5",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4056,14 +4056,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628368.png"
+      "image": "res://assets/images/nba/p_1628368.webp"
     },
     {
       "name": "Lonzo Ball",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 2,
       "display_value": "Pick #2",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4077,14 +4077,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628366.png"
+      "image": "res://assets/images/nba/p_1628366.webp"
     },
     {
       "name": "Markelle Fultz",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 1,
       "display_value": "Pick #1",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4098,14 +4098,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628365.png"
+      "image": "res://assets/images/nba/p_1628365.webp"
     },
     {
       "name": "Luke Kennard",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 12,
       "display_value": "Pick #12",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628379.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628379.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4119,14 +4119,14 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628379.png"
+      "image": "res://assets/images/nba/p_1628379.webp"
     },
     {
       "name": "Josh Hart",
       "subtext": "Guard \u2022 Draft Class 2017",
       "value": 30,
       "display_value": "Pick #30",
-      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png",
+      "image_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.webp",
       "position": "Guard",
       "positions": [
         "Guard"
@@ -4140,7 +4140,7 @@
       "status": "Active",
       "from_year": 2017,
       "to_year": 2023,
-      "image": "res://assets/images/nba/p_1628404.png"
+      "image": "res://assets/images/nba/p_1628404.webp"
     }
   ]
 }

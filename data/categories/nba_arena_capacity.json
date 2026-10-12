@@ -7,7 +7,7 @@
   "prompt": "Which NBA team plays in the LARGER Arena (Seating Capacity)?",
   "unit": "seats",
   "value_format": "{value} Seats",
-  "icon": "res://assets/icons/trophy.png",
+  "icon": "res://assets/icons/trophy.webp",
   "theme_color": "#FF6347",
   "items": [
     {
@@ -19,7 +19,7 @@
       "conference": "Eastern",
       "division": "Central",
       "team": "Bulls",
-      "image": "res://assets/images/nba/team_1610612741.png"
+      "image": "res://assets/images/nba/team_1610612741.webp"
     },
     {
       "name": "Cleveland Cavaliers",
@@ -30,7 +30,7 @@
       "conference": "Eastern",
       "division": "Central",
       "team": "Cavaliers",
-      "image": "res://assets/images/nba/team_1610612739.png"
+      "image": "res://assets/images/nba/team_1610612739.webp"
     },
     {
       "name": "Portland Trail Blazers",
@@ -41,7 +41,7 @@
       "conference": "Western",
       "division": "Northwest",
       "team": "Trail Blazers",
-      "image": "res://assets/images/nba/team_1610612757.png"
+      "image": "res://assets/images/nba/team_1610612757.webp"
     },
     {
       "name": "New York Knicks",
@@ -52,7 +52,7 @@
       "conference": "Eastern",
       "division": "Atlantic",
       "team": "Knicks",
-      "image": "res://assets/images/nba/team_1610612752.png"
+      "image": "res://assets/images/nba/team_1610612752.webp"
     },
     {
       "name": "Miami Heat",
@@ -63,7 +63,7 @@
       "conference": "Eastern",
       "division": "Southeast",
       "team": "Heat",
-      "image": "res://assets/images/nba/team_1610612748.png"
+      "image": "res://assets/images/nba/team_1610612748.webp"
     },
     {
       "name": "Minnesota Timberwolves",
@@ -74,7 +74,7 @@
       "conference": "Western",
       "division": "Northwest",
       "team": "Timberwolves",
-      "image": "res://assets/images/nba/team_1610612750.png"
+      "image": "res://assets/images/nba/team_1610612750.webp"
     },
     {
       "name": "Dallas Mavericks",
@@ -85,7 +85,7 @@
       "conference": "Western",
       "division": "Southwest",
       "team": "Mavericks",
-      "image": "res://assets/images/nba/team_1610612742.png"
+      "image": "res://assets/images/nba/team_1610612742.webp"
     },
     {
       "name": "Los Angeles Clippers",
@@ -96,7 +96,7 @@
       "conference": "Western",
       "division": "Pacific",
       "team": "Clippers",
-      "image": "res://assets/images/nba/team_1610612746.png"
+      "image": "res://assets/images/nba/team_1610612746.webp"
     },
     {
       "name": "Los Angeles Lakers",
@@ -107,7 +107,7 @@
       "conference": "Western",
       "division": "Pacific",
       "team": "Lakers",
-      "image": "res://assets/images/nba/team_1610612747.png"
+      "image": "res://assets/images/nba/team_1610612747.webp"
     },
     {
       "name": "Atlanta Hawks",
@@ -118,7 +118,7 @@
       "conference": "Eastern",
       "division": "Southeast",
       "team": "Hawks",
-      "image": "res://assets/images/nba/team_1610612737.png"
+      "image": "res://assets/images/nba/team_1610612737.webp"
     },
     {
       "name": "Boston Celtics",
@@ -129,7 +129,7 @@
       "conference": "Eastern",
       "division": "Atlantic",
       "team": "Celtics",
-      "image": "res://assets/images/nba/team_1610612738.png"
+      "image": "res://assets/images/nba/team_1610612738.webp"
     },
     {
       "name": "Indiana Pacers",
@@ -140,7 +140,7 @@
       "conference": "Eastern",
       "division": "Central",
       "team": "Pacers",
-      "image": "res://assets/images/nba/team_1610612754.png"
+      "image": "res://assets/images/nba/team_1610612754.webp"
     },
     {
       "name": "Memphis Grizzlies",
@@ -151,7 +151,7 @@
       "conference": "Western",
       "division": "Southwest",
       "team": "Grizzlies",
-      "image": "res://assets/images/nba/team_1610612763.png"
+      "image": "res://assets/images/nba/team_1610612763.webp"
     },
     {
       "name": "Houston Rockets",
@@ -162,7 +162,7 @@
       "conference": "Western",
       "division": "Southwest",
       "team": "Rockets",
-      "image": "res://assets/images/nba/team_1610612745.png"
+      "image": "res://assets/images/nba/team_1610612745.webp"
     },
     {
       "name": "Milwaukee Bucks",
@@ -173,7 +173,7 @@
       "conference": "Eastern",
       "division": "Central",
       "team": "Bucks",
-      "image": "res://assets/images/nba/team_1610612749.png"
+      "image": "res://assets/images/nba/team_1610612749.webp"
     },
     {
       "name": "Sacramento Kings",
@@ -184,7 +184,7 @@
       "conference": "Western",
       "division": "Pacific",
       "team": "Kings",
-      "image": "res://assets/images/nba/team_1610612758.png"
+      "image": "res://assets/images/nba/team_1610612758.webp"
     }
   ]
 }

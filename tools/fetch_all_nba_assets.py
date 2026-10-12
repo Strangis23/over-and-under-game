@@ -49,8 +49,8 @@ def process_image(img_bytes, dest_path, target_size=(360, 450)):
             y_offset = (new_h - target_size[1]) // 2
             im_cropped = im_resized.crop((0, y_offset, target_size[0], y_offset + target_size[1]))
 
-        # Optimize PNG output
-        im_cropped.save(dest_path, "PNG", optimize=True)
+        # Optimize WebP output
+        im_cropped.save(dest_path, "WEBP", quality=82, method=6)
         return True
     except Exception as e:
         print(f"Error processing image for {dest_path}: {e}")
@@ -82,7 +82,7 @@ def generate_fallback_avatar(name, team, dest_path, target_size=(360, 450)):
         # Draw initials
         draw.text((cx, cy), initials, fill=(255, 255, 255, 255), anchor="mm")
         
-        im.save(dest_path, "PNG", optimize=True)
+        im.save(dest_path, "WEBP", quality=82, method=6)
         return True
     except Exception as e:
         print(f"Fallback generation error for {name}: {e}")
@@ -114,21 +114,21 @@ def fetch_single_item(item):
     clean_name = name.lower().replace(" ", "_").replace(".", "").replace("-", "_").replace("'", "")
     
     # 1. Determine target filename
-    m_player = re.search(r"/(\d+)\.png", url)
+    m_player = re.search(r"/(\d+)\.(png|webp)", url)
     m_team = re.search(r"/nba/(\d+)/", url)
     
     if m_player:
-        filename = f"p_{m_player.group(1)}.png"
+        filename = f"p_{m_player.group(1)}.webp"
     elif m_team:
-        filename = f"team_{m_team.group(1)}.png"
+        filename = f"team_{m_team.group(1)}.webp"
     else:
-        filename = f"{clean_name}.png"
+        filename = f"{clean_name}.webp"
         
     dest_path = os.path.join(ASSETS_DIR, filename)
     
     # Check if named version already exists
-    if os.path.exists(os.path.join(ASSETS_DIR, f"{clean_name}.png")):
-        return (name, f"res://assets/images/nba/{clean_name}.png", True)
+    if os.path.exists(os.path.join(ASSETS_DIR, f"{clean_name}.webp")):
+        return (name, f"res://assets/images/nba/{clean_name}.webp", True)
         
     if os.path.exists(dest_path):
         return (name, f"res://assets/images/nba/{filename}", True)

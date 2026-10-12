@@ -98,28 +98,31 @@ func _resolve_local_image_path(item: Dictionary) -> String:
 	var url: String = item.get("image_url", "")
 	var clean_name: String = item_name.to_lower().replace(" ", "_").replace(".", "").replace("-", "_").replace("'", "")
 
-	# Check named asset
-	var name_cand = "res://assets/images/nba/%s.png" % clean_name
-	if ResourceLoader.exists(name_cand):
-		return name_cand
+	# Check named asset (.webp prioritized, then .png)
+	for ext in [".webp", ".png"]:
+		var name_cand = "res://assets/images/nba/%s%s" % [clean_name, ext]
+		if ResourceLoader.exists(name_cand):
+			return name_cand
 
-	# Check player headshot by ID (e.g., .../1717.png -> p_1717.png)
-	if url.ends_with(".png"):
+	# Check player headshot by ID (e.g., .../1717.png -> p_1717.webp)
+	if url.ends_with(".png") or url.ends_with(".webp"):
 		var fname = url.get_file()
 		var pid = fname.get_basename()
-		var p_cand = "res://assets/images/nba/p_%s.png" % pid
-		if ResourceLoader.exists(p_cand):
-			return p_cand
+		for ext in [".webp", ".png"]:
+			var p_cand = "res://assets/images/nba/p_%s%s" % [pid, ext]
+			if ResourceLoader.exists(p_cand):
+				return p_cand
 
-	# Check team logo by ID (e.g., .../nba/1610612738/... -> team_1610612738.png)
+	# Check team logo by ID (e.g., .../nba/1610612738/... -> team_1610612738.webp)
 	if "/nba/" in url:
 		var parts = url.split("/")
 		for i in range(parts.size()):
 			if parts[i] == "nba" and i + 1 < parts.size():
 				var tid = parts[i + 1]
-				var t_cand = "res://assets/images/nba/team_%s.png" % tid
-				if ResourceLoader.exists(t_cand):
-					return t_cand
+				for ext in [".webp", ".png"]:
+					var t_cand = "res://assets/images/nba/team_%s%s" % [tid, ext]
+					if ResourceLoader.exists(t_cand):
+						return t_cand
 
 	return ""
 
