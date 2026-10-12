@@ -50,18 +50,11 @@ jobs:
             sed -i 's|<head>|<head><script src="coi-serviceworker.js"></script>|' build/web/index.html
           fi
 
-      - name: Deploy to GitHub Pages Branch (gh-pages)
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build/web
-          force_orphan: true
-
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./build/web
 
-      - name: Deploy to GitHub Pages (Official)
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
